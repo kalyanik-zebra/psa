@@ -1,0 +1,2001 @@
+id,location name,lat,lon,experience,addresstype,police_station_nearby,is_crowdy,crime_records_severe,safety_level
+1,Peshwe Udyan Zoo,18.503622,73.851932,Scenic and tranquil,,FALSE,TRUE,FALSE,3
+2,Shinde Chhatri,18.491631,73.89727,Very spiritual and peaceful,,FALSE,TRUE,FALSE,1
+3,Rajiv Gandhi Zoological Park,18.452488,73.860802,Developing area,,TRUE,TRUE,FALSE,3
+4,Empress Garden,49.1492362,-123.1361026,Rich historical significance,,TRUE,FALSE,TRUE,3
+5,Saras Baug,19.0442668,72.91493416,Amazing variety of animals,,FALSE,FALSE,FALSE,2
+6,Hong Kong Lane,53.4614615,-1.465858428,Very spiritual and peaceful,,FALSE,TRUE,TRUE,3
+7,Tathawade Park,18.49330855,73.82731827,Beautiful garden with a serene atmosphere,,TRUE,TRUE,TRUE,3
+8,Peshwe Udyan Zoo,18.503622,73.851932,Very spiritual and peaceful,,TRUE,TRUE,TRUE,3
+9,Shaniwar Wada,18.51938255,73.85535656,Family-friendly,,TRUE,FALSE,TRUE,3
+10,Mahatma Phule Mandai,18.5129178,73.85629517,Busy and bustling,,TRUE,FALSE,TRUE,1
+11,Saras Baug,19.0442668,72.91493416,Busy and bustling,,TRUE,FALSE,TRUE,1
+12,Bund Garden,18.5405933,73.8834394,Rich historical significance,,FALSE,FALSE,FALSE,3
+13,Kasba Ganpati Temple,18.5153055,73.8477706,Well-connected,,FALSE,TRUE,TRUE,1
+14,Tathawade Park,18.49330855,73.82731827,Scenic and tranquil,,FALSE,FALSE,TRUE,1
+15,Empress Garden,49.1492362,-123.1361026,Beautiful garden with a serene atmosphere,,TRUE,TRUE,TRUE,1
+16,Lal Mahal,26.9925078,77.5890115,Developing area,,TRUE,FALSE,FALSE,5
+17,Shinde Chhatri,18.491631,73.89727,Very spiritual and peaceful,,TRUE,TRUE,FALSE,4
+18,Sambhaji Park,18.5206664,73.8472146,Great for shopping,,TRUE,TRUE,TRUE,2
+19,Rajiv Gandhi Zoological Park,18.452488,73.860802,Very spiritual and peaceful,,FALSE,TRUE,TRUE,4
+20,Osho Ashram,18.5369163,73.88860148,Rich historical significance,,FALSE,FALSE,TRUE,4
+21,Shunyo Park,18.536615,73.890137,Rich historical significance,,FALSE,TRUE,TRUE,1
+22,Peshwe Udyan Zoo,18.503622,73.851932,Beautiful garden with a serene atmosphere,,TRUE,TRUE,TRUE,4
+23,Chaturshringi Temple,18.533342,73.829956,Family-friendly,,TRUE,TRUE,TRUE,2
+24,Parvati Hill Temple,18.497601,73.847099,Family-friendly,,FALSE,FALSE,FALSE,3
+25,Pataleshwar Cave Temple,18.5269463,73.8498456,Very spiritual and peaceful,,FALSE,FALSE,TRUE,2
+26,Kamala Nehru Park,18.95502,72.80506346,Busy and bustling,,FALSE,FALSE,FALSE,3
+27,Shinde Chhatri,18.491631,73.89727,Developing area,,FALSE,FALSE,TRUE,2
+28,Shinde Chhatri,18.491631,73.89727,Well-connected,,FALSE,FALSE,FALSE,4
+29,Mulshi Lake and Dam,18.530325,73.51121,Great for shopping,,FALSE,FALSE,TRUE,1
+30,Pataleshwar Cave Temple,18.5269463,73.8498456,Rich historical significance,,FALSE,TRUE,TRUE,5
+31,Hong Kong Lane,53.4614615,-1.465858428,Very spiritual and peaceful,,TRUE,TRUE,TRUE,3
+32,Saras Baug,19.0442668,72.91493416,Beautiful garden with a serene atmosphere,,TRUE,TRUE,TRUE,2
+33,Vishrambaug Wada,18.5138486,73.8534275,Developing area,,TRUE,TRUE,TRUE,2
+34,Tulsi Baug,21.13907265,79.11063485,Beautiful garden with a serene atmosphere,,TRUE,TRUE,TRUE,4
+35,Mulshi Lake and Dam,18.530325,73.51121,Great for shopping,,FALSE,TRUE,FALSE,1
+36,Sambhaji Park,18.5206664,73.8472146,Well-connected,,FALSE,FALSE,FALSE,3
+37,Osho Ashram,18.5369163,73.88860148,Scenic and tranquil,,FALSE,TRUE,FALSE,3
+38,Empress Garden,49.1492362,-123.1361026,Rich historical significance,,TRUE,FALSE,TRUE,3
+39,Peshwa Udyan,18.503622,73.851932,Very spiritual and peaceful,,TRUE,TRUE,FALSE,4
+40,Tulsi Baug,21.13907265,79.11063485,Beautiful garden with a serene atmosphere,,TRUE,FALSE,FALSE,1
+41,Saras Baug,19.0442668,72.91493416,Family-friendly,,TRUE,FALSE,FALSE,2
+42,Sinhagad Fort,18.36472045,73.75751103,Well-connected,,TRUE,FALSE,TRUE,3
+43,Peshwa Udyan,18.503622,73.851932,Busy and bustling,,FALSE,FALSE,FALSE,2
+44,Lal Mahal,26.9925078,77.5890115,Busy and bustling,,TRUE,TRUE,TRUE,3
+45,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Very spiritual and peaceful,,TRUE,FALSE,TRUE,5
+46,Chaturshringi Temple,18.533342,73.829956,Developing area,,FALSE,TRUE,TRUE,1
+47,Pune Okayama Friendship Garden,18.4910844,73.8381503,Family-friendly,,TRUE,TRUE,TRUE,5
+48,Kasba Ganpati Temple,18.5153055,73.8477706,Very spiritual and peaceful,,TRUE,TRUE,TRUE,5
+49,Mahatma Phule Mandai,18.5129178,73.85629517,Family-friendly,,TRUE,TRUE,FALSE,3
+50,Rajiv Gandhi Zoological Park,18.452488,73.860802,Very spiritual and peaceful,,FALSE,TRUE,FALSE,3
+51,Osho Ashram,18.5369163,73.88860148,Beautiful garden with a serene atmosphere,,TRUE,FALSE,TRUE,4
+52,Osho Ashram,18.5369163,73.88860148,Rich historical significance,,FALSE,FALSE,FALSE,2
+53,Fashion Street,51.51843792,-0.072872663,Amazing variety of animals,,FALSE,TRUE,FALSE,1
+54,Osho Ashram,18.5369163,73.88860148,Beautiful garden with a serene atmosphere,,FALSE,TRUE,TRUE,1
+55,Fashion Street,51.51843792,-0.072872663,Well-connected,,FALSE,FALSE,FALSE,1
+56,Kamala Nehru Park,18.95502,72.80506346,Family-friendly,,TRUE,TRUE,TRUE,1
+57,Hong Kong Lane,53.4614615,-1.465858428,Rich historical significance,,FALSE,FALSE,TRUE,2
+58,Bund Garden,18.5405933,73.8834394,Amazing variety of animals,,TRUE,FALSE,TRUE,1
+59,Empress Garden,49.1492362,-123.1361026,Beautiful garden with a serene atmosphere,,FALSE,FALSE,TRUE,5
+60,Tathawade Park,18.49330855,73.82731827,Beautiful garden with a serene atmosphere,,FALSE,TRUE,FALSE,4
+61,Saras Baug,19.0442668,72.91493416,Well-connected,,FALSE,FALSE,FALSE,5
+62,Osho Ashram,18.5369163,73.88860148,Rich historical significance,,TRUE,TRUE,FALSE,1
+63,Chaturshringi Temple,18.533342,73.829956,Family-friendly,,FALSE,TRUE,FALSE,2
+64,Mulshi Lake and Dam,18.530325,73.51121,Amazing variety of animals,,FALSE,TRUE,FALSE,2
+65,Kamala Nehru Park,18.95502,72.80506346,Well-connected,,FALSE,FALSE,FALSE,5
+66,Aga Khan Palace,18.55232925,73.90147848,Well-connected,,FALSE,TRUE,FALSE,2
+67,Saras Baug,19.0442668,72.91493416,Very spiritual and peaceful,,TRUE,TRUE,FALSE,1
+68,Fashion Street,51.51843792,-0.072872663,Scenic and tranquil,,FALSE,TRUE,FALSE,1
+69,Tathawade Park,18.49330855,73.82731827,Great for shopping,,FALSE,TRUE,FALSE,4
+70,Shaniwar Wada,18.51938255,73.85535656,Rich historical significance,,TRUE,FALSE,FALSE,4
+71,Empress Garden,49.1492362,-123.1361026,Well-connected,,FALSE,FALSE,FALSE,1
+72,Laxmi Road,18.51566982,73.86994118,Family-friendly,,TRUE,TRUE,TRUE,5
+73,Osho Ashram,18.5369163,73.88860148,Great for shopping,,FALSE,TRUE,TRUE,3
+74,Hong Kong Lane,53.4614615,-1.465858428,Beautiful garden with a serene atmosphere,,TRUE,FALSE,FALSE,3
+75,Pune Okayama Friendship Garden,18.4910844,73.8381503,Great for shopping,,FALSE,FALSE,TRUE,3
+76,Mulshi Lake and Dam,18.530325,73.51121,Well-connected,,TRUE,FALSE,FALSE,3
+77,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Rich historical significance,,FALSE,TRUE,TRUE,1
+78,Vishrambaug Wada,18.5138486,73.8534275,Scenic and tranquil,,TRUE,TRUE,TRUE,1
+79,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Family-friendly,,TRUE,FALSE,TRUE,4
+80,Baner Pashan Biodiversity Park,18.547779,73.783333,Family-friendly,,TRUE,TRUE,FALSE,4
+81,Rajiv Gandhi Zoological Park,18.452488,73.860802,Developing area,,TRUE,FALSE,TRUE,1
+82,Laxmi Road,18.51566982,73.86994118,Well-connected,,FALSE,FALSE,TRUE,3
+83,Saras Baug,19.0442668,72.91493416,Rich historical significance,,TRUE,TRUE,TRUE,5
+84,Vishrambaug Wada,18.5138486,73.8534275,Rich historical significance,,TRUE,FALSE,FALSE,5
+85,Mahatma Phule Mandai,18.5129178,73.85629517,Well-connected,,TRUE,TRUE,FALSE,5
+86,Chaturshringi Temple,18.533342,73.829956,Great for shopping,,TRUE,TRUE,FALSE,3
+87,Empress Garden,49.1492362,-123.1361026,Well-connected,,FALSE,TRUE,FALSE,5
+88,Rajiv Gandhi Zoological Park,18.452488,73.860802,Rich historical significance,,TRUE,FALSE,FALSE,4
+89,Kamala Nehru Park,18.95502,72.80506346,Busy and bustling,,FALSE,TRUE,TRUE,5
+90,Fashion Street,51.51843792,-0.072872663,Rich historical significance,,FALSE,FALSE,FALSE,5
+91,Shaniwar Wada,18.51938255,73.85535656,Developing area,,TRUE,FALSE,TRUE,1
+92,Laxmi Road,18.51566982,73.86994118,Scenic and tranquil,,TRUE,FALSE,TRUE,5
+93,Lal Mahal,26.9925078,77.5890115,Great for shopping,,TRUE,TRUE,FALSE,1
+94,Fashion Street,51.51843792,-0.072872663,Scenic and tranquil,,TRUE,FALSE,TRUE,5
+95,Sinhagad Fort,18.36472045,73.75751103,Family-friendly,,TRUE,FALSE,TRUE,3
+96,Katraj Snake Park,18.4529964,73.86122764,Amazing variety of animals,,FALSE,TRUE,FALSE,3
+97,Tathawade Park,18.49330855,73.82731827,Family-friendly,,FALSE,FALSE,TRUE,1
+98,Sinhagad Fort,18.36472045,73.75751103,Busy and bustling,,TRUE,TRUE,FALSE,3
+99,Vishrambaug Wada,18.5138486,73.8534275,Great for shopping,,TRUE,FALSE,TRUE,5
+100,Saras Baug,19.0442668,72.91493416,Family-friendly,,FALSE,TRUE,TRUE,3
+101,Aga Khan Palace,18.55232925,73.90147848,Well-connected,,FALSE,TRUE,TRUE,4
+102,Lal Mahal,26.9925078,77.5890115,Beautiful garden with a serene atmosphere,,TRUE,FALSE,FALSE,2
+103,Shinde Chhatri,18.491631,73.89727,Amazing variety of animals,,TRUE,TRUE,TRUE,1
+104,Hong Kong Lane,53.4614615,-1.465858428,Amazing variety of animals,,TRUE,TRUE,TRUE,1
+105,Sambhaji Park,18.5206664,73.8472146,Well-connected,,FALSE,FALSE,FALSE,5
+106,Katraj Snake Park,18.4529964,73.86122764,Great for shopping,,FALSE,TRUE,TRUE,5
+107,Mahatma Phule Mandai,18.5129178,73.85629517,Great for shopping,,TRUE,FALSE,TRUE,3
+108,Katraj Snake Park,18.4529964,73.86122764,Very spiritual and peaceful,,FALSE,TRUE,FALSE,4
+109,Peshwe Udyan Zoo,18.503622,73.851932,Family-friendly,,TRUE,FALSE,TRUE,5
+110,Katraj Snake Park,18.4529964,73.86122764,Amazing variety of animals,,TRUE,FALSE,TRUE,2
+111,Katraj Snake Park,18.4529964,73.86122764,Busy and bustling,,FALSE,FALSE,FALSE,1
+112,Pataleshwar Cave Temple,18.5269463,73.8498456,Developing area,,TRUE,FALSE,TRUE,3
+113,Pune Okayama Friendship Garden,18.4910844,73.8381503,Rich historical significance,,FALSE,TRUE,TRUE,1
+114,Saras Baug,19.0442668,72.91493416,Busy and bustling,,FALSE,FALSE,TRUE,1
+115,Vishrambaug Wada,18.5138486,73.8534275,Great for shopping,,FALSE,TRUE,TRUE,2
+116,Osho Ashram,18.5369163,73.88860148,Developing area,,FALSE,TRUE,FALSE,4
+117,Katraj Snake Park,18.4529964,73.86122764,Well-connected,,TRUE,TRUE,TRUE,1
+118,Baner Pashan Biodiversity Park,18.547779,73.783333,Rich historical significance,,TRUE,FALSE,TRUE,2
+119,Laxmi Road,18.51566982,73.86994118,Beautiful garden with a serene atmosphere,,TRUE,TRUE,TRUE,5
+120,Vishrambaug Wada,18.5138486,73.8534275,Rich historical significance,,FALSE,FALSE,FALSE,4
+121,Tathawade Park,18.49330855,73.82731827,Busy and bustling,,TRUE,FALSE,FALSE,2
+122,Fashion Street,51.51843792,-0.072872663,Family-friendly,,TRUE,TRUE,TRUE,3
+123,Sinhagad Fort,18.36472045,73.75751103,Family-friendly,,FALSE,FALSE,TRUE,3
+124,Shaniwar Wada,18.51938255,73.85535656,Amazing variety of animals,,TRUE,FALSE,FALSE,4
+125,Osho Ashram,18.5369163,73.88860148,Great for shopping,,FALSE,TRUE,TRUE,1
+126,Chaturshringi Temple,18.533342,73.829956,Very spiritual and peaceful,,FALSE,TRUE,FALSE,2
+127,Tulsi Baug,21.13907265,79.11063485,Great for shopping,,FALSE,TRUE,FALSE,5
+128,Vishrambaug Wada,18.5138486,73.8534275,Beautiful garden with a serene atmosphere,,TRUE,TRUE,TRUE,3
+129,Baner Pashan Biodiversity Park,18.547779,73.783333,Rich historical significance,,FALSE,FALSE,FALSE,5
+130,Peshwa Udyan,18.503622,73.851932,Family-friendly,,FALSE,FALSE,FALSE,5
+131,Laxmi Road,18.51566982,73.86994118,Rich historical significance,,FALSE,FALSE,FALSE,1
+132,Laxmi Road,18.51566982,73.86994118,Great for shopping,,TRUE,TRUE,FALSE,2
+133,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Well-connected,,TRUE,TRUE,FALSE,1
+134,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Beautiful garden with a serene atmosphere,,TRUE,TRUE,TRUE,3
+135,Bund Garden,18.5405933,73.8834394,Great for shopping,,FALSE,FALSE,TRUE,3
+136,Parvati Hill Temple,18.497601,73.847099,Scenic and tranquil,,TRUE,TRUE,TRUE,4
+137,Parvati Hill Temple,18.497601,73.847099,Great for shopping,,TRUE,TRUE,TRUE,5
+138,Empress Garden,49.1492362,-123.1361026,Rich historical significance,,FALSE,TRUE,TRUE,2
+139,Shunyo Park,18.536615,73.890137,Very spiritual and peaceful,,FALSE,FALSE,TRUE,4
+140,Tathawade Park,18.49330855,73.82731827,Amazing variety of animals,,FALSE,FALSE,FALSE,2
+141,Katraj Snake Park,18.4529964,73.86122764,Great for shopping,,FALSE,TRUE,FALSE,2
+142,Tulsi Baug,21.13907265,79.11063485,Beautiful garden with a serene atmosphere,,TRUE,TRUE,FALSE,3
+143,Shinde Chhatri,18.491631,73.89727,Very spiritual and peaceful,,TRUE,TRUE,FALSE,3
+144,Mulshi Lake and Dam,18.530325,73.51121,Great for shopping,,FALSE,FALSE,TRUE,3
+145,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Very spiritual and peaceful,,FALSE,FALSE,FALSE,1
+146,Shaniwar Wada,18.51938255,73.85535656,Beautiful garden with a serene atmosphere,,FALSE,FALSE,TRUE,1
+147,Katraj Snake Park,18.4529964,73.86122764,Great for shopping,,FALSE,TRUE,FALSE,4
+148,Tulsi Baug,21.13907265,79.11063485,Well-connected,,TRUE,TRUE,FALSE,4
+149,Osho Ashram,18.5369163,73.88860148,Beautiful garden with a serene atmosphere,,FALSE,FALSE,FALSE,4
+150,Mahatma Phule Mandai,18.5129178,73.85629517,Scenic and tranquil,,FALSE,TRUE,FALSE,5
+151,Mahatma Phule Mandai,18.5129178,73.85629517,Family-friendly,,TRUE,FALSE,TRUE,3
+152,Saras Baug,19.0442668,72.91493416,Rich historical significance,,FALSE,TRUE,TRUE,5
+153,Pataleshwar Cave Temple,18.5269463,73.8498456,Beautiful garden with a serene atmosphere,,TRUE,TRUE,FALSE,1
+154,Bund Garden,18.5405933,73.8834394,Very spiritual and peaceful,,TRUE,TRUE,TRUE,5
+155,Vishrambaug Wada,18.5138486,73.8534275,Family-friendly,,TRUE,TRUE,FALSE,3
+156,Osho Ashram,18.5369163,73.88860148,Busy and bustling,,FALSE,TRUE,FALSE,5
+157,Shinde Chhatri,18.491631,73.89727,Rich historical significance,,TRUE,TRUE,TRUE,1
+158,Shunyo Park,18.536615,73.890137,Developing area,,TRUE,FALSE,FALSE,1
+159,Parvati Hill Temple,18.497601,73.847099,Family-friendly,,TRUE,FALSE,FALSE,1
+160,Parvati Hill Temple,18.497601,73.847099,Very spiritual and peaceful,,TRUE,FALSE,TRUE,4
+161,Peshwa Udyan,18.503622,73.851932,Scenic and tranquil,,TRUE,TRUE,FALSE,1
+162,Kamala Nehru Park,18.95502,72.80506346,Rich historical significance,,FALSE,TRUE,FALSE,5
+163,Parvati Hill Temple,18.497601,73.847099,Developing area,,FALSE,TRUE,TRUE,4
+164,Mahatma Phule Mandai,18.5129178,73.85629517,Beautiful garden with a serene atmosphere,,TRUE,TRUE,FALSE,3
+165,Sambhaji Park,18.5206664,73.8472146,Amazing variety of animals,,TRUE,FALSE,TRUE,3
+166,Peshwa Udyan,18.503622,73.851932,Scenic and tranquil,,TRUE,TRUE,FALSE,1
+167,Vishrambaug Wada,18.5138486,73.8534275,Developing area,,FALSE,FALSE,FALSE,4
+168,Baner Pashan Biodiversity Park,18.547779,73.783333,Beautiful garden with a serene atmosphere,,FALSE,TRUE,TRUE,1
+169,Sinhagad Fort,18.36472045,73.75751103,Amazing variety of animals,,TRUE,TRUE,FALSE,4
+170,Peshwa Udyan,18.503622,73.851932,Busy and bustling,,FALSE,TRUE,TRUE,4
+171,Pataleshwar Cave Temple,18.5269463,73.8498456,Well-connected,,FALSE,TRUE,FALSE,4
+172,Rajiv Gandhi Zoological Park,18.452488,73.860802,Developing area,,TRUE,FALSE,FALSE,4
+173,Pataleshwar Cave Temple,18.5269463,73.8498456,Great for shopping,,FALSE,FALSE,FALSE,2
+174,Mahatma Phule Mandai,18.5129178,73.85629517,Great for shopping,,FALSE,TRUE,FALSE,1
+175,Peshwe Udyan Zoo,18.503622,73.851932,Beautiful garden with a serene atmosphere,,FALSE,TRUE,TRUE,1
+176,Laxmi Road,18.51566982,73.86994118,Busy and bustling,,FALSE,TRUE,FALSE,2
+177,Tathawade Park,18.49330855,73.82731827,Rich historical significance,,TRUE,TRUE,TRUE,2
+178,Baner Pashan Biodiversity Park,18.547779,73.783333,Beautiful garden with a serene atmosphere,,FALSE,FALSE,TRUE,4
+179,Mulshi Lake and Dam,18.530325,73.51121,Developing area,,TRUE,FALSE,FALSE,3
+180,Empress Garden,49.1492362,-123.1361026,Busy and bustling,,TRUE,FALSE,FALSE,4
+181,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Great for shopping,,FALSE,FALSE,FALSE,2
+182,Katraj Snake Park,18.4529964,73.86122764,Scenic and tranquil,,TRUE,TRUE,TRUE,1
+183,Peshwa Udyan,18.503622,73.851932,Rich historical significance,,FALSE,FALSE,TRUE,5
+184,Shunyo Park,18.536615,73.890137,Busy and bustling,,TRUE,TRUE,TRUE,1
+185,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Great for shopping,,FALSE,TRUE,TRUE,3
+186,Chaturshringi Temple,18.533342,73.829956,Beautiful garden with a serene atmosphere,,FALSE,TRUE,TRUE,1
+187,Baner Pashan Biodiversity Park,18.547779,73.783333,Rich historical significance,,TRUE,TRUE,TRUE,5
+188,Hong Kong Lane,53.4614615,-1.465858428,Well-connected,,TRUE,TRUE,TRUE,1
+189,Mulshi Lake and Dam,18.530325,73.51121,Great for shopping,,FALSE,TRUE,FALSE,2
+190,Sambhaji Park,18.5206664,73.8472146,Rich historical significance,,TRUE,TRUE,TRUE,1
+191,Empress Garden,49.1492362,-123.1361026,Amazing variety of animals,,FALSE,FALSE,FALSE,3
+192,Mahatma Phule Mandai,18.5129178,73.85629517,Family-friendly,,TRUE,FALSE,FALSE,5
+193,Aga Khan Palace,18.55232925,73.90147848,Amazing variety of animals,,FALSE,FALSE,TRUE,4
+194,Shinde Chhatri,18.491631,73.89727,Developing area,,FALSE,FALSE,TRUE,3
+195,Parvati Hill Temple,18.497601,73.847099,Well-connected,,TRUE,TRUE,TRUE,5
+196,Mulshi Lake and Dam,18.530325,73.51121,Scenic and tranquil,,TRUE,TRUE,FALSE,1
+197,Shinde Chhatri,18.491631,73.89727,Rich historical significance,,TRUE,FALSE,FALSE,3
+198,Sambhaji Park,18.5206664,73.8472146,Scenic and tranquil,,TRUE,TRUE,FALSE,5
+199,Sinhagad Fort,18.36472045,73.75751103,Developing area,,TRUE,FALSE,TRUE,3
+200,Sambhaji Park,18.5206664,73.8472146,Great for shopping,,FALSE,TRUE,FALSE,2
+201,Tathawade Park,18.49330855,73.82731827,Great for shopping,,FALSE,FALSE,FALSE,3
+202,Fashion Street,51.51843792,-0.072872663,Very spiritual and peaceful,,TRUE,FALSE,FALSE,4
+203,Tathawade Park,18.49330855,73.82731827,Busy and bustling,,TRUE,TRUE,FALSE,4
+204,Tathawade Park,18.49330855,73.82731827,Beautiful garden with a serene atmosphere,,FALSE,TRUE,FALSE,4
+205,Peshwa Udyan,18.503622,73.851932,Beautiful garden with a serene atmosphere,,TRUE,TRUE,TRUE,5
+206,Empress Garden,49.1492362,-123.1361026,Very spiritual and peaceful,,TRUE,TRUE,TRUE,4
+207,Bund Garden,18.5405933,73.8834394,Scenic and tranquil,,FALSE,TRUE,TRUE,5
+208,Rajiv Gandhi Zoological Park,18.452488,73.860802,Very spiritual and peaceful,,TRUE,TRUE,TRUE,3
+209,Osho Ashram,18.5369163,73.88860148,Rich historical significance,,TRUE,TRUE,FALSE,3
+210,Shunyo Park,18.536615,73.890137,Rich historical significance,,TRUE,TRUE,FALSE,3
+211,Peshwa Udyan,18.503622,73.851932,Busy and bustling,,TRUE,TRUE,TRUE,1
+212,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Scenic and tranquil,,FALSE,TRUE,TRUE,3
+213,Kamala Nehru Park,18.95502,72.80506346,Great for shopping,,TRUE,TRUE,FALSE,2
+214,Peshwe Udyan Zoo,18.503622,73.851932,Well-connected,,TRUE,FALSE,FALSE,4
+215,Pataleshwar Cave Temple,18.5269463,73.8498456,Well-connected,,FALSE,FALSE,FALSE,3
+216,Chaturshringi Temple,18.533342,73.829956,Amazing variety of animals,,FALSE,TRUE,FALSE,2
+217,Rajiv Gandhi Zoological Park,18.452488,73.860802,Very spiritual and peaceful,,TRUE,FALSE,TRUE,5
+218,Rajiv Gandhi Zoological Park,18.452488,73.860802,Scenic and tranquil,,FALSE,TRUE,TRUE,1
+219,Tathawade Park,18.49330855,73.82731827,Amazing variety of animals,,FALSE,FALSE,TRUE,3
+220,Saras Baug,19.0442668,72.91493416,Busy and bustling,,FALSE,FALSE,TRUE,5
+221,Shaniwar Wada,18.51938255,73.85535656,Family-friendly,,FALSE,FALSE,FALSE,3
+222,Tulsi Baug,21.13907265,79.11063485,Family-friendly,,TRUE,TRUE,FALSE,3
+223,Mulshi Lake and Dam,18.530325,73.51121,Very spiritual and peaceful,,TRUE,TRUE,TRUE,2
+224,Shunyo Park,18.536615,73.890137,Amazing variety of animals,,TRUE,FALSE,TRUE,2
+225,Shunyo Park,18.536615,73.890137,Family-friendly,,FALSE,FALSE,TRUE,2
+226,Tulsi Baug,21.13907265,79.11063485,Great for shopping,,FALSE,FALSE,TRUE,3
+227,Peshwe Udyan Zoo,18.503622,73.851932,Well-connected,,TRUE,TRUE,FALSE,3
+228,Mulshi Lake and Dam,18.530325,73.51121,Beautiful garden with a serene atmosphere,,FALSE,TRUE,FALSE,4
+229,Parvati Hill Temple,18.497601,73.847099,Busy and bustling,,TRUE,TRUE,FALSE,1
+230,Shinde Chhatri,18.491631,73.89727,Great for shopping,,FALSE,FALSE,FALSE,4
+231,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Great for shopping,,FALSE,FALSE,TRUE,5
+232,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Developing area,,FALSE,TRUE,FALSE,1
+233,Pune Okayama Friendship Garden,18.4910844,73.8381503,Great for shopping,,FALSE,FALSE,TRUE,4
+234,Katraj Snake Park,18.4529964,73.86122764,Great for shopping,,FALSE,FALSE,FALSE,4
+235,Tulsi Baug,21.13907265,79.11063485,Very spiritual and peaceful,,TRUE,FALSE,TRUE,3
+236,Chaturshringi Temple,18.533342,73.829956,Busy and bustling,,FALSE,TRUE,FALSE,5
+237,Sinhagad Fort,18.36472045,73.75751103,Rich historical significance,,FALSE,TRUE,FALSE,2
+238,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Beautiful garden with a serene atmosphere,,FALSE,TRUE,TRUE,4
+239,Rajiv Gandhi Zoological Park,18.452488,73.860802,Well-connected,,FALSE,FALSE,TRUE,2
+240,Kamala Nehru Park,18.95502,72.80506346,Busy and bustling,,FALSE,FALSE,FALSE,1
+241,Shaniwar Wada,18.51938255,73.85535656,Beautiful garden with a serene atmosphere,,FALSE,TRUE,TRUE,1
+242,Kamala Nehru Park,18.95502,72.80506346,Scenic and tranquil,,TRUE,FALSE,TRUE,1
+243,Mulshi Lake and Dam,18.530325,73.51121,Busy and bustling,,FALSE,FALSE,TRUE,2
+244,Bund Garden,18.5405933,73.8834394,Very spiritual and peaceful,,TRUE,TRUE,FALSE,3
+245,Fashion Street,51.51843792,-0.072872663,Very spiritual and peaceful,,TRUE,FALSE,FALSE,5
+246,Kamala Nehru Park,18.95502,72.80506346,Well-connected,,FALSE,FALSE,FALSE,4
+247,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Developing area,,TRUE,FALSE,FALSE,5
+248,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Very spiritual and peaceful,,TRUE,TRUE,FALSE,5
+249,Mulshi Lake and Dam,18.530325,73.51121,Amazing variety of animals,,FALSE,TRUE,FALSE,2
+250,Saras Baug,19.0442668,72.91493416,Busy and bustling,,FALSE,TRUE,TRUE,4
+251,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Amazing variety of animals,,TRUE,TRUE,TRUE,1
+252,Bund Garden,18.5405933,73.8834394,Developing area,,TRUE,FALSE,FALSE,1
+253,Sambhaji Park,18.5206664,73.8472146,Scenic and tranquil,,FALSE,FALSE,TRUE,1
+254,Pataleshwar Cave Temple,18.5269463,73.8498456,Very spiritual and peaceful,,TRUE,FALSE,TRUE,1
+255,Pune Okayama Friendship Garden,18.4910844,73.8381503,Family-friendly,,TRUE,TRUE,TRUE,4
+256,Hong Kong Lane,53.4614615,-1.465858428,Family-friendly,,FALSE,TRUE,FALSE,1
+257,Aga Khan Palace,18.55232925,73.90147848,Amazing variety of animals,,FALSE,FALSE,FALSE,1
+258,Lal Mahal,26.9925078,77.5890115,Amazing variety of animals,,TRUE,TRUE,TRUE,3
+259,Aga Khan Palace,18.55232925,73.90147848,Busy and bustling,,FALSE,FALSE,TRUE,3
+260,Aga Khan Palace,18.55232925,73.90147848,Beautiful garden with a serene atmosphere,,FALSE,FALSE,TRUE,1
+261,Aga Khan Palace,18.55232925,73.90147848,Family-friendly,,FALSE,TRUE,TRUE,5
+262,Bund Garden,18.5405933,73.8834394,Family-friendly,,TRUE,TRUE,FALSE,2
+263,Kasba Ganpati Temple,18.5153055,73.8477706,Family-friendly,,FALSE,TRUE,TRUE,3
+264,Sambhaji Park,18.5206664,73.8472146,Busy and bustling,,TRUE,FALSE,FALSE,4
+265,Fashion Street,51.51843792,-0.072872663,Rich historical significance,,FALSE,FALSE,FALSE,1
+266,Peshwa Udyan,18.503622,73.851932,Developing area,,TRUE,FALSE,TRUE,4
+267,Osho Ashram,18.5369163,73.88860148,Beautiful garden with a serene atmosphere,,TRUE,FALSE,FALSE,2
+268,Mulshi Lake and Dam,18.530325,73.51121,Busy and bustling,,TRUE,TRUE,FALSE,4
+269,Shunyo Park,18.536615,73.890137,Beautiful garden with a serene atmosphere,,FALSE,FALSE,TRUE,3
+270,Lal Mahal,26.9925078,77.5890115,Busy and bustling,,TRUE,TRUE,FALSE,3
+271,Bund Garden,18.5405933,73.8834394,Family-friendly,,FALSE,FALSE,FALSE,5
+272,Saras Baug,19.0442668,72.91493416,Very spiritual and peaceful,,FALSE,FALSE,FALSE,1
+273,Shinde Chhatri,18.491631,73.89727,Busy and bustling,,TRUE,TRUE,FALSE,5
+274,Baner Pashan Biodiversity Park,18.547779,73.783333,Great for shopping,,TRUE,TRUE,TRUE,3
+275,Baner Pashan Biodiversity Park,18.547779,73.783333,Busy and bustling,,TRUE,FALSE,FALSE,4
+276,Hong Kong Lane,53.4614615,-1.465858428,Scenic and tranquil,,TRUE,FALSE,TRUE,2
+277,Laxmi Road,18.51566982,73.86994118,Amazing variety of animals,,FALSE,TRUE,FALSE,2
+278,Aga Khan Palace,18.55232925,73.90147848,Well-connected,,FALSE,FALSE,TRUE,3
+279,Fashion Street,51.51843792,-0.072872663,Great for shopping,,FALSE,TRUE,FALSE,2
+280,Tulsi Baug,21.13907265,79.11063485,Very spiritual and peaceful,,TRUE,FALSE,TRUE,1
+281,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Very spiritual and peaceful,,TRUE,TRUE,FALSE,2
+282,Baner Pashan Biodiversity Park,18.547779,73.783333,Great for shopping,,TRUE,FALSE,FALSE,5
+283,Kasba Ganpati Temple,18.5153055,73.8477706,Very spiritual and peaceful,,FALSE,FALSE,TRUE,5
+284,Mulshi Lake and Dam,18.530325,73.51121,Busy and bustling,,FALSE,TRUE,TRUE,5
+285,Tulsi Baug,21.13907265,79.11063485,Amazing variety of animals,,FALSE,TRUE,TRUE,2
+286,Peshwa Udyan,18.503622,73.851932,Well-connected,,TRUE,FALSE,TRUE,4
+287,Mahatma Phule Mandai,18.5129178,73.85629517,Developing area,,FALSE,FALSE,FALSE,3
+288,Rajiv Gandhi Zoological Park,18.452488,73.860802,Very spiritual and peaceful,,TRUE,TRUE,FALSE,3
+289,Vishrambaug Wada,18.5138486,73.8534275,Scenic and tranquil,,FALSE,TRUE,FALSE,4
+290,Shinde Chhatri,18.491631,73.89727,Beautiful garden with a serene atmosphere,,TRUE,FALSE,FALSE,4
+291,Vishrambaug Wada,18.5138486,73.8534275,Family-friendly,,FALSE,FALSE,FALSE,5
+292,Fashion Street,51.51843792,-0.072872663,Developing area,,FALSE,TRUE,FALSE,5
+293,Sinhagad Fort,18.36472045,73.75751103,Scenic and tranquil,,TRUE,FALSE,TRUE,5
+294,Katraj Snake Park,18.4529964,73.86122764,Beautiful garden with a serene atmosphere,,FALSE,TRUE,FALSE,5
+295,Pataleshwar Cave Temple,18.5269463,73.8498456,Scenic and tranquil,,TRUE,FALSE,TRUE,4
+296,Peshwa Udyan,18.503622,73.851932,Amazing variety of animals,,TRUE,FALSE,FALSE,2
+297,Rajiv Gandhi Zoological Park,18.452488,73.860802,Rich historical significance,,FALSE,FALSE,FALSE,5
+298,Sinhagad Fort,18.36472045,73.75751103,Great for shopping,,TRUE,TRUE,TRUE,4
+299,Vishrambaug Wada,18.5138486,73.8534275,Busy and bustling,,TRUE,FALSE,TRUE,5
+300,Bund Garden,18.5405933,73.8834394,Great for shopping,,TRUE,TRUE,TRUE,1
+301,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Very spiritual and peaceful,,FALSE,TRUE,FALSE,1
+302,Tulsi Baug,21.13907265,79.11063485,Scenic and tranquil,,TRUE,FALSE,TRUE,4
+303,Shaniwar Wada,18.51938255,73.85535656,Developing area,,FALSE,FALSE,FALSE,1
+304,Aga Khan Palace,18.55232925,73.90147848,Very spiritual and peaceful,,TRUE,FALSE,TRUE,4
+305,Peshwa Udyan,18.503622,73.851932,Beautiful garden with a serene atmosphere,,TRUE,FALSE,FALSE,3
+306,Sambhaji Park,18.5206664,73.8472146,Rich historical significance,,TRUE,TRUE,TRUE,2
+307,Pataleshwar Cave Temple,18.5269463,73.8498456,Busy and bustling,,FALSE,FALSE,FALSE,2
+308,Chaturshringi Temple,18.533342,73.829956,Beautiful garden with a serene atmosphere,,FALSE,FALSE,TRUE,4
+309,Bund Garden,18.5405933,73.8834394,Very spiritual and peaceful,,FALSE,FALSE,FALSE,1
+310,Rajiv Gandhi Zoological Park,18.452488,73.860802,Great for shopping,,FALSE,TRUE,TRUE,2
+311,Katraj Snake Park,18.4529964,73.86122764,Developing area,,TRUE,FALSE,TRUE,3
+312,Hong Kong Lane,53.4614615,-1.465858428,Well-connected,,TRUE,TRUE,TRUE,4
+313,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Scenic and tranquil,,FALSE,FALSE,FALSE,3
+314,Tathawade Park,18.49330855,73.82731827,Family-friendly,,FALSE,TRUE,FALSE,3
+315,Bund Garden,18.5405933,73.8834394,Busy and bustling,,FALSE,FALSE,TRUE,2
+316,Mulshi Lake and Dam,18.530325,73.51121,Rich historical significance,,FALSE,FALSE,FALSE,5
+317,Osho Ashram,18.5369163,73.88860148,Developing area,,FALSE,FALSE,FALSE,5
+318,Peshwa Udyan,18.503622,73.851932,Scenic and tranquil,,TRUE,TRUE,FALSE,3
+319,Tathawade Park,18.49330855,73.82731827,Scenic and tranquil,,TRUE,TRUE,TRUE,2
+320,Sinhagad Fort,18.36472045,73.75751103,Family-friendly,,TRUE,FALSE,TRUE,1
+321,Sambhaji Park,18.5206664,73.8472146,Amazing variety of animals,,FALSE,FALSE,FALSE,1
+322,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Family-friendly,,FALSE,FALSE,FALSE,4
+323,Shinde Chhatri,18.491631,73.89727,Family-friendly,,TRUE,TRUE,FALSE,2
+324,Vishrambaug Wada,18.5138486,73.8534275,Well-connected,,TRUE,TRUE,TRUE,5
+325,Mulshi Lake and Dam,18.530325,73.51121,Developing area,,FALSE,TRUE,TRUE,2
+326,Rajiv Gandhi Zoological Park,18.452488,73.860802,Rich historical significance,,FALSE,FALSE,TRUE,4
+327,Shaniwar Wada,18.51938255,73.85535656,Beautiful garden with a serene atmosphere,,FALSE,FALSE,FALSE,1
+328,Rajiv Gandhi Zoological Park,18.452488,73.860802,Rich historical significance,,TRUE,FALSE,TRUE,5
+329,Pataleshwar Cave Temple,18.5269463,73.8498456,Amazing variety of animals,,FALSE,TRUE,FALSE,2
+330,Vishrambaug Wada,18.5138486,73.8534275,Amazing variety of animals,,FALSE,FALSE,FALSE,5
+331,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Beautiful garden with a serene atmosphere,,FALSE,TRUE,FALSE,4
+332,Aga Khan Palace,18.55232925,73.90147848,Beautiful garden with a serene atmosphere,,FALSE,FALSE,FALSE,5
+333,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Amazing variety of animals,,FALSE,FALSE,TRUE,3
+334,Shunyo Park,18.536615,73.890137,Great for shopping,,TRUE,TRUE,TRUE,2
+335,Laxmi Road,18.51566982,73.86994118,Scenic and tranquil,,TRUE,TRUE,FALSE,1
+336,Osho Ashram,18.5369163,73.88860148,Scenic and tranquil,,TRUE,FALSE,TRUE,5
+337,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Developing area,,FALSE,FALSE,FALSE,3
+338,Osho Ashram,18.5369163,73.88860148,Well-connected,,FALSE,FALSE,TRUE,3
+339,Vishrambaug Wada,18.5138486,73.8534275,Developing area,,FALSE,FALSE,FALSE,2
+340,Pataleshwar Cave Temple,18.5269463,73.8498456,Scenic and tranquil,,TRUE,FALSE,TRUE,5
+341,Tulsi Baug,21.13907265,79.11063485,Busy and bustling,,FALSE,FALSE,FALSE,1
+342,Peshwa Udyan,18.503622,73.851932,Rich historical significance,,TRUE,FALSE,FALSE,5
+343,Pataleshwar Cave Temple,18.5269463,73.8498456,Beautiful garden with a serene atmosphere,,FALSE,FALSE,TRUE,4
+344,Kasba Ganpati Temple,18.5153055,73.8477706,Amazing variety of animals,,TRUE,TRUE,FALSE,4
+345,Kamala Nehru Park,18.95502,72.80506346,Rich historical significance,,FALSE,TRUE,TRUE,5
+346,Baner Pashan Biodiversity Park,18.547779,73.783333,Rich historical significance,,FALSE,TRUE,FALSE,1
+347,Kasba Ganpati Temple,18.5153055,73.8477706,Beautiful garden with a serene atmosphere,,TRUE,FALSE,TRUE,3
+348,Mahatma Phule Mandai,18.5129178,73.85629517,Amazing variety of animals,,FALSE,FALSE,FALSE,5
+349,Chaturshringi Temple,18.533342,73.829956,Scenic and tranquil,,TRUE,TRUE,TRUE,1
+350,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Scenic and tranquil,,FALSE,FALSE,TRUE,1
+351,Vishrambaug Wada,18.5138486,73.8534275,Family-friendly,,TRUE,TRUE,FALSE,4
+352,Peshwe Udyan Zoo,18.503622,73.851932,Well-connected,,TRUE,FALSE,TRUE,3
+353,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Scenic and tranquil,,FALSE,TRUE,TRUE,3
+354,Lal Mahal,26.9925078,77.5890115,Developing area,,FALSE,TRUE,FALSE,3
+355,Pataleshwar Cave Temple,18.5269463,73.8498456,Amazing variety of animals,,TRUE,FALSE,TRUE,4
+356,Osho Ashram,18.5369163,73.88860148,Amazing variety of animals,,FALSE,TRUE,TRUE,1
+357,Aga Khan Palace,18.55232925,73.90147848,Great for shopping,,FALSE,FALSE,TRUE,4
+358,Sinhagad Fort,18.36472045,73.75751103,Amazing variety of animals,,FALSE,TRUE,TRUE,4
+359,Peshwe Udyan Zoo,18.503622,73.851932,Busy and bustling,,TRUE,TRUE,TRUE,3
+360,Tathawade Park,18.49330855,73.82731827,Well-connected,,FALSE,FALSE,TRUE,2
+361,Kamala Nehru Park,18.95502,72.80506346,Rich historical significance,,FALSE,FALSE,TRUE,2
+362,Mulshi Lake and Dam,18.530325,73.51121,Rich historical significance,,FALSE,TRUE,FALSE,5
+363,Laxmi Road,18.51566982,73.86994118,Well-connected,,TRUE,TRUE,TRUE,3
+364,Chaturshringi Temple,18.533342,73.829956,Rich historical significance,,TRUE,FALSE,TRUE,1
+365,Kamala Nehru Park,18.95502,72.80506346,Family-friendly,,TRUE,FALSE,TRUE,5
+366,Sinhagad Fort,18.36472045,73.75751103,Very spiritual and peaceful,,TRUE,TRUE,TRUE,5
+367,Saras Baug,19.0442668,72.91493416,Scenic and tranquil,,FALSE,TRUE,TRUE,5
+368,Laxmi Road,18.51566982,73.86994118,Scenic and tranquil,,TRUE,TRUE,FALSE,2
+369,Katraj Snake Park,18.4529964,73.86122764,Beautiful garden with a serene atmosphere,,TRUE,FALSE,FALSE,2
+370,Vishrambaug Wada,18.5138486,73.8534275,Family-friendly,,FALSE,TRUE,TRUE,4
+371,Kasba Ganpati Temple,18.5153055,73.8477706,Busy and bustling,,TRUE,FALSE,FALSE,2
+372,Saras Baug,19.0442668,72.91493416,Well-connected,,TRUE,FALSE,TRUE,4
+373,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Family-friendly,,FALSE,TRUE,FALSE,1
+374,Shunyo Park,18.536615,73.890137,Family-friendly,,TRUE,FALSE,FALSE,1
+375,Shinde Chhatri,18.491631,73.89727,Busy and bustling,,FALSE,TRUE,FALSE,3
+376,Pune Okayama Friendship Garden,18.4910844,73.8381503,Scenic and tranquil,,FALSE,FALSE,FALSE,5
+377,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Rich historical significance,,TRUE,FALSE,FALSE,3
+378,Tulsi Baug,21.13907265,79.11063485,Beautiful garden with a serene atmosphere,,FALSE,TRUE,TRUE,2
+379,Sinhagad Fort,18.36472045,73.75751103,Beautiful garden with a serene atmosphere,,FALSE,FALSE,FALSE,1
+380,Kamala Nehru Park,18.95502,72.80506346,Rich historical significance,,FALSE,FALSE,TRUE,3
+381,Tathawade Park,18.49330855,73.82731827,Family-friendly,,FALSE,FALSE,TRUE,1
+382,Peshwe Udyan Zoo,18.503622,73.851932,Very spiritual and peaceful,,FALSE,FALSE,TRUE,1
+383,Kasba Ganpati Temple,18.5153055,73.8477706,Amazing variety of animals,,FALSE,FALSE,TRUE,1
+384,Kasba Ganpati Temple,18.5153055,73.8477706,Very spiritual and peaceful,,TRUE,TRUE,TRUE,1
+385,Kamala Nehru Park,18.95502,72.80506346,Great for shopping,,FALSE,TRUE,TRUE,4
+386,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Great for shopping,,TRUE,FALSE,FALSE,3
+387,Peshwe Udyan Zoo,18.503622,73.851932,Family-friendly,,TRUE,TRUE,FALSE,1
+388,Osho Ashram,18.5369163,73.88860148,Scenic and tranquil,,FALSE,TRUE,FALSE,3
+389,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Busy and bustling,,FALSE,TRUE,FALSE,1
+390,Hong Kong Lane,53.4614615,-1.465858428,Very spiritual and peaceful,,TRUE,TRUE,TRUE,3
+391,Pataleshwar Cave Temple,18.5269463,73.8498456,Amazing variety of animals,,FALSE,TRUE,FALSE,1
+392,Baner Pashan Biodiversity Park,18.547779,73.783333,Beautiful garden with a serene atmosphere,,TRUE,FALSE,TRUE,4
+393,Pune Okayama Friendship Garden,18.4910844,73.8381503,Well-connected,,FALSE,TRUE,TRUE,1
+394,Shaniwar Wada,18.51938255,73.85535656,Beautiful garden with a serene atmosphere,,TRUE,FALSE,FALSE,3
+395,Rajiv Gandhi Zoological Park,18.452488,73.860802,Rich historical significance,,TRUE,TRUE,TRUE,2
+396,Chaturshringi Temple,18.533342,73.829956,Family-friendly,,TRUE,FALSE,FALSE,1
+397,Mahatma Phule Mandai,18.5129178,73.85629517,Rich historical significance,,FALSE,FALSE,TRUE,4
+398,Vishrambaug Wada,18.5138486,73.8534275,Well-connected,,FALSE,TRUE,FALSE,1
+399,Laxmi Road,18.51566982,73.86994118,Rich historical significance,,TRUE,FALSE,FALSE,4
+400,Vishrambaug Wada,18.5138486,73.8534275,Family-friendly,,FALSE,FALSE,TRUE,5
+401,Kamala Nehru Park,18.95502,72.80506346,Rich historical significance,,FALSE,FALSE,TRUE,2
+402,Saras Baug,19.0442668,72.91493416,Family-friendly,,TRUE,TRUE,TRUE,5
+403,Rajiv Gandhi Zoological Park,18.452488,73.860802,Well-connected,,TRUE,FALSE,FALSE,2
+404,Shinde Chhatri,18.491631,73.89727,Developing area,,TRUE,FALSE,FALSE,4
+405,Kasba Ganpati Temple,18.5153055,73.8477706,Very spiritual and peaceful,,TRUE,FALSE,TRUE,1
+406,Mulshi Lake and Dam,18.530325,73.51121,Beautiful garden with a serene atmosphere,,TRUE,TRUE,FALSE,5
+407,Shinde Chhatri,18.491631,73.89727,Family-friendly,,TRUE,FALSE,FALSE,1
+408,Baner Pashan Biodiversity Park,18.547779,73.783333,Busy and bustling,,FALSE,FALSE,TRUE,4
+409,Sambhaji Park,18.5206664,73.8472146,Busy and bustling,,FALSE,TRUE,TRUE,1
+410,Pune Okayama Friendship Garden,18.4910844,73.8381503,Rich historical significance,,FALSE,FALSE,FALSE,2
+411,Lal Mahal,26.9925078,77.5890115,Scenic and tranquil,,TRUE,FALSE,TRUE,2
+412,Tathawade Park,18.49330855,73.82731827,Rich historical significance,,TRUE,FALSE,TRUE,4
+413,Katraj Snake Park,18.4529964,73.86122764,Rich historical significance,,TRUE,FALSE,FALSE,2
+414,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Well-connected,,FALSE,FALSE,TRUE,5
+415,Shaniwar Wada,18.51938255,73.85535656,Busy and bustling,,FALSE,TRUE,FALSE,4
+416,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Beautiful garden with a serene atmosphere,,TRUE,FALSE,TRUE,2
+417,Rajiv Gandhi Zoological Park,18.452488,73.860802,Amazing variety of animals,,FALSE,TRUE,TRUE,1
+418,Osho Ashram,18.5369163,73.88860148,Great for shopping,,FALSE,FALSE,FALSE,1
+419,Kamala Nehru Park,18.95502,72.80506346,Rich historical significance,,FALSE,FALSE,TRUE,2
+420,Shaniwar Wada,18.51938255,73.85535656,Very spiritual and peaceful,,TRUE,FALSE,TRUE,4
+421,Mulshi Lake and Dam,18.530325,73.51121,Family-friendly,,FALSE,FALSE,FALSE,5
+422,Rajiv Gandhi Zoological Park,18.452488,73.860802,Rich historical significance,,TRUE,FALSE,FALSE,2
+423,Baner Pashan Biodiversity Park,18.547779,73.783333,Scenic and tranquil,,FALSE,FALSE,FALSE,1
+424,Chaturshringi Temple,18.533342,73.829956,Rich historical significance,,TRUE,FALSE,TRUE,3
+425,Empress Garden,49.1492362,-123.1361026,Great for shopping,,FALSE,TRUE,FALSE,2
+426,Tulsi Baug,21.13907265,79.11063485,Amazing variety of animals,,TRUE,FALSE,FALSE,2
+427,Hong Kong Lane,53.4614615,-1.465858428,Beautiful garden with a serene atmosphere,,FALSE,TRUE,TRUE,3
+428,Vishrambaug Wada,18.5138486,73.8534275,Rich historical significance,,TRUE,TRUE,TRUE,2
+429,Shaniwar Wada,18.51938255,73.85535656,Rich historical significance,,TRUE,FALSE,FALSE,1
+430,Baner Pashan Biodiversity Park,18.547779,73.783333,Family-friendly,,FALSE,FALSE,TRUE,1
+431,Osho Ashram,18.5369163,73.88860148,Great for shopping,,TRUE,FALSE,FALSE,3
+432,Hong Kong Lane,53.4614615,-1.465858428,Beautiful garden with a serene atmosphere,,TRUE,FALSE,TRUE,5
+433,Bund Garden,18.5405933,73.8834394,Rich historical significance,,TRUE,TRUE,TRUE,2
+434,Rajiv Gandhi Zoological Park,18.452488,73.860802,Amazing variety of animals,,TRUE,TRUE,TRUE,2
+435,Fashion Street,51.51843792,-0.072872663,Amazing variety of animals,,TRUE,TRUE,TRUE,2
+436,Tathawade Park,18.49330855,73.82731827,Very spiritual and peaceful,,TRUE,FALSE,TRUE,4
+437,Shinde Chhatri,18.491631,73.89727,Great for shopping,,FALSE,FALSE,TRUE,4
+438,Saras Baug,19.0442668,72.91493416,Family-friendly,,FALSE,FALSE,TRUE,1
+439,Tulsi Baug,21.13907265,79.11063485,Well-connected,,FALSE,TRUE,TRUE,2
+440,Saras Baug,19.0442668,72.91493416,Amazing variety of animals,,FALSE,TRUE,FALSE,1
+441,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Developing area,,FALSE,TRUE,FALSE,3
+442,Parvati Hill Temple,18.497601,73.847099,Rich historical significance,,TRUE,TRUE,TRUE,4
+443,Empress Garden,49.1492362,-123.1361026,Beautiful garden with a serene atmosphere,,FALSE,TRUE,FALSE,3
+444,Mulshi Lake and Dam,18.530325,73.51121,Busy and bustling,,FALSE,TRUE,FALSE,1
+445,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Great for shopping,,TRUE,FALSE,FALSE,1
+446,Hong Kong Lane,53.4614615,-1.465858428,Amazing variety of animals,,FALSE,FALSE,TRUE,5
+447,Tathawade Park,18.49330855,73.82731827,Rich historical significance,,TRUE,TRUE,TRUE,2
+448,Chaturshringi Temple,18.533342,73.829956,Well-connected,,FALSE,FALSE,FALSE,1
+449,Tathawade Park,18.49330855,73.82731827,Beautiful garden with a serene atmosphere,,FALSE,TRUE,FALSE,3
+450,Kasba Ganpati Temple,18.5153055,73.8477706,Rich historical significance,,FALSE,FALSE,FALSE,2
+451,Peshwa Udyan,18.503622,73.851932,Busy and bustling,,TRUE,FALSE,FALSE,2
+452,Mulshi Lake and Dam,18.530325,73.51121,Well-connected,,TRUE,TRUE,TRUE,1
+453,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Well-connected,,FALSE,FALSE,TRUE,5
+454,Peshwe Udyan Zoo,18.503622,73.851932,Busy and bustling,,FALSE,FALSE,TRUE,4
+455,Parvati Hill Temple,18.497601,73.847099,Amazing variety of animals,,FALSE,FALSE,TRUE,1
+456,Shunyo Park,18.536615,73.890137,Well-connected,,FALSE,FALSE,FALSE,1
+457,Lal Mahal,26.9925078,77.5890115,Developing area,,TRUE,FALSE,TRUE,3
+458,Mahatma Phule Mandai,18.5129178,73.85629517,Family-friendly,,TRUE,TRUE,FALSE,1
+459,Katraj Snake Park,18.4529964,73.86122764,Scenic and tranquil,,TRUE,FALSE,FALSE,5
+460,Peshwa Udyan,18.503622,73.851932,Great for shopping,,FALSE,TRUE,TRUE,2
+461,Aga Khan Palace,18.55232925,73.90147848,Amazing variety of animals,,TRUE,TRUE,TRUE,4
+462,Tulsi Baug,21.13907265,79.11063485,Great for shopping,,FALSE,FALSE,TRUE,5
+463,Pataleshwar Cave Temple,18.5269463,73.8498456,Great for shopping,,FALSE,FALSE,TRUE,2
+464,Mulshi Lake and Dam,18.530325,73.51121,Beautiful garden with a serene atmosphere,,TRUE,FALSE,FALSE,4
+465,Sinhagad Fort,18.36472045,73.75751103,Amazing variety of animals,,FALSE,TRUE,FALSE,4
+466,Baner Pashan Biodiversity Park,18.547779,73.783333,Family-friendly,,FALSE,TRUE,FALSE,2
+467,Sinhagad Fort,18.36472045,73.75751103,Beautiful garden with a serene atmosphere,,TRUE,TRUE,TRUE,5
+468,Tathawade Park,18.49330855,73.82731827,Great for shopping,,FALSE,FALSE,TRUE,5
+469,Osho Ashram,18.5369163,73.88860148,Beautiful garden with a serene atmosphere,,TRUE,TRUE,FALSE,5
+470,Aga Khan Palace,18.55232925,73.90147848,Very spiritual and peaceful,,FALSE,FALSE,TRUE,4
+471,Kamala Nehru Park,18.95502,72.80506346,Family-friendly,,FALSE,TRUE,TRUE,4
+472,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Rich historical significance,,TRUE,TRUE,FALSE,5
+473,Laxmi Road,18.51566982,73.86994118,Rich historical significance,,TRUE,FALSE,FALSE,5
+474,Empress Garden,49.1492362,-123.1361026,Scenic and tranquil,,FALSE,FALSE,FALSE,4
+475,Lal Mahal,26.9925078,77.5890115,Busy and bustling,,FALSE,TRUE,FALSE,4
+476,Peshwe Udyan Zoo,18.503622,73.851932,Very spiritual and peaceful,,TRUE,FALSE,TRUE,4
+477,Empress Garden,49.1492362,-123.1361026,Family-friendly,,FALSE,TRUE,TRUE,1
+478,Pataleshwar Cave Temple,18.5269463,73.8498456,Great for shopping,,FALSE,TRUE,FALSE,4
+479,Shunyo Park,18.536615,73.890137,Busy and bustling,,FALSE,TRUE,FALSE,5
+480,Parvati Hill Temple,18.497601,73.847099,Family-friendly,,TRUE,FALSE,TRUE,2
+481,Shinde Chhatri,18.491631,73.89727,Well-connected,,TRUE,TRUE,FALSE,4
+482,Osho Ashram,18.5369163,73.88860148,Scenic and tranquil,,FALSE,FALSE,FALSE,5
+483,Laxmi Road,18.51566982,73.86994118,Busy and bustling,,FALSE,FALSE,FALSE,2
+484,Saras Baug,19.0442668,72.91493416,Very spiritual and peaceful,,TRUE,TRUE,TRUE,5
+485,Rajiv Gandhi Zoological Park,18.452488,73.860802,Very spiritual and peaceful,,FALSE,FALSE,TRUE,3
+486,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Family-friendly,,FALSE,TRUE,FALSE,1
+487,Shinde Chhatri,18.491631,73.89727,Beautiful garden with a serene atmosphere,,TRUE,FALSE,FALSE,1
+488,Sinhagad Fort,18.36472045,73.75751103,Busy and bustling,,TRUE,TRUE,FALSE,5
+489,Shaniwar Wada,18.51938255,73.85535656,Scenic and tranquil,,TRUE,FALSE,TRUE,1
+490,Sambhaji Park,18.5206664,73.8472146,Beautiful garden with a serene atmosphere,,TRUE,FALSE,TRUE,3
+491,Vishrambaug Wada,18.5138486,73.8534275,Developing area,,TRUE,FALSE,FALSE,4
+492,Mahatma Phule Mandai,18.5129178,73.85629517,Developing area,,TRUE,TRUE,TRUE,5
+493,Mulshi Lake and Dam,18.530325,73.51121,Great for shopping,,FALSE,TRUE,FALSE,2
+494,Lal Mahal,26.9925078,77.5890115,Great for shopping,,FALSE,FALSE,TRUE,5
+495,Baner Pashan Biodiversity Park,18.547779,73.783333,Beautiful garden with a serene atmosphere,,TRUE,TRUE,FALSE,1
+496,Shunyo Park,18.536615,73.890137,Very spiritual and peaceful,,TRUE,TRUE,FALSE,1
+497,Tathawade Park,18.49330855,73.82731827,Beautiful garden with a serene atmosphere,,FALSE,FALSE,TRUE,3
+498,Shinde Chhatri,18.491631,73.89727,Well-connected,,TRUE,TRUE,FALSE,4
+499,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Well-connected,,FALSE,TRUE,FALSE,4
+500,Kamala Nehru Park,18.95502,72.80506346,Amazing variety of animals,,TRUE,FALSE,FALSE,2
+501,Hong Kong Lane,53.4614615,-1.465858428,Great for shopping,,TRUE,TRUE,FALSE,1
+502,Peshwe Udyan Zoo,18.503622,73.851932,Amazing variety of animals,,FALSE,TRUE,FALSE,3
+503,Empress Garden,49.1492362,-123.1361026,Family-friendly,,TRUE,FALSE,FALSE,4
+504,Parvati Hill Temple,18.497601,73.847099,Very spiritual and peaceful,,FALSE,TRUE,FALSE,4
+505,Tulsi Baug,21.13907265,79.11063485,Developing area,,TRUE,TRUE,FALSE,5
+506,Chaturshringi Temple,18.533342,73.829956,Very spiritual and peaceful,,TRUE,FALSE,FALSE,1
+507,Shaniwar Wada,18.51938255,73.85535656,Amazing variety of animals,,FALSE,FALSE,TRUE,4
+508,Tathawade Park,18.49330855,73.82731827,Developing area,,TRUE,TRUE,FALSE,4
+509,Tulsi Baug,21.13907265,79.11063485,Scenic and tranquil,,FALSE,TRUE,TRUE,4
+510,Aga Khan Palace,18.55232925,73.90147848,Beautiful garden with a serene atmosphere,,FALSE,TRUE,FALSE,1
+511,Laxmi Road,18.51566982,73.86994118,Family-friendly,,TRUE,FALSE,FALSE,1
+512,Pataleshwar Cave Temple,18.5269463,73.8498456,Well-connected,,FALSE,TRUE,TRUE,2
+513,Peshwe Udyan Zoo,18.503622,73.851932,Rich historical significance,,FALSE,FALSE,FALSE,1
+514,Mahatma Phule Mandai,18.5129178,73.85629517,Amazing variety of animals,,FALSE,FALSE,TRUE,5
+515,Kasba Ganpati Temple,18.5153055,73.8477706,Busy and bustling,,TRUE,TRUE,TRUE,2
+516,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Very spiritual and peaceful,,TRUE,TRUE,FALSE,2
+517,Vishrambaug Wada,18.5138486,73.8534275,Busy and bustling,,TRUE,TRUE,FALSE,5
+518,Vishrambaug Wada,18.5138486,73.8534275,Scenic and tranquil,,TRUE,TRUE,TRUE,5
+519,Kamala Nehru Park,18.95502,72.80506346,Busy and bustling,,TRUE,FALSE,FALSE,1
+520,Tathawade Park,18.49330855,73.82731827,Developing area,,FALSE,FALSE,FALSE,5
+521,Chaturshringi Temple,18.533342,73.829956,Developing area,,TRUE,TRUE,TRUE,1
+522,Vishrambaug Wada,18.5138486,73.8534275,Rich historical significance,,FALSE,TRUE,FALSE,5
+523,Peshwe Udyan Zoo,18.503622,73.851932,Great for shopping,,FALSE,FALSE,FALSE,5
+524,Rajiv Gandhi Zoological Park,18.452488,73.860802,Family-friendly,,TRUE,TRUE,TRUE,1
+525,Kasba Ganpati Temple,18.5153055,73.8477706,Well-connected,,TRUE,TRUE,FALSE,1
+526,Sinhagad Fort,18.36472045,73.75751103,Very spiritual and peaceful,,FALSE,TRUE,TRUE,5
+527,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Busy and bustling,,TRUE,FALSE,TRUE,4
+528,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Great for shopping,,FALSE,FALSE,FALSE,5
+529,Aga Khan Palace,18.55232925,73.90147848,Scenic and tranquil,,FALSE,TRUE,FALSE,5
+530,Rajiv Gandhi Zoological Park,18.452488,73.860802,Busy and bustling,,FALSE,FALSE,FALSE,1
+531,Vishrambaug Wada,18.5138486,73.8534275,Family-friendly,,TRUE,TRUE,TRUE,5
+532,Baner Pashan Biodiversity Park,18.547779,73.783333,Beautiful garden with a serene atmosphere,,FALSE,TRUE,FALSE,4
+533,Hong Kong Lane,53.4614615,-1.465858428,Well-connected,,FALSE,TRUE,FALSE,5
+534,Osho Ashram,18.5369163,73.88860148,Beautiful garden with a serene atmosphere,,TRUE,FALSE,TRUE,3
+535,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Well-connected,,TRUE,FALSE,FALSE,5
+536,Hong Kong Lane,53.4614615,-1.465858428,Family-friendly,,TRUE,FALSE,FALSE,3
+537,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Developing area,,FALSE,FALSE,FALSE,4
+538,Hong Kong Lane,53.4614615,-1.465858428,Family-friendly,,FALSE,FALSE,TRUE,4
+539,Tulsi Baug,21.13907265,79.11063485,Well-connected,,TRUE,TRUE,TRUE,1
+540,Kasba Ganpati Temple,18.5153055,73.8477706,Developing area,,FALSE,FALSE,FALSE,2
+541,Kamala Nehru Park,18.95502,72.80506346,Busy and bustling,,TRUE,FALSE,TRUE,3
+542,Kasba Ganpati Temple,18.5153055,73.8477706,Very spiritual and peaceful,,FALSE,TRUE,TRUE,1
+543,Tathawade Park,18.49330855,73.82731827,Developing area,,FALSE,FALSE,FALSE,1
+544,Peshwa Udyan,18.503622,73.851932,Scenic and tranquil,,TRUE,TRUE,FALSE,3
+545,Kasba Ganpati Temple,18.5153055,73.8477706,Very spiritual and peaceful,,TRUE,TRUE,FALSE,5
+546,Kamala Nehru Park,18.95502,72.80506346,Great for shopping,,TRUE,FALSE,TRUE,1
+547,Katraj Snake Park,18.4529964,73.86122764,Great for shopping,,TRUE,FALSE,TRUE,1
+548,Mulshi Lake and Dam,18.530325,73.51121,Very spiritual and peaceful,,TRUE,TRUE,FALSE,3
+549,Empress Garden,49.1492362,-123.1361026,Well-connected,,FALSE,TRUE,FALSE,5
+550,Mulshi Lake and Dam,18.530325,73.51121,Very spiritual and peaceful,,TRUE,FALSE,TRUE,2
+551,Kamala Nehru Park,18.95502,72.80506346,Well-connected,,FALSE,FALSE,FALSE,3
+552,Shinde Chhatri,18.491631,73.89727,Rich historical significance,,TRUE,TRUE,FALSE,5
+553,Sambhaji Park,18.5206664,73.8472146,Developing area,,TRUE,TRUE,FALSE,4
+554,Baner Pashan Biodiversity Park,18.547779,73.783333,Amazing variety of animals,,FALSE,TRUE,TRUE,1
+555,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Great for shopping,,FALSE,FALSE,TRUE,3
+556,Laxmi Road,18.51566982,73.86994118,Family-friendly,,FALSE,FALSE,TRUE,4
+557,Peshwa Udyan,18.503622,73.851932,Amazing variety of animals,,FALSE,TRUE,TRUE,4
+558,Peshwa Udyan,18.503622,73.851932,Scenic and tranquil,,FALSE,TRUE,TRUE,4
+559,Fashion Street,51.51843792,-0.072872663,Rich historical significance,,TRUE,TRUE,FALSE,3
+560,Sambhaji Park,18.5206664,73.8472146,Busy and bustling,,TRUE,TRUE,TRUE,4
+561,Baner Pashan Biodiversity Park,18.547779,73.783333,Great for shopping,,TRUE,FALSE,TRUE,2
+562,Kasba Ganpati Temple,18.5153055,73.8477706,Well-connected,,TRUE,TRUE,FALSE,4
+563,Aga Khan Palace,18.55232925,73.90147848,Family-friendly,,TRUE,FALSE,FALSE,3
+564,Empress Garden,49.1492362,-123.1361026,Amazing variety of animals,,FALSE,TRUE,TRUE,4
+565,Mulshi Lake and Dam,18.530325,73.51121,Busy and bustling,,FALSE,FALSE,FALSE,4
+566,Pataleshwar Cave Temple,18.5269463,73.8498456,Developing area,,FALSE,FALSE,FALSE,2
+567,Pataleshwar Cave Temple,18.5269463,73.8498456,Very spiritual and peaceful,,TRUE,FALSE,FALSE,1
+568,Rajiv Gandhi Zoological Park,18.452488,73.860802,Busy and bustling,,TRUE,FALSE,TRUE,3
+569,Katraj Snake Park,18.4529964,73.86122764,Scenic and tranquil,,FALSE,FALSE,FALSE,5
+570,Fashion Street,51.51843792,-0.072872663,Developing area,,TRUE,FALSE,FALSE,5
+571,Hong Kong Lane,53.4614615,-1.465858428,Scenic and tranquil,,TRUE,FALSE,FALSE,4
+572,Peshwe Udyan Zoo,18.503622,73.851932,Rich historical significance,,FALSE,TRUE,TRUE,2
+573,Mahatma Phule Mandai,18.5129178,73.85629517,Busy and bustling,,TRUE,FALSE,TRUE,5
+574,Tulsi Baug,21.13907265,79.11063485,Family-friendly,,TRUE,FALSE,FALSE,3
+575,Sinhagad Fort,18.36472045,73.75751103,Rich historical significance,,TRUE,TRUE,FALSE,3
+576,Lal Mahal,26.9925078,77.5890115,Developing area,,FALSE,FALSE,FALSE,3
+577,Katraj Snake Park,18.4529964,73.86122764,Rich historical significance,,FALSE,FALSE,FALSE,2
+578,Shinde Chhatri,18.491631,73.89727,Great for shopping,,TRUE,TRUE,TRUE,5
+579,Rajiv Gandhi Zoological Park,18.452488,73.860802,Well-connected,,TRUE,TRUE,TRUE,5
+580,Pataleshwar Cave Temple,18.5269463,73.8498456,Beautiful garden with a serene atmosphere,,TRUE,TRUE,FALSE,3
+581,Osho Ashram,18.5369163,73.88860148,Very spiritual and peaceful,,TRUE,TRUE,FALSE,3
+582,Osho Ashram,18.5369163,73.88860148,Scenic and tranquil,,FALSE,TRUE,FALSE,2
+583,Fashion Street,51.51843792,-0.072872663,Great for shopping,,FALSE,FALSE,TRUE,3
+584,Parvati Hill Temple,18.497601,73.847099,Busy and bustling,,FALSE,TRUE,TRUE,2
+585,Peshwa Udyan,18.503622,73.851932,Developing area,,TRUE,TRUE,FALSE,2
+586,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Very spiritual and peaceful,,FALSE,FALSE,TRUE,4
+587,Lal Mahal,26.9925078,77.5890115,Amazing variety of animals,,TRUE,TRUE,FALSE,4
+588,Tulsi Baug,21.13907265,79.11063485,Developing area,,FALSE,FALSE,TRUE,2
+589,Hong Kong Lane,53.4614615,-1.465858428,Developing area,,FALSE,TRUE,TRUE,1
+590,Katraj Snake Park,18.4529964,73.86122764,Family-friendly,,TRUE,FALSE,TRUE,5
+591,Rajiv Gandhi Zoological Park,18.452488,73.860802,Well-connected,,TRUE,FALSE,TRUE,3
+592,Tulsi Baug,21.13907265,79.11063485,Very spiritual and peaceful,,FALSE,TRUE,TRUE,2
+593,Kasba Ganpati Temple,18.5153055,73.8477706,Very spiritual and peaceful,,TRUE,FALSE,FALSE,5
+594,Mulshi Lake and Dam,18.530325,73.51121,Rich historical significance,,FALSE,TRUE,TRUE,3
+595,Parvati Hill Temple,18.497601,73.847099,Rich historical significance,,FALSE,FALSE,TRUE,1
+596,Shinde Chhatri,18.491631,73.89727,Well-connected,,FALSE,TRUE,TRUE,1
+597,Peshwa Udyan,18.503622,73.851932,Rich historical significance,,TRUE,FALSE,TRUE,4
+598,Aga Khan Palace,18.55232925,73.90147848,Beautiful garden with a serene atmosphere,,TRUE,TRUE,TRUE,3
+599,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Great for shopping,,FALSE,TRUE,FALSE,3
+600,Sinhagad Fort,18.36472045,73.75751103,Very spiritual and peaceful,,TRUE,FALSE,FALSE,5
+601,Tathawade Park,18.49330855,73.82731827,Great for shopping,,FALSE,FALSE,TRUE,5
+602,Kasba Ganpati Temple,18.5153055,73.8477706,Well-connected,,TRUE,FALSE,FALSE,1
+603,Parvati Hill Temple,18.497601,73.847099,Rich historical significance,,TRUE,TRUE,TRUE,2
+604,Rajiv Gandhi Zoological Park,18.452488,73.860802,Rich historical significance,,TRUE,TRUE,TRUE,3
+605,Katraj Snake Park,18.4529964,73.86122764,Very spiritual and peaceful,,TRUE,TRUE,FALSE,3
+606,Peshwa Udyan,18.503622,73.851932,Developing area,,FALSE,FALSE,TRUE,5
+607,Pune Okayama Friendship Garden,18.4910844,73.8381503,Rich historical significance,,FALSE,TRUE,TRUE,4
+608,Peshwe Udyan Zoo,18.503622,73.851932,Beautiful garden with a serene atmosphere,,FALSE,TRUE,TRUE,1
+609,Baner Pashan Biodiversity Park,18.547779,73.783333,Well-connected,,TRUE,FALSE,TRUE,4
+610,Shunyo Park,18.536615,73.890137,Great for shopping,,FALSE,TRUE,FALSE,2
+611,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Rich historical significance,,TRUE,TRUE,FALSE,5
+612,Saras Baug,19.0442668,72.91493416,Scenic and tranquil,,FALSE,FALSE,TRUE,4
+613,Lal Mahal,26.9925078,77.5890115,Great for shopping,,TRUE,TRUE,FALSE,4
+614,Laxmi Road,18.51566982,73.86994118,Amazing variety of animals,,TRUE,TRUE,FALSE,1
+615,Bund Garden,18.5405933,73.8834394,Scenic and tranquil,,FALSE,TRUE,FALSE,1
+616,Pune Okayama Friendship Garden,18.4910844,73.8381503,Well-connected,,FALSE,FALSE,FALSE,2
+617,Shaniwar Wada,18.51938255,73.85535656,Family-friendly,,FALSE,TRUE,FALSE,5
+618,Kamala Nehru Park,18.95502,72.80506346,Developing area,,FALSE,FALSE,TRUE,5
+619,Baner Pashan Biodiversity Park,18.547779,73.783333,Rich historical significance,,FALSE,FALSE,FALSE,4
+620,Parvati Hill Temple,18.497601,73.847099,Busy and bustling,,FALSE,FALSE,TRUE,2
+621,Shinde Chhatri,18.491631,73.89727,Busy and bustling,,TRUE,FALSE,FALSE,1
+622,Lal Mahal,26.9925078,77.5890115,Busy and bustling,,FALSE,TRUE,FALSE,3
+623,Chaturshringi Temple,18.533342,73.829956,Amazing variety of animals,,FALSE,FALSE,FALSE,4
+624,Parvati Hill Temple,18.497601,73.847099,Well-connected,,TRUE,TRUE,TRUE,1
+625,Fashion Street,51.51843792,-0.072872663,Busy and bustling,,FALSE,FALSE,TRUE,1
+626,Osho Ashram,18.5369163,73.88860148,Busy and bustling,,TRUE,TRUE,TRUE,5
+627,Shaniwar Wada,18.51938255,73.85535656,Very spiritual and peaceful,,TRUE,TRUE,FALSE,4
+628,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Great for shopping,,TRUE,FALSE,TRUE,2
+629,Mahatma Phule Mandai,18.5129178,73.85629517,Beautiful garden with a serene atmosphere,,TRUE,FALSE,FALSE,5
+630,Tulsi Baug,21.13907265,79.11063485,Amazing variety of animals,,TRUE,TRUE,TRUE,4
+631,Osho Ashram,18.5369163,73.88860148,Busy and bustling,,TRUE,TRUE,FALSE,1
+632,Laxmi Road,18.51566982,73.86994118,Amazing variety of animals,,FALSE,FALSE,TRUE,1
+633,Lal Mahal,26.9925078,77.5890115,Great for shopping,,TRUE,FALSE,FALSE,1
+634,Mahatma Phule Mandai,18.5129178,73.85629517,Developing area,,FALSE,TRUE,TRUE,3
+635,Katraj Snake Park,18.4529964,73.86122764,Developing area,,TRUE,TRUE,TRUE,5
+636,Pataleshwar Cave Temple,18.5269463,73.8498456,Very spiritual and peaceful,,FALSE,TRUE,FALSE,3
+637,Kamala Nehru Park,18.95502,72.80506346,Scenic and tranquil,,TRUE,FALSE,TRUE,4
+638,Rajiv Gandhi Zoological Park,18.452488,73.860802,Family-friendly,,FALSE,FALSE,FALSE,1
+639,Parvati Hill Temple,18.497601,73.847099,Amazing variety of animals,,FALSE,FALSE,FALSE,4
+640,Katraj Snake Park,18.4529964,73.86122764,Amazing variety of animals,,FALSE,FALSE,FALSE,5
+641,Mahatma Phule Mandai,18.5129178,73.85629517,Great for shopping,,FALSE,TRUE,TRUE,3
+642,Katraj Snake Park,18.4529964,73.86122764,Beautiful garden with a serene atmosphere,,FALSE,FALSE,TRUE,4
+643,Pune Okayama Friendship Garden,18.4910844,73.8381503,Amazing variety of animals,,FALSE,FALSE,TRUE,2
+644,Pataleshwar Cave Temple,18.5269463,73.8498456,Rich historical significance,,TRUE,TRUE,FALSE,4
+645,Aga Khan Palace,18.55232925,73.90147848,Scenic and tranquil,,FALSE,TRUE,FALSE,4
+646,Mahatma Phule Mandai,18.5129178,73.85629517,Beautiful garden with a serene atmosphere,,TRUE,FALSE,FALSE,4
+647,Kamala Nehru Park,18.95502,72.80506346,Amazing variety of animals,,TRUE,FALSE,TRUE,1
+648,Baner Pashan Biodiversity Park,18.547779,73.783333,Busy and bustling,,FALSE,TRUE,FALSE,4
+649,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Great for shopping,,FALSE,TRUE,FALSE,5
+650,Tathawade Park,18.49330855,73.82731827,Family-friendly,,FALSE,FALSE,TRUE,3
+651,Laxmi Road,18.51566982,73.86994118,Amazing variety of animals,,TRUE,TRUE,FALSE,5
+652,Rajiv Gandhi Zoological Park,18.452488,73.860802,Rich historical significance,,TRUE,TRUE,FALSE,4
+653,Mahatma Phule Mandai,18.5129178,73.85629517,Developing area,,FALSE,TRUE,FALSE,3
+654,Kasba Ganpati Temple,18.5153055,73.8477706,Busy and bustling,,TRUE,FALSE,TRUE,5
+655,Sinhagad Fort,18.36472045,73.75751103,Busy and bustling,,TRUE,FALSE,TRUE,4
+656,Kamala Nehru Park,18.95502,72.80506346,Well-connected,,TRUE,TRUE,TRUE,5
+657,Chaturshringi Temple,18.533342,73.829956,Family-friendly,,TRUE,FALSE,TRUE,5
+658,Lal Mahal,26.9925078,77.5890115,Busy and bustling,,FALSE,FALSE,FALSE,4
+659,Shaniwar Wada,18.51938255,73.85535656,Very spiritual and peaceful,,TRUE,TRUE,FALSE,2
+660,Kamala Nehru Park,18.95502,72.80506346,Amazing variety of animals,,FALSE,FALSE,TRUE,4
+661,Mahatma Phule Mandai,18.5129178,73.85629517,Very spiritual and peaceful,,TRUE,TRUE,TRUE,1
+662,Rajiv Gandhi Zoological Park,18.452488,73.860802,Scenic and tranquil,,FALSE,TRUE,FALSE,5
+663,Rajiv Gandhi Zoological Park,18.452488,73.860802,Busy and bustling,,FALSE,TRUE,TRUE,2
+664,Peshwe Udyan Zoo,18.503622,73.851932,Amazing variety of animals,,TRUE,TRUE,FALSE,5
+665,Mulshi Lake and Dam,18.530325,73.51121,Rich historical significance,,TRUE,FALSE,FALSE,2
+666,Aga Khan Palace,18.55232925,73.90147848,Scenic and tranquil,,TRUE,TRUE,FALSE,2
+667,Peshwe Udyan Zoo,18.503622,73.851932,Developing area,,FALSE,FALSE,TRUE,5
+668,Tathawade Park,18.49330855,73.82731827,Scenic and tranquil,,TRUE,TRUE,FALSE,1
+669,Tulsi Baug,21.13907265,79.11063485,Great for shopping,,FALSE,TRUE,FALSE,3
+670,Empress Garden,49.1492362,-123.1361026,Developing area,,TRUE,TRUE,FALSE,1
+671,Sinhagad Fort,18.36472045,73.75751103,Busy and bustling,,FALSE,TRUE,TRUE,3
+672,Mahatma Phule Mandai,18.5129178,73.85629517,Amazing variety of animals,,TRUE,FALSE,TRUE,5
+673,Kamala Nehru Park,18.95502,72.80506346,Well-connected,,TRUE,TRUE,FALSE,4
+674,Mahatma Phule Mandai,18.5129178,73.85629517,Great for shopping,,FALSE,TRUE,FALSE,1
+675,Osho Ashram,18.5369163,73.88860148,Rich historical significance,,FALSE,TRUE,TRUE,1
+676,Sambhaji Park,18.5206664,73.8472146,Family-friendly,,FALSE,TRUE,FALSE,1
+677,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Family-friendly,,FALSE,TRUE,TRUE,3
+678,Lal Mahal,26.9925078,77.5890115,Busy and bustling,,FALSE,FALSE,FALSE,4
+679,Sinhagad Fort,18.36472045,73.75751103,Developing area,,TRUE,FALSE,FALSE,3
+680,Mahatma Phule Mandai,18.5129178,73.85629517,Well-connected,,FALSE,TRUE,FALSE,2
+681,Baner Pashan Biodiversity Park,18.547779,73.783333,Busy and bustling,,TRUE,FALSE,TRUE,4
+682,Chaturshringi Temple,18.533342,73.829956,Great for shopping,,TRUE,FALSE,FALSE,4
+683,Shaniwar Wada,18.51938255,73.85535656,Beautiful garden with a serene atmosphere,,TRUE,TRUE,TRUE,4
+684,Katraj Snake Park,18.4529964,73.86122764,Developing area,,FALSE,FALSE,FALSE,2
+685,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Scenic and tranquil,,FALSE,FALSE,TRUE,2
+686,Vishrambaug Wada,18.5138486,73.8534275,Developing area,,TRUE,FALSE,TRUE,4
+687,Aga Khan Palace,18.55232925,73.90147848,Beautiful garden with a serene atmosphere,,FALSE,FALSE,TRUE,1
+688,Hong Kong Lane,53.4614615,-1.465858428,Great for shopping,,TRUE,TRUE,TRUE,4
+689,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Family-friendly,,FALSE,FALSE,FALSE,5
+690,Vishrambaug Wada,18.5138486,73.8534275,Beautiful garden with a serene atmosphere,,TRUE,FALSE,FALSE,1
+691,Peshwe Udyan Zoo,18.503622,73.851932,Scenic and tranquil,,FALSE,TRUE,TRUE,1
+692,Rajiv Gandhi Zoological Park,18.452488,73.860802,Amazing variety of animals,,TRUE,TRUE,FALSE,5
+693,Fashion Street,51.51843792,-0.072872663,Great for shopping,,FALSE,FALSE,FALSE,5
+694,Chaturshringi Temple,18.533342,73.829956,Well-connected,,TRUE,FALSE,FALSE,2
+695,Baner Pashan Biodiversity Park,18.547779,73.783333,Busy and bustling,,FALSE,FALSE,FALSE,1
+696,Sinhagad Fort,18.36472045,73.75751103,Well-connected,,TRUE,FALSE,TRUE,1
+697,Shinde Chhatri,18.491631,73.89727,Great for shopping,,FALSE,TRUE,FALSE,1
+698,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Scenic and tranquil,,FALSE,FALSE,FALSE,1
+699,Shunyo Park,18.536615,73.890137,Amazing variety of animals,,FALSE,TRUE,TRUE,3
+700,Sambhaji Park,18.5206664,73.8472146,Busy and bustling,,TRUE,TRUE,FALSE,5
+701,Empress Garden,49.1492362,-123.1361026,Family-friendly,,TRUE,FALSE,FALSE,5
+702,Kamala Nehru Park,18.95502,72.80506346,Beautiful garden with a serene atmosphere,,TRUE,TRUE,TRUE,1
+703,Pune Okayama Friendship Garden,18.4910844,73.8381503,Amazing variety of animals,,TRUE,TRUE,TRUE,4
+704,Lal Mahal,26.9925078,77.5890115,Beautiful garden with a serene atmosphere,,TRUE,FALSE,TRUE,2
+705,Empress Garden,49.1492362,-123.1361026,Very spiritual and peaceful,,TRUE,FALSE,TRUE,1
+706,Pune Okayama Friendship Garden,18.4910844,73.8381503,Rich historical significance,,FALSE,TRUE,TRUE,5
+707,Shinde Chhatri,18.491631,73.89727,Family-friendly,,TRUE,FALSE,FALSE,1
+708,Vishrambaug Wada,18.5138486,73.8534275,Scenic and tranquil,,FALSE,TRUE,FALSE,1
+709,Osho Ashram,18.5369163,73.88860148,Busy and bustling,,FALSE,FALSE,TRUE,5
+710,Saras Baug,19.0442668,72.91493416,Rich historical significance,,TRUE,FALSE,TRUE,1
+711,Tathawade Park,18.49330855,73.82731827,Beautiful garden with a serene atmosphere,,FALSE,TRUE,TRUE,2
+712,Lal Mahal,26.9925078,77.5890115,Developing area,,TRUE,FALSE,TRUE,4
+713,Peshwa Udyan,18.503622,73.851932,Amazing variety of animals,,FALSE,TRUE,FALSE,2
+714,Rajiv Gandhi Zoological Park,18.452488,73.860802,Scenic and tranquil,,TRUE,TRUE,FALSE,5
+715,Lal Mahal,26.9925078,77.5890115,Scenic and tranquil,,FALSE,FALSE,FALSE,1
+716,Shunyo Park,18.536615,73.890137,Developing area,,TRUE,FALSE,TRUE,5
+717,Baner Pashan Biodiversity Park,18.547779,73.783333,Great for shopping,,FALSE,FALSE,FALSE,1
+718,Pune Okayama Friendship Garden,18.4910844,73.8381503,Amazing variety of animals,,FALSE,FALSE,FALSE,4
+719,Pataleshwar Cave Temple,18.5269463,73.8498456,Great for shopping,,TRUE,TRUE,TRUE,2
+720,Shunyo Park,18.536615,73.890137,Great for shopping,,FALSE,TRUE,FALSE,2
+721,Saras Baug,19.0442668,72.91493416,Family-friendly,,TRUE,TRUE,FALSE,5
+722,Chaturshringi Temple,18.533342,73.829956,Scenic and tranquil,,TRUE,FALSE,TRUE,5
+723,Peshwa Udyan,18.503622,73.851932,Rich historical significance,,FALSE,FALSE,FALSE,2
+724,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Developing area,,TRUE,FALSE,TRUE,4
+725,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Developing area,,TRUE,TRUE,FALSE,3
+726,Sambhaji Park,18.5206664,73.8472146,Busy and bustling,,FALSE,TRUE,FALSE,1
+727,Rajiv Gandhi Zoological Park,18.452488,73.860802,Great for shopping,,FALSE,TRUE,FALSE,3
+728,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Rich historical significance,,TRUE,TRUE,FALSE,2
+729,Empress Garden,49.1492362,-123.1361026,Well-connected,,TRUE,FALSE,TRUE,3
+730,Chaturshringi Temple,18.533342,73.829956,Well-connected,,TRUE,TRUE,TRUE,3
+731,Empress Garden,49.1492362,-123.1361026,Great for shopping,,FALSE,FALSE,FALSE,5
+732,Osho Ashram,18.5369163,73.88860148,Rich historical significance,,FALSE,TRUE,TRUE,3
+733,Kasba Ganpati Temple,18.5153055,73.8477706,Well-connected,,FALSE,FALSE,TRUE,1
+734,Chaturshringi Temple,18.533342,73.829956,Well-connected,,FALSE,TRUE,TRUE,5
+735,Bund Garden,18.5405933,73.8834394,Family-friendly,,TRUE,TRUE,TRUE,3
+736,Saras Baug,19.0442668,72.91493416,Scenic and tranquil,,FALSE,FALSE,FALSE,3
+737,Osho Ashram,18.5369163,73.88860148,Scenic and tranquil,,FALSE,FALSE,TRUE,2
+738,Mahatma Phule Mandai,18.5129178,73.85629517,Very spiritual and peaceful,,TRUE,TRUE,TRUE,5
+739,Saras Baug,19.0442668,72.91493416,Very spiritual and peaceful,,TRUE,TRUE,TRUE,5
+740,Tathawade Park,18.49330855,73.82731827,Scenic and tranquil,,FALSE,FALSE,TRUE,5
+741,Pune Okayama Friendship Garden,18.4910844,73.8381503,Beautiful garden with a serene atmosphere,,FALSE,FALSE,FALSE,1
+742,Shinde Chhatri,18.491631,73.89727,Developing area,,FALSE,FALSE,FALSE,5
+743,Hong Kong Lane,53.4614615,-1.465858428,Well-connected,,TRUE,FALSE,TRUE,5
+744,Shaniwar Wada,18.51938255,73.85535656,Busy and bustling,,TRUE,TRUE,FALSE,1
+745,Pune Okayama Friendship Garden,18.4910844,73.8381503,Amazing variety of animals,,FALSE,FALSE,TRUE,3
+746,Sambhaji Park,18.5206664,73.8472146,Busy and bustling,,TRUE,TRUE,FALSE,5
+747,Lal Mahal,26.9925078,77.5890115,Rich historical significance,,TRUE,TRUE,FALSE,5
+748,Shinde Chhatri,18.491631,73.89727,Amazing variety of animals,,FALSE,FALSE,FALSE,4
+749,Sinhagad Fort,18.36472045,73.75751103,Rich historical significance,,TRUE,TRUE,TRUE,2
+750,Baner Pashan Biodiversity Park,18.547779,73.783333,Amazing variety of animals,,FALSE,TRUE,FALSE,4
+751,Saras Baug,19.0442668,72.91493416,Family-friendly,,FALSE,TRUE,TRUE,4
+752,Empress Garden,49.1492362,-123.1361026,Amazing variety of animals,,FALSE,FALSE,FALSE,1
+753,Hong Kong Lane,53.4614615,-1.465858428,Great for shopping,,TRUE,FALSE,FALSE,5
+754,Aga Khan Palace,18.55232925,73.90147848,Well-connected,,FALSE,TRUE,TRUE,2
+755,Tulsi Baug,21.13907265,79.11063485,Family-friendly,,FALSE,TRUE,TRUE,3
+756,Pune Okayama Friendship Garden,18.4910844,73.8381503,Rich historical significance,,TRUE,FALSE,FALSE,4
+757,Shaniwar Wada,18.51938255,73.85535656,Busy and bustling,,FALSE,TRUE,FALSE,5
+758,Laxmi Road,18.51566982,73.86994118,Great for shopping,,TRUE,FALSE,TRUE,2
+759,Bund Garden,18.5405933,73.8834394,Developing area,,FALSE,TRUE,FALSE,5
+760,Kamala Nehru Park,18.95502,72.80506346,Developing area,,FALSE,TRUE,TRUE,2
+761,Baner Pashan Biodiversity Park,18.547779,73.783333,Rich historical significance,,TRUE,FALSE,TRUE,1
+762,Mahatma Phule Mandai,18.5129178,73.85629517,Scenic and tranquil,,TRUE,FALSE,TRUE,5
+763,Saras Baug,19.0442668,72.91493416,Scenic and tranquil,,FALSE,FALSE,TRUE,2
+764,Katraj Snake Park,18.4529964,73.86122764,Very spiritual and peaceful,,TRUE,FALSE,FALSE,4
+765,Kamala Nehru Park,18.95502,72.80506346,Rich historical significance,,TRUE,TRUE,FALSE,3
+766,Rajiv Gandhi Zoological Park,18.452488,73.860802,Busy and bustling,,FALSE,FALSE,TRUE,4
+767,Chaturshringi Temple,18.533342,73.829956,Well-connected,,FALSE,FALSE,TRUE,5
+768,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Beautiful garden with a serene atmosphere,,TRUE,TRUE,FALSE,2
+769,Hong Kong Lane,53.4614615,-1.465858428,Scenic and tranquil,,TRUE,TRUE,TRUE,3
+770,Shinde Chhatri,18.491631,73.89727,Amazing variety of animals,,TRUE,TRUE,TRUE,4
+771,Shunyo Park,18.536615,73.890137,Developing area,,TRUE,FALSE,TRUE,4
+772,Bund Garden,18.5405933,73.8834394,Amazing variety of animals,,FALSE,TRUE,FALSE,1
+773,Bund Garden,18.5405933,73.8834394,Beautiful garden with a serene atmosphere,,FALSE,TRUE,FALSE,3
+774,Kamala Nehru Park,18.95502,72.80506346,Very spiritual and peaceful,,TRUE,FALSE,FALSE,5
+775,Hong Kong Lane,53.4614615,-1.465858428,Amazing variety of animals,,TRUE,FALSE,TRUE,2
+776,Peshwa Udyan,18.503622,73.851932,Great for shopping,,TRUE,TRUE,FALSE,3
+777,Fashion Street,51.51843792,-0.072872663,Family-friendly,,TRUE,TRUE,TRUE,5
+778,Peshwe Udyan Zoo,18.503622,73.851932,Scenic and tranquil,,TRUE,FALSE,TRUE,5
+779,Aga Khan Palace,18.55232925,73.90147848,Developing area,,TRUE,TRUE,TRUE,2
+780,Tulsi Baug,21.13907265,79.11063485,Beautiful garden with a serene atmosphere,,TRUE,FALSE,FALSE,4
+781,Pataleshwar Cave Temple,18.5269463,73.8498456,Busy and bustling,,TRUE,FALSE,FALSE,4
+782,Chaturshringi Temple,18.533342,73.829956,Great for shopping,,FALSE,TRUE,FALSE,5
+783,Mulshi Lake and Dam,18.530325,73.51121,Very spiritual and peaceful,,FALSE,TRUE,TRUE,2
+784,Aga Khan Palace,18.55232925,73.90147848,Amazing variety of animals,,FALSE,FALSE,FALSE,3
+785,Parvati Hill Temple,18.497601,73.847099,Amazing variety of animals,,FALSE,FALSE,FALSE,5
+786,Kasba Ganpati Temple,18.5153055,73.8477706,Amazing variety of animals,,FALSE,TRUE,TRUE,2
+787,Aga Khan Palace,18.55232925,73.90147848,Busy and bustling,,TRUE,FALSE,TRUE,3
+788,Shinde Chhatri,18.491631,73.89727,Rich historical significance,,TRUE,TRUE,FALSE,5
+789,Chaturshringi Temple,18.533342,73.829956,Scenic and tranquil,,FALSE,TRUE,FALSE,5
+790,Pataleshwar Cave Temple,18.5269463,73.8498456,Very spiritual and peaceful,,FALSE,TRUE,FALSE,3
+791,Katraj Snake Park,18.4529964,73.86122764,Well-connected,,FALSE,TRUE,TRUE,5
+792,Vishrambaug Wada,18.5138486,73.8534275,Well-connected,,FALSE,FALSE,TRUE,3
+793,Vishrambaug Wada,18.5138486,73.8534275,Well-connected,,FALSE,FALSE,TRUE,2
+794,Vishrambaug Wada,18.5138486,73.8534275,Busy and bustling,,TRUE,FALSE,FALSE,2
+795,Saras Baug,19.0442668,72.91493416,Great for shopping,,TRUE,FALSE,TRUE,1
+796,Hong Kong Lane,53.4614615,-1.465858428,Beautiful garden with a serene atmosphere,,TRUE,TRUE,FALSE,5
+797,Sinhagad Fort,18.36472045,73.75751103,Beautiful garden with a serene atmosphere,,FALSE,TRUE,FALSE,5
+798,Rajiv Gandhi Zoological Park,18.452488,73.860802,Very spiritual and peaceful,,TRUE,TRUE,FALSE,2
+799,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Developing area,,FALSE,TRUE,TRUE,3
+800,Bund Garden,18.5405933,73.8834394,Great for shopping,,FALSE,TRUE,TRUE,2
+801,Shaniwar Wada,18.51938255,73.85535656,Very spiritual and peaceful,,FALSE,TRUE,TRUE,5
+802,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Rich historical significance,,TRUE,TRUE,TRUE,3
+803,Kasba Ganpati Temple,18.5153055,73.8477706,Developing area,,TRUE,FALSE,TRUE,3
+804,Chaturshringi Temple,18.533342,73.829956,Rich historical significance,,TRUE,FALSE,FALSE,3
+805,Laxmi Road,18.51566982,73.86994118,Amazing variety of animals,,FALSE,FALSE,TRUE,1
+806,Empress Garden,49.1492362,-123.1361026,Amazing variety of animals,,TRUE,TRUE,FALSE,4
+807,Baner Pashan Biodiversity Park,18.547779,73.783333,Amazing variety of animals,,TRUE,TRUE,TRUE,4
+808,Shinde Chhatri,18.491631,73.89727,Well-connected,,FALSE,FALSE,FALSE,3
+809,Vishrambaug Wada,18.5138486,73.8534275,Very spiritual and peaceful,,TRUE,TRUE,TRUE,3
+810,Kamala Nehru Park,18.95502,72.80506346,Busy and bustling,,FALSE,FALSE,FALSE,2
+811,Tathawade Park,18.49330855,73.82731827,Beautiful garden with a serene atmosphere,,FALSE,TRUE,FALSE,3
+812,Lal Mahal,26.9925078,77.5890115,Great for shopping,,FALSE,TRUE,TRUE,2
+813,Peshwa Udyan,18.503622,73.851932,Rich historical significance,,TRUE,FALSE,FALSE,2
+814,Laxmi Road,18.51566982,73.86994118,Amazing variety of animals,,FALSE,FALSE,TRUE,5
+815,Peshwa Udyan,18.503622,73.851932,Well-connected,,FALSE,FALSE,TRUE,5
+816,Katraj Snake Park,18.4529964,73.86122764,Well-connected,,FALSE,FALSE,FALSE,3
+817,Shinde Chhatri,18.491631,73.89727,Well-connected,,TRUE,TRUE,TRUE,1
+818,Sinhagad Fort,18.36472045,73.75751103,Rich historical significance,,FALSE,FALSE,FALSE,2
+819,Chaturshringi Temple,18.533342,73.829956,Beautiful garden with a serene atmosphere,,FALSE,FALSE,TRUE,2
+820,Vishrambaug Wada,18.5138486,73.8534275,Rich historical significance,,FALSE,TRUE,FALSE,2
+821,Sambhaji Park,18.5206664,73.8472146,Great for shopping,,TRUE,FALSE,FALSE,5
+822,Osho Ashram,18.5369163,73.88860148,Rich historical significance,,FALSE,FALSE,FALSE,1
+823,Shaniwar Wada,18.51938255,73.85535656,Rich historical significance,,TRUE,FALSE,FALSE,1
+824,Mulshi Lake and Dam,18.530325,73.51121,Rich historical significance,,TRUE,FALSE,TRUE,4
+825,Rajiv Gandhi Zoological Park,18.452488,73.860802,Scenic and tranquil,,FALSE,TRUE,FALSE,2
+826,Tulsi Baug,21.13907265,79.11063485,Amazing variety of animals,,FALSE,FALSE,FALSE,1
+827,Rajiv Gandhi Zoological Park,18.452488,73.860802,Very spiritual and peaceful,,TRUE,FALSE,TRUE,3
+828,Tathawade Park,18.49330855,73.82731827,Amazing variety of animals,,TRUE,FALSE,FALSE,3
+829,Parvati Hill Temple,18.497601,73.847099,Beautiful garden with a serene atmosphere,,TRUE,TRUE,TRUE,5
+830,Laxmi Road,18.51566982,73.86994118,Great for shopping,,FALSE,FALSE,TRUE,4
+831,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Developing area,,TRUE,TRUE,FALSE,1
+832,Rajiv Gandhi Zoological Park,18.452488,73.860802,Busy and bustling,,TRUE,FALSE,FALSE,5
+833,Pune Okayama Friendship Garden,18.4910844,73.8381503,Beautiful garden with a serene atmosphere,,TRUE,FALSE,TRUE,3
+834,Vishrambaug Wada,18.5138486,73.8534275,Rich historical significance,,TRUE,TRUE,TRUE,3
+835,Rajiv Gandhi Zoological Park,18.452488,73.860802,Scenic and tranquil,,FALSE,FALSE,TRUE,5
+836,Rajiv Gandhi Zoological Park,18.452488,73.860802,Beautiful garden with a serene atmosphere,,TRUE,FALSE,FALSE,4
+837,Pune Okayama Friendship Garden,18.4910844,73.8381503,Rich historical significance,,TRUE,TRUE,FALSE,4
+838,Hong Kong Lane,53.4614615,-1.465858428,Developing area,,TRUE,FALSE,FALSE,1
+839,Fashion Street,51.51843792,-0.072872663,Amazing variety of animals,,FALSE,TRUE,TRUE,3
+840,Aga Khan Palace,18.55232925,73.90147848,Amazing variety of animals,,FALSE,TRUE,FALSE,1
+841,Vishrambaug Wada,18.5138486,73.8534275,Family-friendly,,FALSE,TRUE,TRUE,2
+842,Empress Garden,49.1492362,-123.1361026,Busy and bustling,,TRUE,TRUE,FALSE,5
+843,Kamala Nehru Park,18.95502,72.80506346,Amazing variety of animals,,TRUE,FALSE,TRUE,2
+844,Peshwa Udyan,18.503622,73.851932,Family-friendly,,TRUE,TRUE,TRUE,5
+845,Baner Pashan Biodiversity Park,18.547779,73.783333,Beautiful garden with a serene atmosphere,,TRUE,FALSE,TRUE,3
+846,Katraj Snake Park,18.4529964,73.86122764,Family-friendly,,TRUE,TRUE,TRUE,1
+847,Shunyo Park,18.536615,73.890137,Scenic and tranquil,,TRUE,FALSE,TRUE,2
+848,Osho Ashram,18.5369163,73.88860148,Amazing variety of animals,,FALSE,FALSE,FALSE,3
+849,Mulshi Lake and Dam,18.530325,73.51121,Scenic and tranquil,,TRUE,FALSE,TRUE,3
+850,Tulsi Baug,21.13907265,79.11063485,Rich historical significance,,TRUE,FALSE,TRUE,2
+851,Sambhaji Park,18.5206664,73.8472146,Amazing variety of animals,,TRUE,TRUE,FALSE,3
+852,Parvati Hill Temple,18.497601,73.847099,Busy and bustling,,TRUE,FALSE,FALSE,1
+853,Peshwa Udyan,18.503622,73.851932,Amazing variety of animals,,TRUE,FALSE,TRUE,4
+854,Baner Pashan Biodiversity Park,18.547779,73.783333,Great for shopping,,TRUE,TRUE,FALSE,4
+855,Mahatma Phule Mandai,18.5129178,73.85629517,Well-connected,,TRUE,FALSE,FALSE,3
+856,Shunyo Park,18.536615,73.890137,Great for shopping,,TRUE,FALSE,TRUE,5
+857,Baner Pashan Biodiversity Park,18.547779,73.783333,Busy and bustling,,FALSE,TRUE,FALSE,1
+858,Laxmi Road,18.51566982,73.86994118,Family-friendly,,TRUE,FALSE,TRUE,3
+859,Baner Pashan Biodiversity Park,18.547779,73.783333,Great for shopping,,FALSE,TRUE,FALSE,4
+860,Aga Khan Palace,18.55232925,73.90147848,Very spiritual and peaceful,,TRUE,FALSE,FALSE,5
+861,Sinhagad Fort,18.36472045,73.75751103,Busy and bustling,,FALSE,TRUE,TRUE,3
+862,Baner Pashan Biodiversity Park,18.547779,73.783333,Developing area,,FALSE,TRUE,FALSE,1
+863,Shaniwar Wada,18.51938255,73.85535656,Family-friendly,,TRUE,FALSE,FALSE,2
+864,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Busy and bustling,,FALSE,FALSE,FALSE,5
+865,Tulsi Baug,21.13907265,79.11063485,Rich historical significance,,TRUE,FALSE,FALSE,4
+866,Vishrambaug Wada,18.5138486,73.8534275,Great for shopping,,FALSE,TRUE,FALSE,1
+867,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Amazing variety of animals,,FALSE,FALSE,FALSE,2
+868,Mulshi Lake and Dam,18.530325,73.51121,Amazing variety of animals,,TRUE,TRUE,FALSE,5
+869,Peshwe Udyan Zoo,18.503622,73.851932,Very spiritual and peaceful,,TRUE,TRUE,TRUE,3
+870,Rajiv Gandhi Zoological Park,18.452488,73.860802,Busy and bustling,,TRUE,FALSE,FALSE,3
+871,Laxmi Road,18.51566982,73.86994118,Developing area,,FALSE,TRUE,FALSE,4
+872,Shinde Chhatri,18.491631,73.89727,Rich historical significance,,TRUE,TRUE,TRUE,5
+873,Pune Okayama Friendship Garden,18.4910844,73.8381503,Busy and bustling,,FALSE,FALSE,TRUE,5
+874,Osho Ashram,18.5369163,73.88860148,Great for shopping,,TRUE,FALSE,FALSE,1
+875,Saras Baug,19.0442668,72.91493416,Busy and bustling,,TRUE,TRUE,TRUE,3
+876,Lal Mahal,26.9925078,77.5890115,Rich historical significance,,FALSE,FALSE,FALSE,2
+877,Laxmi Road,18.51566982,73.86994118,Scenic and tranquil,,TRUE,FALSE,TRUE,2
+878,Rajiv Gandhi Zoological Park,18.452488,73.860802,Amazing variety of animals,,TRUE,FALSE,FALSE,3
+879,Tathawade Park,18.49330855,73.82731827,Amazing variety of animals,,FALSE,FALSE,FALSE,1
+880,Sinhagad Fort,18.36472045,73.75751103,Busy and bustling,,FALSE,TRUE,FALSE,5
+881,Empress Garden,49.1492362,-123.1361026,Very spiritual and peaceful,,TRUE,FALSE,FALSE,3
+882,Shaniwar Wada,18.51938255,73.85535656,Well-connected,,TRUE,TRUE,FALSE,1
+883,Rajiv Gandhi Zoological Park,18.452488,73.860802,Rich historical significance,,TRUE,TRUE,TRUE,2
+884,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Family-friendly,,TRUE,FALSE,TRUE,2
+885,Sinhagad Fort,18.36472045,73.75751103,Well-connected,,FALSE,TRUE,FALSE,4
+886,Vishrambaug Wada,18.5138486,73.8534275,Amazing variety of animals,,FALSE,TRUE,TRUE,3
+887,Hong Kong Lane,53.4614615,-1.465858428,Beautiful garden with a serene atmosphere,,TRUE,FALSE,FALSE,5
+888,Chaturshringi Temple,18.533342,73.829956,Developing area,,FALSE,FALSE,TRUE,4
+889,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Great for shopping,,TRUE,FALSE,FALSE,5
+890,Laxmi Road,18.51566982,73.86994118,Rich historical significance,,FALSE,TRUE,FALSE,3
+891,Tulsi Baug,21.13907265,79.11063485,Amazing variety of animals,,TRUE,TRUE,FALSE,3
+892,Tulsi Baug,21.13907265,79.11063485,Scenic and tranquil,,FALSE,FALSE,FALSE,3
+893,Mahatma Phule Mandai,18.5129178,73.85629517,Rich historical significance,,TRUE,FALSE,TRUE,4
+894,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Beautiful garden with a serene atmosphere,,TRUE,TRUE,FALSE,5
+895,Shunyo Park,18.536615,73.890137,Developing area,,FALSE,TRUE,TRUE,2
+896,Baner Pashan Biodiversity Park,18.547779,73.783333,Developing area,,FALSE,TRUE,TRUE,1
+897,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Rich historical significance,,FALSE,FALSE,FALSE,3
+898,Lal Mahal,26.9925078,77.5890115,Great for shopping,,FALSE,TRUE,FALSE,1
+899,Peshwa Udyan,18.503622,73.851932,Amazing variety of animals,,FALSE,TRUE,TRUE,4
+900,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Rich historical significance,,TRUE,TRUE,TRUE,5
+901,Peshwa Udyan,18.503622,73.851932,Well-connected,,FALSE,TRUE,TRUE,1
+902,Sinhagad Fort,18.36472045,73.75751103,Beautiful garden with a serene atmosphere,,TRUE,TRUE,FALSE,1
+903,Kamala Nehru Park,18.95502,72.80506346,Amazing variety of animals,,FALSE,TRUE,TRUE,2
+904,Vishrambaug Wada,18.5138486,73.8534275,Great for shopping,,FALSE,TRUE,FALSE,2
+905,Rajiv Gandhi Zoological Park,18.452488,73.860802,Family-friendly,,TRUE,TRUE,FALSE,1
+906,Laxmi Road,18.51566982,73.86994118,Very spiritual and peaceful,,TRUE,TRUE,TRUE,3
+907,Shinde Chhatri,18.491631,73.89727,Very spiritual and peaceful,,FALSE,FALSE,TRUE,1
+908,Hong Kong Lane,53.4614615,-1.465858428,Very spiritual and peaceful,,FALSE,TRUE,FALSE,4
+909,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Developing area,,FALSE,FALSE,FALSE,3
+910,Kamala Nehru Park,18.95502,72.80506346,Great for shopping,,FALSE,TRUE,TRUE,4
+911,Mahatma Phule Mandai,18.5129178,73.85629517,Well-connected,,TRUE,TRUE,FALSE,2
+912,Peshwa Udyan,18.503622,73.851932,Busy and bustling,,TRUE,TRUE,TRUE,5
+913,Saras Baug,19.0442668,72.91493416,Amazing variety of animals,,FALSE,FALSE,FALSE,2
+914,Laxmi Road,18.51566982,73.86994118,Scenic and tranquil,,FALSE,TRUE,FALSE,1
+915,Osho Ashram,18.5369163,73.88860148,Rich historical significance,,FALSE,TRUE,TRUE,3
+916,Kasba Ganpati Temple,18.5153055,73.8477706,Developing area,,TRUE,FALSE,FALSE,1
+917,Fashion Street,51.51843792,-0.072872663,Busy and bustling,,TRUE,TRUE,FALSE,3
+918,Kasba Ganpati Temple,18.5153055,73.8477706,Great for shopping,,TRUE,FALSE,TRUE,2
+919,Aga Khan Palace,18.55232925,73.90147848,Scenic and tranquil,,TRUE,FALSE,FALSE,1
+920,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Well-connected,,TRUE,TRUE,FALSE,2
+921,Rajiv Gandhi Zoological Park,18.452488,73.860802,Rich historical significance,,FALSE,TRUE,FALSE,4
+922,Tathawade Park,18.49330855,73.82731827,Very spiritual and peaceful,,TRUE,TRUE,TRUE,1
+923,Chaturshringi Temple,18.533342,73.829956,Busy and bustling,,FALSE,TRUE,FALSE,1
+924,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Scenic and tranquil,,FALSE,TRUE,TRUE,2
+925,Mahatma Phule Mandai,18.5129178,73.85629517,Scenic and tranquil,,FALSE,TRUE,TRUE,1
+926,Parvati Hill Temple,18.497601,73.847099,Busy and bustling,,TRUE,FALSE,TRUE,4
+927,Sinhagad Fort,18.36472045,73.75751103,Scenic and tranquil,,FALSE,FALSE,FALSE,2
+928,Raja Dinkar Kelkar Museum,18.51076695,73.85444202,Family-friendly,,FALSE,FALSE,TRUE,2
+929,Parvati Hill Temple,18.497601,73.847099,Well-connected,,TRUE,FALSE,FALSE,2
+930,Chaturshringi Temple,18.533342,73.829956,Developing area,,FALSE,TRUE,FALSE,3
+931,Tulsi Baug,21.13907265,79.11063485,Amazing variety of animals,,FALSE,FALSE,TRUE,5
+932,Chaturshringi Temple,18.533342,73.829956,Family-friendly,,FALSE,FALSE,FALSE,5
+933,Laxmi Road,18.51566982,73.86994118,Busy and bustling,,TRUE,FALSE,FALSE,2
+934,Laxmi Road,18.51566982,73.86994118,Great for shopping,,FALSE,FALSE,TRUE,2
+935,Shinde Chhatri,18.491631,73.89727,Busy and bustling,,TRUE,FALSE,TRUE,5
+936,Lal Mahal,26.9925078,77.5890115,Very spiritual and peaceful,,TRUE,FALSE,FALSE,3
+937,Rajiv Gandhi Zoological Park,18.452488,73.860802,Beautiful garden with a serene atmosphere,,FALSE,FALSE,TRUE,2
+938,Shaniwar Wada,18.51938255,73.85535656,Developing area,,FALSE,FALSE,TRUE,2
+939,Kasba Ganpati Temple,18.5153055,73.8477706,Beautiful garden with a serene atmosphere,,FALSE,FALSE,FALSE,5
+940,Fashion Street,51.51843792,-0.072872663,Family-friendly,,FALSE,TRUE,FALSE,5
+941,Baner Pashan Biodiversity Park,18.547779,73.783333,Great for shopping,,FALSE,TRUE,FALSE,5
+942,Kasba Ganpati Temple,18.5153055,73.8477706,Well-connected,,TRUE,TRUE,TRUE,3
+943,Rajiv Gandhi Zoological Park,18.452488,73.860802,Amazing variety of animals,,FALSE,FALSE,FALSE,2
+944,Mahatma Phule Mandai,18.5129178,73.85629517,Amazing variety of animals,,FALSE,FALSE,TRUE,2
+945,Peshwa Udyan,18.503622,73.851932,Scenic and tranquil,,TRUE,FALSE,TRUE,5
+946,Sinhagad Fort,18.36472045,73.75751103,Family-friendly,,FALSE,TRUE,FALSE,1
+947,Aga Khan Palace,18.55232925,73.90147848,Beautiful garden with a serene atmosphere,,FALSE,FALSE,TRUE,5
+948,Mahatma Phule Mandai,18.5129178,73.85629517,Amazing variety of animals,,TRUE,FALSE,FALSE,5
+949,Shinde Chhatri,18.491631,73.89727,Very spiritual and peaceful,,TRUE,TRUE,TRUE,4
+950,Sambhaji Park,18.5206664,73.8472146,Great for shopping,,FALSE,TRUE,TRUE,1
+951,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Family-friendly,,FALSE,TRUE,FALSE,1
+952,Saras Baug,19.0442668,72.91493416,Great for shopping,,FALSE,TRUE,TRUE,1
+953,Vishrambaug Wada,18.5138486,73.8534275,Family-friendly,,FALSE,TRUE,FALSE,1
+954,Rajiv Gandhi Zoological Park,18.452488,73.860802,Very spiritual and peaceful,,FALSE,TRUE,TRUE,4
+955,Shunyo Park,18.536615,73.890137,Busy and bustling,,FALSE,FALSE,TRUE,5
+956,Sinhagad Fort,18.36472045,73.75751103,Amazing variety of animals,,FALSE,FALSE,FALSE,2
+957,Chaturshringi Temple,18.533342,73.829956,Developing area,,FALSE,FALSE,FALSE,5
+958,Peshwa Udyan,18.503622,73.851932,Very spiritual and peaceful,,TRUE,FALSE,FALSE,3
+959,Kasba Ganpati Temple,18.5153055,73.8477706,Beautiful garden with a serene atmosphere,,TRUE,TRUE,FALSE,2
+960,Pataleshwar Cave Temple,18.5269463,73.8498456,Busy and bustling,,FALSE,FALSE,TRUE,1
+961,Laxmi Road,18.51566982,73.86994118,Beautiful garden with a serene atmosphere,,TRUE,TRUE,FALSE,4
+962,Empress Garden,49.1492362,-123.1361026,Well-connected,,FALSE,FALSE,TRUE,5
+963,Sinhagad Fort,18.36472045,73.75751103,Rich historical significance,,TRUE,TRUE,TRUE,3
+964,Vishrambaug Wada,18.5138486,73.8534275,Rich historical significance,,TRUE,FALSE,TRUE,4
+965,Pune Okayama Friendship Garden,18.4910844,73.8381503,Busy and bustling,,FALSE,TRUE,FALSE,3
+966,Peshwa Udyan,18.503622,73.851932,Scenic and tranquil,,TRUE,TRUE,TRUE,4
+967,Pune Okayama Friendship Garden,18.4910844,73.8381503,Scenic and tranquil,,FALSE,FALSE,FALSE,3
+968,Lal Mahal,26.9925078,77.5890115,Family-friendly,,TRUE,TRUE,FALSE,2
+969,Kamala Nehru Park,18.95502,72.80506346,Developing area,,FALSE,TRUE,TRUE,1
+970,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Amazing variety of animals,,FALSE,TRUE,FALSE,4
+971,Rajiv Gandhi Zoological Park,18.452488,73.860802,Amazing variety of animals,,TRUE,TRUE,FALSE,1
+972,Rajiv Gandhi Zoological Park,18.452488,73.860802,Well-connected,,FALSE,FALSE,TRUE,4
+973,Kamala Nehru Park,18.95502,72.80506346,Well-connected,,TRUE,TRUE,FALSE,3
+974,Lal Mahal,26.9925078,77.5890115,Well-connected,,FALSE,FALSE,TRUE,3
+975,Kasba Ganpati Temple,18.5153055,73.8477706,Scenic and tranquil,,TRUE,FALSE,TRUE,4
+976,Mahatma Phule Mandai,18.5129178,73.85629517,Busy and bustling,,TRUE,TRUE,FALSE,3
+977,Rajiv Gandhi Zoological Park,18.452488,73.860802,Very spiritual and peaceful,,TRUE,FALSE,TRUE,3
+978,Mahatma Phule Mandai,18.5129178,73.85629517,Rich historical significance,,FALSE,TRUE,FALSE,5
+979,Mahatma Phule Mandai,18.5129178,73.85629517,Busy and bustling,,FALSE,FALSE,TRUE,5
+980,Lal Mahal,26.9925078,77.5890115,Rich historical significance,,TRUE,FALSE,TRUE,1
+981,Kamala Nehru Park,18.95502,72.80506346,Busy and bustling,,FALSE,TRUE,TRUE,3
+982,Fashion Street,51.51843792,-0.072872663,Family-friendly,,FALSE,FALSE,FALSE,3
+983,Baner Pashan Biodiversity Park,18.547779,73.783333,Very spiritual and peaceful,,TRUE,TRUE,FALSE,1
+984,Bund Garden,18.5405933,73.8834394,Well-connected,,FALSE,FALSE,FALSE,4
+985,Mulshi Lake and Dam,18.530325,73.51121,Scenic and tranquil,,FALSE,FALSE,FALSE,2
+986,Osho Ashram,18.5369163,73.88860148,Busy and bustling,,FALSE,TRUE,FALSE,4
+987,Kamala Nehru Park,18.95502,72.80506346,Scenic and tranquil,,TRUE,FALSE,FALSE,4
+988,Kasba Ganpati Temple,18.5153055,73.8477706,Family-friendly,,FALSE,TRUE,FALSE,1
+989,Laxmi Road,18.51566982,73.86994118,Family-friendly,,TRUE,TRUE,FALSE,5
+990,Pataleshwar Cave Temple,18.5269463,73.8498456,Family-friendly,,FALSE,TRUE,TRUE,3
+991,Shaniwar Wada,18.51938255,73.85535656,Busy and bustling,,TRUE,TRUE,TRUE,5
+992,Rajiv Gandhi Zoological Park,18.452488,73.860802,Scenic and tranquil,,FALSE,TRUE,TRUE,5
+993,Tulsi Baug,21.13907265,79.11063485,Amazing variety of animals,,FALSE,TRUE,TRUE,5
+994,Sambhaji Park,18.5206664,73.8472146,Great for shopping,,FALSE,TRUE,FALSE,2
+995,Dagdusheth Halwai Ganpati Temple,18.516401,73.856041,Family-friendly,,TRUE,FALSE,TRUE,1
+996,Pataleshwar Cave Temple,18.5269463,73.8498456,Busy and bustling,,FALSE,FALSE,TRUE,4
+997,Shinde Chhatri,18.491631,73.89727,Great for shopping,,TRUE,FALSE,FALSE,3
+998,Lal Mahal,26.9925078,77.5890115,Scenic and tranquil,,TRUE,FALSE,FALSE,1
+999,Katraj Snake Park,18.4529964,73.86122764,Developing area,,TRUE,TRUE,FALSE,3
+1000,Vishrambaug Wada,18.5138486,73.8534275,Beautiful garden with a serene atmosphere,,TRUE,TRUE,FALSE,5
+1001,Baner,18.5642431,73.7768573,Vibrant and lively,,TRUE,FALSE,FALSE,2
+1002,Deccan Gymkhana,18.5158926,73.84116,Safe and quiet,,FALSE,FALSE,FALSE,1
+1003,Pashan,18.5386704,73.7952542,Developing area,,TRUE,FALSE,FALSE,3
+1004,Baner,18.5642431,73.7768573,Tech hub with good facilities,,TRUE,TRUE,TRUE,4
+1005,Kharadi,18.5512763,73.9416575,Developing area,,FALSE,FALSE,FALSE,4
+1006,Aundh,18.5618834,73.8101957,Peaceful and green,,TRUE,FALSE,TRUE,5
+1007,Bibwewadi,18.47441565,73.86044434,Developing area,,TRUE,TRUE,TRUE,4
+1008,Hadapsar,18.5007741,73.9379146,Great place with lots of amenities,,TRUE,TRUE,TRUE,3
+1009,Deccan Gymkhana,18.5158926,73.84116,Safe and quiet,,TRUE,TRUE,FALSE,1
+1010,Koregaon Park,18.53662255,73.89327379,Vibrant and lively,,TRUE,FALSE,FALSE,5
+1011,Pashan,18.5386704,73.7952542,Peaceful and green,,TRUE,FALSE,TRUE,5
+1012,Magarpatta,18.5111545,73.92738227,Well-connected,,FALSE,TRUE,TRUE,3
+1013,Kothrud,18.5038889,73.807673,Safe and quiet,,FALSE,TRUE,TRUE,4
+1014,Bavdhan,18.5209541,73.7780873,Family-friendly,,TRUE,FALSE,FALSE,1
+1015,Kothrud,18.5038889,73.807673,Good residential area,,FALSE,FALSE,FALSE,1
+1016,Swargate,18.50049485,73.85290371,Busy and bustling,,FALSE,TRUE,FALSE,1
+1017,Camp,32.9723128,-94.9852858,Developing area,,TRUE,TRUE,TRUE,4
+1018,Deccan Gymkhana,18.5158926,73.84116,Busy and bustling,,FALSE,FALSE,TRUE,2
+1019,Koregaon Park,18.53662255,73.89327379,Busy and bustling,,FALSE,TRUE,TRUE,5
+1020,Deccan Gymkhana,18.5158926,73.84116,Busy and bustling,,TRUE,FALSE,FALSE,2
+1021,Dhankawadi,18.4652208,73.8495579,Family-friendly,,TRUE,TRUE,TRUE,2
+1022,Kothrud,18.5038889,73.807673,Busy and bustling,,TRUE,TRUE,FALSE,2
+1023,Hinjewadi,18.5921787,73.68411587,Good residential area,,TRUE,FALSE,TRUE,4
+1024,Baner,18.5642431,73.7768573,Great place with lots of amenities,,FALSE,TRUE,FALSE,3
+1025,Aundh,18.5618834,73.8101957,Tech hub with good facilities,,TRUE,FALSE,FALSE,3
+1026,Shivaji Nagar,25.88455445,86.03985031,Well-connected,,TRUE,TRUE,TRUE,5
+1027,Koregaon Park,18.53662255,73.89327379,Family-friendly,,TRUE,FALSE,TRUE,2
+1028,Dhankawadi,18.4652208,73.8495579,Busy and bustling,,TRUE,FALSE,TRUE,5
+1029,Deccan Gymkhana,18.5158926,73.84116,Well-connected,,FALSE,TRUE,TRUE,3
+1030,Kothrud,18.5038889,73.807673,Great place with lots of amenities,,FALSE,TRUE,FALSE,2
+1031,Koregaon Park,18.53662255,73.89327379,Developing area,,FALSE,FALSE,TRUE,4
+1032,Deccan Gymkhana,18.5158926,73.84116,Family-friendly,,FALSE,TRUE,TRUE,1
+1033,Pimple Saudagar,18.5981553,73.7977661,Good residential area,,TRUE,TRUE,FALSE,1
+1034,Camp,32.9723128,-94.9852858,Good residential area,,FALSE,TRUE,FALSE,1
+1035,Pashan,18.5386704,73.7952542,Well-connected,,FALSE,FALSE,TRUE,1
+1036,Bibwewadi,18.47441565,73.86044434,Peaceful and green,,FALSE,FALSE,TRUE,3
+1037,Viman Nagar,17.4467567,78.4838203,Great place with lots of amenities,,FALSE,FALSE,FALSE,2
+1038,Wakad,18.6022495,73.7644454,Family-friendly,,FALSE,FALSE,FALSE,3
+1039,Baner,18.5642431,73.7768573,Developing area,,TRUE,TRUE,FALSE,2
+1040,Pimple Saudagar,18.5981553,73.7977661,Good residential area,,FALSE,FALSE,FALSE,1
+1041,Swargate,18.50049485,73.85290371,Busy and bustling,,TRUE,FALSE,FALSE,5
+1042,Deccan Gymkhana,18.5158926,73.84116,Developing area,,TRUE,TRUE,FALSE,5
+1043,Kharadi,18.5512763,73.9416575,Safe and quiet,,FALSE,FALSE,TRUE,3
+1044,Shivaji Nagar,25.88455445,86.03985031,Good residential area,,TRUE,FALSE,FALSE,3
+1045,Bibwewadi,18.47441565,73.86044434,Safe and quiet,,TRUE,FALSE,TRUE,1
+1046,Pimple Saudagar,18.5981553,73.7977661,Busy and bustling,,FALSE,FALSE,FALSE,4
+1047,Kharadi,18.5512763,73.9416575,Safe and quiet,,FALSE,FALSE,FALSE,5
+1048,Pimple Saudagar,18.5981553,73.7977661,Tech hub with good facilities,,FALSE,FALSE,TRUE,2
+1049,Kharadi,18.5512763,73.9416575,Vibrant and lively,,TRUE,TRUE,FALSE,5
+1050,Bavdhan,18.5209541,73.7780873,Tech hub with good facilities,,TRUE,FALSE,TRUE,5
+1051,Pashan,18.5386704,73.7952542,Peaceful and green,,FALSE,TRUE,FALSE,1
+1052,Aundh,18.5618834,73.8101957,Tech hub with good facilities,,FALSE,FALSE,TRUE,2
+1053,Aundh,18.5618834,73.8101957,Great place with lots of amenities,,TRUE,FALSE,FALSE,4
+1054,Swargate,18.50049485,73.85290371,Family-friendly,,TRUE,FALSE,FALSE,5
+1055,Viman Nagar,17.4467567,78.4838203,Safe and quiet,,TRUE,TRUE,FALSE,1
+1056,Dhankawadi,18.4652208,73.8495579,Well-connected,,TRUE,FALSE,FALSE,3
+1057,Swargate,18.50049485,73.85290371,Busy and bustling,,FALSE,FALSE,FALSE,3
+1058,Pashan,18.5386704,73.7952542,Great place with lots of amenities,,FALSE,TRUE,FALSE,4
+1059,Magarpatta,18.5111545,73.92738227,Developing area,,FALSE,TRUE,TRUE,4
+1060,Swargate,18.50049485,73.85290371,Vibrant and lively,,TRUE,TRUE,TRUE,2
+1061,Pimple Saudagar,18.5981553,73.7977661,Family-friendly,,FALSE,TRUE,FALSE,4
+1062,Aundh,18.5618834,73.8101957,Good residential area,,FALSE,FALSE,FALSE,2
+1063,Pimple Saudagar,18.5981553,73.7977661,Vibrant and lively,,FALSE,FALSE,TRUE,4
+1064,Aundh,18.5618834,73.8101957,Great place with lots of amenities,,FALSE,FALSE,TRUE,2
+1065,Wakad,18.6022495,73.7644454,Safe and quiet,,TRUE,TRUE,TRUE,5
+1066,Magarpatta,18.5111545,73.92738227,Good residential area,,TRUE,FALSE,FALSE,3
+1067,Bavdhan,18.5209541,73.7780873,Family-friendly,,TRUE,FALSE,TRUE,2
+1068,Kharadi,18.5512763,73.9416575,Great place with lots of amenities,,FALSE,TRUE,TRUE,3
+1069,Viman Nagar,17.4467567,78.4838203,Safe and quiet,,TRUE,TRUE,TRUE,1
+1070,Kharadi,18.5512763,73.9416575,Great place with lots of amenities,,TRUE,TRUE,TRUE,4
+1071,Magarpatta,18.5111545,73.92738227,Peaceful and green,,TRUE,FALSE,FALSE,3
+1072,Hadapsar,18.5007741,73.9379146,Busy and bustling,,TRUE,FALSE,FALSE,1
+1073,Bibwewadi,18.47441565,73.86044434,Family-friendly,,TRUE,FALSE,TRUE,3
+1074,Pimple Saudagar,18.5981553,73.7977661,Family-friendly,,TRUE,FALSE,FALSE,2
+1075,Bibwewadi,18.47441565,73.86044434,Great place with lots of amenities,,TRUE,FALSE,FALSE,3
+1076,Wakad,18.6022495,73.7644454,Peaceful and green,,TRUE,FALSE,TRUE,3
+1077,Deccan Gymkhana,18.5158926,73.84116,Family-friendly,,TRUE,TRUE,FALSE,5
+1078,Kharadi,18.5512763,73.9416575,Family-friendly,,FALSE,FALSE,TRUE,1
+1079,Yerawada,18.5656319,73.8865762,Good residential area,,TRUE,FALSE,TRUE,3
+1080,Shivaji Nagar,25.88455445,86.03985031,Good residential area,,FALSE,TRUE,TRUE,4
+1081,Shivaji Nagar,25.88455445,86.03985031,Well-connected,,TRUE,FALSE,FALSE,5
+1082,Kothrud,18.5038889,73.807673,Safe and quiet,,FALSE,FALSE,FALSE,3
+1083,Pimple Saudagar,18.5981553,73.7977661,Good residential area,,FALSE,TRUE,TRUE,4
+1084,Viman Nagar,17.4467567,78.4838203,Great place with lots of amenities,,FALSE,TRUE,TRUE,4
+1085,Hinjewadi,18.5921787,73.68411587,Peaceful and green,,FALSE,FALSE,TRUE,3
+1086,Bavdhan,18.5209541,73.7780873,Developing area,,FALSE,TRUE,TRUE,2
+1087,Magarpatta,18.5111545,73.92738227,Peaceful and green,,TRUE,TRUE,TRUE,4
+1088,Baner,18.5642431,73.7768573,Safe and quiet,,TRUE,TRUE,TRUE,3
+1089,Aundh,18.5618834,73.8101957,Family-friendly,,TRUE,TRUE,FALSE,5
+1090,Pimple Saudagar,18.5981553,73.7977661,Tech hub with good facilities,,FALSE,TRUE,TRUE,3
+1091,Hadapsar,18.5007741,73.9379146,Developing area,,FALSE,FALSE,FALSE,1
+1092,Bavdhan,18.5209541,73.7780873,Developing area,,FALSE,FALSE,FALSE,4
+1093,Aundh,18.5618834,73.8101957,Family-friendly,,TRUE,TRUE,TRUE,5
+1094,Swargate,18.50049485,73.85290371,Good residential area,,FALSE,FALSE,TRUE,3
+1095,Hadapsar,18.5007741,73.9379146,Well-connected,,TRUE,FALSE,TRUE,3
+1096,Wakad,18.6022495,73.7644454,Developing area,,TRUE,FALSE,TRUE,2
+1097,Yerawada,18.5656319,73.8865762,Family-friendly,,TRUE,TRUE,TRUE,5
+1098,Magarpatta,18.5111545,73.92738227,Family-friendly,,FALSE,TRUE,TRUE,4
+1099,Hadapsar,18.5007741,73.9379146,Family-friendly,,FALSE,FALSE,FALSE,1
+1100,Magarpatta,18.5111545,73.92738227,Tech hub with good facilities,,FALSE,FALSE,TRUE,1
+1101,Camp,32.9723128,-94.9852858,Busy and bustling,,FALSE,TRUE,TRUE,1
+1102,Kharadi,18.5512763,73.9416575,Family-friendly,,TRUE,FALSE,FALSE,2
+1103,Magarpatta,18.5111545,73.92738227,Peaceful and green,,FALSE,FALSE,TRUE,3
+1104,Baner,18.5642431,73.7768573,Great place with lots of amenities,,TRUE,FALSE,FALSE,3
+1105,Yerawada,18.5656319,73.8865762,Good residential area,,TRUE,TRUE,FALSE,2
+1106,Magarpatta,18.5111545,73.92738227,Family-friendly,,FALSE,TRUE,FALSE,3
+1107,Bibwewadi,18.47441565,73.86044434,Well-connected,,FALSE,FALSE,FALSE,4
+1108,Camp,32.9723128,-94.9852858,Good residential area,,TRUE,FALSE,TRUE,5
+1109,Wakad,18.6022495,73.7644454,Vibrant and lively,,TRUE,TRUE,FALSE,5
+1110,Shivaji Nagar,25.88455445,86.03985031,Family-friendly,,TRUE,FALSE,TRUE,2
+1111,Pashan,18.5386704,73.7952542,Vibrant and lively,,FALSE,TRUE,FALSE,4
+1112,Bibwewadi,18.47441565,73.86044434,Good residential area,,FALSE,TRUE,FALSE,2
+1113,Yerawada,18.5656319,73.8865762,Family-friendly,,TRUE,TRUE,TRUE,2
+1114,Swargate,18.50049485,73.85290371,Busy and bustling,,TRUE,FALSE,FALSE,4
+1115,Magarpatta,18.5111545,73.92738227,Safe and quiet,,FALSE,TRUE,TRUE,2
+1116,Bibwewadi,18.47441565,73.86044434,Vibrant and lively,,FALSE,TRUE,FALSE,2
+1117,Kothrud,18.5038889,73.807673,Vibrant and lively,,FALSE,FALSE,TRUE,3
+1118,Kothrud,18.5038889,73.807673,Tech hub with good facilities,,FALSE,FALSE,TRUE,3
+1119,Deccan Gymkhana,18.5158926,73.84116,Good residential area,,FALSE,FALSE,TRUE,4
+1120,Aundh,18.5618834,73.8101957,Developing area,,TRUE,TRUE,FALSE,4
+1121,Yerawada,18.5656319,73.8865762,Busy and bustling,,TRUE,TRUE,TRUE,4
+1122,Hinjewadi,18.5921787,73.68411587,Safe and quiet,,FALSE,TRUE,TRUE,2
+1123,Koregaon Park,18.53662255,73.89327379,Good residential area,,TRUE,TRUE,TRUE,2
+1124,Hadapsar,18.5007741,73.9379146,Developing area,,TRUE,FALSE,FALSE,4
+1125,Bavdhan,18.5209541,73.7780873,Family-friendly,,TRUE,TRUE,FALSE,4
+1126,Baner,18.5642431,73.7768573,Family-friendly,,TRUE,TRUE,FALSE,4
+1127,Baner,18.5642431,73.7768573,Vibrant and lively,,TRUE,TRUE,TRUE,2
+1128,Dhankawadi,18.4652208,73.8495579,Vibrant and lively,,FALSE,FALSE,FALSE,4
+1129,Hinjewadi,18.5921787,73.68411587,Developing area,,FALSE,FALSE,FALSE,4
+1130,Camp,32.9723128,-94.9852858,Great place with lots of amenities,,TRUE,FALSE,FALSE,1
+1131,Kothrud,18.5038889,73.807673,Good residential area,,TRUE,TRUE,FALSE,5
+1132,Bibwewadi,18.47441565,73.86044434,Tech hub with good facilities,,TRUE,TRUE,FALSE,1
+1133,Camp,32.9723128,-94.9852858,Peaceful and green,,FALSE,FALSE,FALSE,1
+1134,Magarpatta,18.5111545,73.92738227,Peaceful and green,,TRUE,TRUE,FALSE,3
+1135,Viman Nagar,17.4467567,78.4838203,Great place with lots of amenities,,TRUE,TRUE,TRUE,2
+1136,Kothrud,18.5038889,73.807673,Busy and bustling,,FALSE,TRUE,FALSE,3
+1137,Camp,32.9723128,-94.9852858,Tech hub with good facilities,,TRUE,TRUE,TRUE,5
+1138,Koregaon Park,18.53662255,73.89327379,Peaceful and green,,FALSE,TRUE,TRUE,5
+1139,Pimple Saudagar,18.5981553,73.7977661,Tech hub with good facilities,,FALSE,FALSE,TRUE,1
+1140,Hinjewadi,18.5921787,73.68411587,Family-friendly,,TRUE,FALSE,FALSE,2
+1141,Hinjewadi,18.5921787,73.68411587,Well-connected,,TRUE,FALSE,TRUE,1
+1142,Baner,18.5642431,73.7768573,Well-connected,,TRUE,FALSE,FALSE,5
+1143,Shivaji Nagar,25.88455445,86.03985031,Good residential area,,TRUE,TRUE,TRUE,2
+1144,Camp,32.9723128,-94.9852858,Great place with lots of amenities,,FALSE,FALSE,FALSE,4
+1145,Dhankawadi,18.4652208,73.8495579,Great place with lots of amenities,,TRUE,FALSE,TRUE,5
+1146,Magarpatta,18.5111545,73.92738227,Family-friendly,,FALSE,FALSE,TRUE,5
+1147,Pimple Saudagar,18.5981553,73.7977661,Tech hub with good facilities,,TRUE,FALSE,FALSE,2
+1148,Hinjewadi,18.5921787,73.68411587,Good residential area,,TRUE,FALSE,TRUE,5
+1149,Baner,18.5642431,73.7768573,Peaceful and green,,FALSE,TRUE,FALSE,5
+1150,Shivaji Nagar,25.88455445,86.03985031,Good residential area,,FALSE,FALSE,FALSE,5
+1151,Shivaji Nagar,25.88455445,86.03985031,Great place with lots of amenities,,FALSE,FALSE,TRUE,2
+1152,Aundh,18.5618834,73.8101957,Good residential area,,TRUE,FALSE,TRUE,3
+1153,Dhankawadi,18.4652208,73.8495579,Tech hub with good facilities,,FALSE,FALSE,TRUE,5
+1154,Kothrud,18.5038889,73.807673,Tech hub with good facilities,,FALSE,FALSE,FALSE,1
+1155,Yerawada,18.5656319,73.8865762,Well-connected,,FALSE,TRUE,FALSE,2
+1156,Kothrud,18.5038889,73.807673,Family-friendly,,TRUE,TRUE,FALSE,3
+1157,Deccan Gymkhana,18.5158926,73.84116,Family-friendly,,TRUE,TRUE,FALSE,3
+1158,Shivaji Nagar,25.88455445,86.03985031,Well-connected,,FALSE,TRUE,FALSE,3
+1159,Hadapsar,18.5007741,73.9379146,Peaceful and green,,FALSE,FALSE,TRUE,3
+1160,Hinjewadi,18.5921787,73.68411587,Tech hub with good facilities,,FALSE,TRUE,FALSE,1
+1161,Pimple Saudagar,18.5981553,73.7977661,Developing area,,TRUE,FALSE,FALSE,3
+1162,Hadapsar,18.5007741,73.9379146,Tech hub with good facilities,,TRUE,FALSE,TRUE,5
+1163,Bibwewadi,18.47441565,73.86044434,Family-friendly,,TRUE,FALSE,TRUE,3
+1164,Magarpatta,18.5111545,73.92738227,Well-connected,,FALSE,TRUE,FALSE,2
+1165,Bibwewadi,18.47441565,73.86044434,Family-friendly,,TRUE,TRUE,TRUE,2
+1166,Bavdhan,18.5209541,73.7780873,Well-connected,,FALSE,FALSE,FALSE,1
+1167,Kharadi,18.5512763,73.9416575,Developing area,,TRUE,TRUE,TRUE,1
+1168,Shivaji Nagar,25.88455445,86.03985031,Developing area,,FALSE,TRUE,FALSE,5
+1169,Kothrud,18.5038889,73.807673,Vibrant and lively,,TRUE,FALSE,FALSE,3
+1170,Yerawada,18.5656319,73.8865762,Well-connected,,TRUE,FALSE,FALSE,5
+1171,Hadapsar,18.5007741,73.9379146,Good residential area,,FALSE,TRUE,TRUE,2
+1172,Hadapsar,18.5007741,73.9379146,Well-connected,,FALSE,TRUE,TRUE,1
+1173,Bibwewadi,18.47441565,73.86044434,Family-friendly,,TRUE,TRUE,FALSE,5
+1174,Wakad,18.6022495,73.7644454,Peaceful and green,,TRUE,FALSE,FALSE,4
+1175,Swargate,18.50049485,73.85290371,Safe and quiet,,TRUE,TRUE,FALSE,4
+1176,Viman Nagar,17.4467567,78.4838203,Safe and quiet,,FALSE,TRUE,TRUE,1
+1177,Baner,18.5642431,73.7768573,Busy and bustling,,FALSE,TRUE,FALSE,5
+1178,Pimple Saudagar,18.5981553,73.7977661,Family-friendly,,TRUE,FALSE,FALSE,1
+1179,Magarpatta,18.5111545,73.92738227,Developing area,,FALSE,TRUE,FALSE,2
+1180,Bibwewadi,18.47441565,73.86044434,Developing area,,TRUE,TRUE,FALSE,4
+1181,Pashan,18.5386704,73.7952542,Family-friendly,,TRUE,TRUE,TRUE,2
+1182,Kharadi,18.5512763,73.9416575,Safe and quiet,,TRUE,TRUE,FALSE,4
+1183,Kharadi,18.5512763,73.9416575,Well-connected,,FALSE,FALSE,FALSE,4
+1184,Swargate,18.50049485,73.85290371,Vibrant and lively,,TRUE,FALSE,TRUE,3
+1185,Hinjewadi,18.5921787,73.68411587,Vibrant and lively,,TRUE,TRUE,FALSE,3
+1186,Shivaji Nagar,25.88455445,86.03985031,Great place with lots of amenities,,TRUE,TRUE,TRUE,1
+1187,Kharadi,18.5512763,73.9416575,Well-connected,,TRUE,FALSE,TRUE,5
+1188,Magarpatta,18.5111545,73.92738227,Busy and bustling,,TRUE,FALSE,TRUE,5
+1189,Pimple Saudagar,18.5981553,73.7977661,Tech hub with good facilities,,FALSE,FALSE,FALSE,1
+1190,Hinjewadi,18.5921787,73.68411587,Well-connected,,FALSE,FALSE,FALSE,3
+1191,Swargate,18.50049485,73.85290371,Tech hub with good facilities,,FALSE,FALSE,FALSE,1
+1192,Kothrud,18.5038889,73.807673,Good residential area,,FALSE,FALSE,TRUE,3
+1193,Deccan Gymkhana,18.5158926,73.84116,Tech hub with good facilities,,FALSE,FALSE,FALSE,5
+1194,Deccan Gymkhana,18.5158926,73.84116,Great place with lots of amenities,,FALSE,TRUE,TRUE,3
+1195,Swargate,18.50049485,73.85290371,Great place with lots of amenities,,TRUE,TRUE,TRUE,5
+1196,Wakad,18.6022495,73.7644454,Peaceful and green,,TRUE,FALSE,FALSE,4
+1197,Camp,32.9723128,-94.9852858,Safe and quiet,,FALSE,FALSE,TRUE,4
+1198,Dhankawadi,18.4652208,73.8495579,Vibrant and lively,,TRUE,TRUE,FALSE,1
+1199,Pashan,18.5386704,73.7952542,Great place with lots of amenities,,TRUE,TRUE,FALSE,2
+1200,Bibwewadi,18.47441565,73.86044434,Tech hub with good facilities,,FALSE,TRUE,FALSE,2
+1201,Viman Nagar,17.4467567,78.4838203,Family-friendly,,FALSE,TRUE,FALSE,5
+1202,Pashan,18.5386704,73.7952542,Busy and bustling,,TRUE,TRUE,TRUE,5
+1203,Deccan Gymkhana,18.5158926,73.84116,Family-friendly,,FALSE,TRUE,FALSE,1
+1204,Kharadi,18.5512763,73.9416575,Good residential area,,TRUE,TRUE,FALSE,2
+1205,Shivaji Nagar,25.88455445,86.03985031,Busy and bustling,,FALSE,TRUE,FALSE,2
+1206,Hadapsar,18.5007741,73.9379146,Great place with lots of amenities,,TRUE,FALSE,TRUE,2
+1207,Pimple Saudagar,18.5981553,73.7977661,Great place with lots of amenities,,TRUE,TRUE,TRUE,1
+1208,Kharadi,18.5512763,73.9416575,Well-connected,,FALSE,TRUE,FALSE,2
+1209,Deccan Gymkhana,18.5158926,73.84116,Well-connected,,TRUE,FALSE,FALSE,5
+1210,Bavdhan,18.5209541,73.7780873,Developing area,,TRUE,TRUE,FALSE,4
+1211,Bavdhan,18.5209541,73.7780873,Good residential area,,TRUE,FALSE,FALSE,2
+1212,Koregaon Park,18.53662255,73.89327379,Safe and quiet,,TRUE,TRUE,TRUE,1
+1213,Pashan,18.5386704,73.7952542,Vibrant and lively,,TRUE,FALSE,FALSE,5
+1214,Wakad,18.6022495,73.7644454,Well-connected,,FALSE,TRUE,FALSE,2
+1215,Pashan,18.5386704,73.7952542,Great place with lots of amenities,,FALSE,TRUE,FALSE,5
+1216,Yerawada,18.5656319,73.8865762,Safe and quiet,,FALSE,TRUE,TRUE,2
+1217,Wakad,18.6022495,73.7644454,Peaceful and green,,TRUE,TRUE,FALSE,3
+1218,Shivaji Nagar,25.88455445,86.03985031,Good residential area,,FALSE,FALSE,TRUE,2
+1219,Yerawada,18.5656319,73.8865762,Vibrant and lively,,TRUE,TRUE,FALSE,3
+1220,Baner,18.5642431,73.7768573,Developing area,,TRUE,FALSE,TRUE,4
+1221,Dhankawadi,18.4652208,73.8495579,Tech hub with good facilities,,FALSE,FALSE,FALSE,2
+1222,Koregaon Park,18.53662255,73.89327379,Safe and quiet,,TRUE,TRUE,FALSE,5
+1223,Pashan,18.5386704,73.7952542,Well-connected,,TRUE,TRUE,FALSE,4
+1224,Pimple Saudagar,18.5981553,73.7977661,Well-connected,,FALSE,TRUE,FALSE,1
+1225,Pashan,18.5386704,73.7952542,Developing area,,FALSE,FALSE,TRUE,2
+1226,Baner,18.5642431,73.7768573,Great place with lots of amenities,,FALSE,TRUE,FALSE,1
+1227,Kharadi,18.5512763,73.9416575,Great place with lots of amenities,,FALSE,TRUE,FALSE,5
+1228,Bibwewadi,18.47441565,73.86044434,Vibrant and lively,,FALSE,TRUE,TRUE,5
+1229,Yerawada,18.5656319,73.8865762,Peaceful and green,,TRUE,FALSE,TRUE,1
+1230,Magarpatta,18.5111545,73.92738227,Family-friendly,,FALSE,TRUE,FALSE,2
+1231,Hinjewadi,18.5921787,73.68411587,Family-friendly,,TRUE,FALSE,TRUE,5
+1232,Kharadi,18.5512763,73.9416575,Vibrant and lively,,FALSE,TRUE,TRUE,1
+1233,Camp,32.9723128,-94.9852858,Good residential area,,TRUE,FALSE,TRUE,5
+1234,Kharadi,18.5512763,73.9416575,Tech hub with good facilities,,FALSE,FALSE,TRUE,2
+1235,Camp,32.9723128,-94.9852858,Good residential area,,FALSE,TRUE,TRUE,3
+1236,Dhankawadi,18.4652208,73.8495579,Well-connected,,FALSE,TRUE,FALSE,1
+1237,Kharadi,18.5512763,73.9416575,Good residential area,,TRUE,TRUE,FALSE,5
+1238,Pimple Saudagar,18.5981553,73.7977661,Safe and quiet,,TRUE,TRUE,TRUE,1
+1239,Dhankawadi,18.4652208,73.8495579,Family-friendly,,TRUE,TRUE,FALSE,5
+1240,Kharadi,18.5512763,73.9416575,Good residential area,,TRUE,FALSE,TRUE,5
+1241,Viman Nagar,17.4467567,78.4838203,Good residential area,,TRUE,TRUE,TRUE,4
+1242,Baner,18.5642431,73.7768573,Safe and quiet,,TRUE,TRUE,FALSE,5
+1243,Dhankawadi,18.4652208,73.8495579,Safe and quiet,,FALSE,TRUE,FALSE,4
+1244,Shivaji Nagar,25.88455445,86.03985031,Family-friendly,,TRUE,TRUE,TRUE,5
+1245,Viman Nagar,17.4467567,78.4838203,Busy and bustling,,FALSE,TRUE,TRUE,2
+1246,Wakad,18.6022495,73.7644454,Great place with lots of amenities,,TRUE,TRUE,TRUE,3
+1247,Kothrud,18.5038889,73.807673,Busy and bustling,,TRUE,FALSE,FALSE,1
+1248,Pimple Saudagar,18.5981553,73.7977661,Safe and quiet,,FALSE,FALSE,TRUE,3
+1249,Aundh,18.5618834,73.8101957,Family-friendly,,TRUE,FALSE,FALSE,1
+1250,Pimple Saudagar,18.5981553,73.7977661,Busy and bustling,,FALSE,TRUE,FALSE,4
+1251,Yerawada,18.5656319,73.8865762,Well-connected,,FALSE,FALSE,TRUE,1
+1252,Bibwewadi,18.47441565,73.86044434,Peaceful and green,,FALSE,FALSE,TRUE,5
+1253,Baner,18.5642431,73.7768573,Great place with lots of amenities,,FALSE,FALSE,FALSE,3
+1254,Kothrud,18.5038889,73.807673,Great place with lots of amenities,,TRUE,FALSE,TRUE,2
+1255,Hadapsar,18.5007741,73.9379146,Vibrant and lively,,FALSE,TRUE,FALSE,2
+1256,Wakad,18.6022495,73.7644454,Good residential area,,FALSE,FALSE,FALSE,1
+1257,Kharadi,18.5512763,73.9416575,Great place with lots of amenities,,TRUE,TRUE,TRUE,3
+1258,Yerawada,18.5656319,73.8865762,Vibrant and lively,,TRUE,FALSE,TRUE,2
+1259,Deccan Gymkhana,18.5158926,73.84116,Peaceful and green,,FALSE,TRUE,FALSE,4
+1260,Magarpatta,18.5111545,73.92738227,Developing area,,TRUE,FALSE,FALSE,4
+1261,Kothrud,18.5038889,73.807673,Busy and bustling,,TRUE,FALSE,TRUE,5
+1262,Deccan Gymkhana,18.5158926,73.84116,Tech hub with good facilities,,FALSE,TRUE,FALSE,4
+1263,Camp,32.9723128,-94.9852858,Safe and quiet,,TRUE,FALSE,FALSE,2
+1264,Hinjewadi,18.5921787,73.68411587,Peaceful and green,,FALSE,TRUE,TRUE,3
+1265,Hadapsar,18.5007741,73.9379146,Well-connected,,TRUE,FALSE,TRUE,1
+1266,Baner,18.5642431,73.7768573,Safe and quiet,,FALSE,FALSE,TRUE,5
+1267,Shivaji Nagar,25.88455445,86.03985031,Busy and bustling,,FALSE,TRUE,TRUE,1
+1268,Camp,32.9723128,-94.9852858,Well-connected,,TRUE,TRUE,FALSE,1
+1269,Pimple Saudagar,18.5981553,73.7977661,Developing area,,FALSE,TRUE,TRUE,1
+1270,Deccan Gymkhana,18.5158926,73.84116,Well-connected,,TRUE,FALSE,TRUE,4
+1271,Pimple Saudagar,18.5981553,73.7977661,Tech hub with good facilities,,TRUE,TRUE,TRUE,3
+1272,Swargate,18.50049485,73.85290371,Well-connected,,TRUE,TRUE,TRUE,5
+1273,Hinjewadi,18.5921787,73.68411587,Safe and quiet,,TRUE,TRUE,TRUE,5
+1274,Kharadi,18.5512763,73.9416575,Vibrant and lively,,TRUE,TRUE,FALSE,5
+1275,Shivaji Nagar,25.88455445,86.03985031,Tech hub with good facilities,,FALSE,FALSE,FALSE,1
+1276,Hinjewadi,18.5921787,73.68411587,Tech hub with good facilities,,FALSE,TRUE,TRUE,2
+1277,Hinjewadi,18.5921787,73.68411587,Busy and bustling,,FALSE,TRUE,FALSE,4
+1278,Swargate,18.50049485,73.85290371,Tech hub with good facilities,,TRUE,TRUE,TRUE,3
+1279,Bibwewadi,18.47441565,73.86044434,Family-friendly,,TRUE,TRUE,FALSE,3
+1280,Yerawada,18.5656319,73.8865762,Safe and quiet,,FALSE,TRUE,FALSE,2
+1281,Hinjewadi,18.5921787,73.68411587,Family-friendly,,FALSE,TRUE,FALSE,4
+1282,Viman Nagar,17.4467567,78.4838203,Peaceful and green,,TRUE,FALSE,TRUE,3
+1283,Bavdhan,18.5209541,73.7780873,Vibrant and lively,,FALSE,FALSE,FALSE,3
+1284,Viman Nagar,17.4467567,78.4838203,Vibrant and lively,,FALSE,TRUE,FALSE,1
+1285,Deccan Gymkhana,18.5158926,73.84116,Family-friendly,,FALSE,FALSE,FALSE,2
+1286,Deccan Gymkhana,18.5158926,73.84116,Developing area,,TRUE,TRUE,FALSE,4
+1287,Hinjewadi,18.5921787,73.68411587,Well-connected,,TRUE,FALSE,FALSE,4
+1288,Kothrud,18.5038889,73.807673,Tech hub with good facilities,,FALSE,FALSE,FALSE,3
+1289,Swargate,18.50049485,73.85290371,Safe and quiet,,TRUE,FALSE,FALSE,3
+1290,Deccan Gymkhana,18.5158926,73.84116,Family-friendly,,FALSE,FALSE,TRUE,5
+1291,Baner,18.5642431,73.7768573,Tech hub with good facilities,,TRUE,TRUE,TRUE,3
+1292,Viman Nagar,17.4467567,78.4838203,Vibrant and lively,,FALSE,FALSE,FALSE,1
+1293,Bibwewadi,18.47441565,73.86044434,Family-friendly,,TRUE,FALSE,TRUE,1
+1294,Magarpatta,18.5111545,73.92738227,Busy and bustling,,TRUE,FALSE,FALSE,2
+1295,Hinjewadi,18.5921787,73.68411587,Safe and quiet,,TRUE,FALSE,TRUE,1
+1296,Dhankawadi,18.4652208,73.8495579,Well-connected,,TRUE,TRUE,FALSE,3
+1297,Pimple Saudagar,18.5981553,73.7977661,Busy and bustling,,TRUE,TRUE,TRUE,5
+1298,Bibwewadi,18.47441565,73.86044434,Peaceful and green,,TRUE,FALSE,FALSE,3
+1299,Yerawada,18.5656319,73.8865762,Good residential area,,TRUE,FALSE,FALSE,1
+1300,Bibwewadi,18.47441565,73.86044434,Vibrant and lively,,TRUE,TRUE,TRUE,1
+1301,Koregaon Park,18.53662255,73.89327379,Good residential area,,TRUE,FALSE,FALSE,2
+1302,Yerawada,18.5656319,73.8865762,Good residential area,,TRUE,FALSE,FALSE,2
+1303,Hinjewadi,18.5921787,73.68411587,Well-connected,,FALSE,FALSE,TRUE,1
+1304,Deccan Gymkhana,18.5158926,73.84116,Well-connected,,FALSE,FALSE,TRUE,5
+1305,Aundh,18.5618834,73.8101957,Busy and bustling,,FALSE,FALSE,TRUE,4
+1306,Koregaon Park,18.53662255,73.89327379,Family-friendly,,TRUE,FALSE,TRUE,1
+1307,Bavdhan,18.5209541,73.7780873,Great place with lots of amenities,,FALSE,TRUE,TRUE,3
+1308,Hinjewadi,18.5921787,73.68411587,Good residential area,,FALSE,FALSE,FALSE,5
+1309,Wakad,18.6022495,73.7644454,Great place with lots of amenities,,TRUE,TRUE,FALSE,1
+1310,Wakad,18.6022495,73.7644454,Tech hub with good facilities,,TRUE,FALSE,FALSE,5
+1311,Camp,32.9723128,-94.9852858,Tech hub with good facilities,,TRUE,TRUE,FALSE,3
+1312,Kharadi,18.5512763,73.9416575,Developing area,,TRUE,FALSE,TRUE,1
+1313,Baner,18.5642431,73.7768573,Well-connected,,TRUE,FALSE,TRUE,4
+1314,Hinjewadi,18.5921787,73.68411587,Developing area,,TRUE,FALSE,TRUE,1
+1315,Hinjewadi,18.5921787,73.68411587,Great place with lots of amenities,,TRUE,TRUE,FALSE,3
+1316,Wakad,18.6022495,73.7644454,Family-friendly,,FALSE,TRUE,FALSE,2
+1317,Baner,18.5642431,73.7768573,Tech hub with good facilities,,FALSE,FALSE,FALSE,4
+1318,Hinjewadi,18.5921787,73.68411587,Good residential area,,TRUE,FALSE,FALSE,1
+1319,Bibwewadi,18.47441565,73.86044434,Peaceful and green,,TRUE,FALSE,TRUE,1
+1320,Hadapsar,18.5007741,73.9379146,Family-friendly,,TRUE,FALSE,TRUE,4
+1321,Magarpatta,18.5111545,73.92738227,Great place with lots of amenities,,TRUE,FALSE,TRUE,5
+1322,Bavdhan,18.5209541,73.7780873,Tech hub with good facilities,,TRUE,TRUE,FALSE,1
+1323,Pimple Saudagar,18.5981553,73.7977661,Family-friendly,,FALSE,TRUE,TRUE,3
+1324,Deccan Gymkhana,18.5158926,73.84116,Tech hub with good facilities,,TRUE,TRUE,TRUE,3
+1325,Deccan Gymkhana,18.5158926,73.84116,Developing area,,TRUE,FALSE,TRUE,4
+1326,Magarpatta,18.5111545,73.92738227,Great place with lots of amenities,,TRUE,TRUE,TRUE,2
+1327,Koregaon Park,18.53662255,73.89327379,Vibrant and lively,,FALSE,FALSE,TRUE,1
+1328,Hinjewadi,18.5921787,73.68411587,Great place with lots of amenities,,FALSE,FALSE,TRUE,4
+1329,Baner,18.5642431,73.7768573,Vibrant and lively,,TRUE,FALSE,FALSE,3
+1330,Hadapsar,18.5007741,73.9379146,Well-connected,,TRUE,FALSE,FALSE,4
+1331,Kothrud,18.5038889,73.807673,Family-friendly,,TRUE,TRUE,TRUE,3
+1332,Aundh,18.5618834,73.8101957,Developing area,,FALSE,TRUE,FALSE,4
+1333,Pashan,18.5386704,73.7952542,Safe and quiet,,TRUE,TRUE,FALSE,5
+1334,Hinjewadi,18.5921787,73.68411587,Family-friendly,,TRUE,TRUE,TRUE,2
+1335,Magarpatta,18.5111545,73.92738227,Family-friendly,,FALSE,TRUE,FALSE,4
+1336,Bibwewadi,18.47441565,73.86044434,Good residential area,,TRUE,TRUE,FALSE,4
+1337,Shivaji Nagar,25.88455445,86.03985031,Developing area,,TRUE,FALSE,TRUE,3
+1338,Bibwewadi,18.47441565,73.86044434,Great place with lots of amenities,,FALSE,TRUE,FALSE,4
+1339,Camp,32.9723128,-94.9852858,Family-friendly,,FALSE,TRUE,FALSE,4
+1340,Aundh,18.5618834,73.8101957,Family-friendly,,TRUE,FALSE,FALSE,3
+1341,Deccan Gymkhana,18.5158926,73.84116,Busy and bustling,,TRUE,FALSE,TRUE,4
+1342,Yerawada,18.5656319,73.8865762,Great place with lots of amenities,,TRUE,FALSE,FALSE,4
+1343,Pashan,18.5386704,73.7952542,Family-friendly,,FALSE,FALSE,FALSE,5
+1344,Bibwewadi,18.47441565,73.86044434,Peaceful and green,,TRUE,TRUE,TRUE,3
+1345,Hinjewadi,18.5921787,73.68411587,Well-connected,,FALSE,FALSE,FALSE,2
+1346,Baner,18.5642431,73.7768573,Peaceful and green,,TRUE,FALSE,TRUE,2
+1347,Pimple Saudagar,18.5981553,73.7977661,Safe and quiet,,FALSE,FALSE,TRUE,5
+1348,Hinjewadi,18.5921787,73.68411587,Good residential area,,TRUE,FALSE,FALSE,1
+1349,Hinjewadi,18.5921787,73.68411587,Vibrant and lively,,FALSE,TRUE,FALSE,3
+1350,Koregaon Park,18.53662255,73.89327379,Peaceful and green,,TRUE,TRUE,TRUE,2
+1351,Kothrud,18.5038889,73.807673,Good residential area,,FALSE,TRUE,TRUE,1
+1352,Dhankawadi,18.4652208,73.8495579,Tech hub with good facilities,,FALSE,TRUE,FALSE,4
+1353,Wakad,18.6022495,73.7644454,Safe and quiet,,FALSE,TRUE,FALSE,1
+1354,Bavdhan,18.5209541,73.7780873,Developing area,,TRUE,TRUE,FALSE,1
+1355,Shivaji Nagar,25.88455445,86.03985031,Developing area,,FALSE,FALSE,FALSE,1
+1356,Hinjewadi,18.5921787,73.68411587,Peaceful and green,,TRUE,TRUE,TRUE,3
+1357,Bavdhan,18.5209541,73.7780873,Great place with lots of amenities,,FALSE,FALSE,TRUE,5
+1358,Pashan,18.5386704,73.7952542,Great place with lots of amenities,,FALSE,TRUE,FALSE,4
+1359,Kothrud,18.5038889,73.807673,Vibrant and lively,,FALSE,FALSE,TRUE,3
+1360,Dhankawadi,18.4652208,73.8495579,Vibrant and lively,,FALSE,TRUE,TRUE,3
+1361,Hadapsar,18.5007741,73.9379146,Well-connected,,FALSE,FALSE,FALSE,3
+1362,Hadapsar,18.5007741,73.9379146,Good residential area,,FALSE,FALSE,TRUE,2
+1363,Kharadi,18.5512763,73.9416575,Well-connected,,FALSE,FALSE,FALSE,2
+1364,Baner,18.5642431,73.7768573,Family-friendly,,FALSE,TRUE,TRUE,1
+1365,Hadapsar,18.5007741,73.9379146,Safe and quiet,,TRUE,TRUE,TRUE,5
+1366,Yerawada,18.5656319,73.8865762,Great place with lots of amenities,,FALSE,FALSE,TRUE,2
+1367,Dhankawadi,18.4652208,73.8495579,Peaceful and green,,FALSE,FALSE,FALSE,2
+1368,Koregaon Park,18.53662255,73.89327379,Safe and quiet,,TRUE,FALSE,FALSE,4
+1369,Viman Nagar,17.4467567,78.4838203,Developing area,,TRUE,TRUE,FALSE,2
+1370,Baner,18.5642431,73.7768573,Vibrant and lively,,FALSE,FALSE,FALSE,2
+1371,Kharadi,18.5512763,73.9416575,Peaceful and green,,FALSE,TRUE,TRUE,1
+1372,Pashan,18.5386704,73.7952542,Good residential area,,FALSE,TRUE,TRUE,5
+1373,Kharadi,18.5512763,73.9416575,Great place with lots of amenities,,FALSE,FALSE,FALSE,1
+1374,Pimple Saudagar,18.5981553,73.7977661,Developing area,,FALSE,FALSE,FALSE,4
+1375,Viman Nagar,17.4467567,78.4838203,Good residential area,,FALSE,FALSE,FALSE,4
+1376,Hadapsar,18.5007741,73.9379146,Good residential area,,FALSE,TRUE,FALSE,3
+1377,Pimple Saudagar,18.5981553,73.7977661,Developing area,,FALSE,TRUE,FALSE,3
+1378,Hinjewadi,18.5921787,73.68411587,Good residential area,,TRUE,FALSE,FALSE,1
+1379,Pimple Saudagar,18.5981553,73.7977661,Peaceful and green,,FALSE,FALSE,FALSE,2
+1380,Shivaji Nagar,25.88455445,86.03985031,Family-friendly,,TRUE,TRUE,TRUE,1
+1381,Hadapsar,18.5007741,73.9379146,Busy and bustling,,TRUE,FALSE,TRUE,1
+1382,Hadapsar,18.5007741,73.9379146,Busy and bustling,,FALSE,TRUE,FALSE,1
+1383,Kothrud,18.5038889,73.807673,Developing area,,FALSE,FALSE,TRUE,1
+1384,Koregaon Park,18.53662255,73.89327379,Safe and quiet,,TRUE,TRUE,TRUE,4
+1385,Kharadi,18.5512763,73.9416575,Safe and quiet,,TRUE,FALSE,TRUE,2
+1386,Bibwewadi,18.47441565,73.86044434,Busy and bustling,,TRUE,TRUE,TRUE,2
+1387,Viman Nagar,17.4467567,78.4838203,Family-friendly,,TRUE,TRUE,TRUE,5
+1388,Aundh,18.5618834,73.8101957,Great place with lots of amenities,,FALSE,FALSE,FALSE,4
+1389,Pimple Saudagar,18.5981553,73.7977661,Safe and quiet,,TRUE,TRUE,TRUE,1
+1390,Hinjewadi,18.5921787,73.68411587,Developing area,,FALSE,TRUE,FALSE,2
+1391,Magarpatta,18.5111545,73.92738227,Safe and quiet,,TRUE,FALSE,TRUE,5
+1392,Kharadi,18.5512763,73.9416575,Vibrant and lively,,TRUE,FALSE,FALSE,2
+1393,Kothrud,18.5038889,73.807673,Well-connected,,TRUE,FALSE,TRUE,3
+1394,Hinjewadi,18.5921787,73.68411587,Developing area,,TRUE,TRUE,FALSE,1
+1395,Magarpatta,18.5111545,73.92738227,Developing area,,FALSE,FALSE,FALSE,3
+1396,Bavdhan,18.5209541,73.7780873,Busy and bustling,,FALSE,FALSE,TRUE,1
+1397,Camp,32.9723128,-94.9852858,Good residential area,,TRUE,FALSE,TRUE,2
+1398,Magarpatta,18.5111545,73.92738227,Vibrant and lively,,TRUE,FALSE,TRUE,1
+1399,Camp,32.9723128,-94.9852858,Busy and bustling,,FALSE,FALSE,FALSE,1
+1400,Hinjewadi,18.5921787,73.68411587,Well-connected,,FALSE,FALSE,TRUE,3
+1401,Dhankawadi,18.4652208,73.8495579,Busy and bustling,,TRUE,TRUE,FALSE,2
+1402,Hinjewadi,18.5921787,73.68411587,Vibrant and lively,,TRUE,FALSE,FALSE,2
+1403,Dhankawadi,18.4652208,73.8495579,Family-friendly,,TRUE,TRUE,TRUE,5
+1404,Pashan,18.5386704,73.7952542,Tech hub with good facilities,,TRUE,FALSE,TRUE,3
+1405,Bavdhan,18.5209541,73.7780873,Vibrant and lively,,TRUE,TRUE,FALSE,3
+1406,Aundh,18.5618834,73.8101957,Busy and bustling,,FALSE,FALSE,TRUE,2
+1407,Koregaon Park,18.53662255,73.89327379,Safe and quiet,,FALSE,TRUE,TRUE,1
+1408,Wakad,18.6022495,73.7644454,Peaceful and green,,TRUE,TRUE,TRUE,1
+1409,Kothrud,18.5038889,73.807673,Great place with lots of amenities,,TRUE,FALSE,FALSE,1
+1410,Yerawada,18.5656319,73.8865762,Well-connected,,FALSE,TRUE,TRUE,4
+1411,Wakad,18.6022495,73.7644454,Tech hub with good facilities,,FALSE,FALSE,FALSE,4
+1412,Swargate,18.50049485,73.85290371,Developing area,,FALSE,FALSE,TRUE,5
+1413,Viman Nagar,17.4467567,78.4838203,Peaceful and green,,TRUE,FALSE,TRUE,5
+1414,Kharadi,18.5512763,73.9416575,Busy and bustling,,FALSE,TRUE,FALSE,2
+1415,Pimple Saudagar,18.5981553,73.7977661,Well-connected,,FALSE,TRUE,FALSE,3
+1416,Camp,32.9723128,-94.9852858,Vibrant and lively,,TRUE,TRUE,FALSE,4
+1417,Aundh,18.5618834,73.8101957,Developing area,,TRUE,TRUE,TRUE,1
+1418,Kothrud,18.5038889,73.807673,Great place with lots of amenities,,TRUE,TRUE,TRUE,4
+1419,Hadapsar,18.5007741,73.9379146,Developing area,,TRUE,TRUE,FALSE,2
+1420,Camp,32.9723128,-94.9852858,Developing area,,FALSE,TRUE,FALSE,3
+1421,Pimple Saudagar,18.5981553,73.7977661,Developing area,,TRUE,TRUE,TRUE,3
+1422,Baner,18.5642431,73.7768573,Developing area,,TRUE,FALSE,TRUE,1
+1423,Dhankawadi,18.4652208,73.8495579,Well-connected,,FALSE,TRUE,TRUE,1
+1424,Magarpatta,18.5111545,73.92738227,Great place with lots of amenities,,TRUE,TRUE,FALSE,4
+1425,Camp,32.9723128,-94.9852858,Safe and quiet,,TRUE,TRUE,TRUE,3
+1426,Bavdhan,18.5209541,73.7780873,Safe and quiet,,FALSE,FALSE,FALSE,2
+1427,Deccan Gymkhana,18.5158926,73.84116,Busy and bustling,,FALSE,TRUE,TRUE,4
+1428,Swargate,18.50049485,73.85290371,Vibrant and lively,,TRUE,FALSE,TRUE,5
+1429,Hadapsar,18.5007741,73.9379146,Tech hub with good facilities,,FALSE,FALSE,FALSE,4
+1430,Bavdhan,18.5209541,73.7780873,Vibrant and lively,,FALSE,FALSE,FALSE,1
+1431,Shivaji Nagar,25.88455445,86.03985031,Developing area,,TRUE,FALSE,FALSE,5
+1432,Pashan,18.5386704,73.7952542,Developing area,,TRUE,TRUE,FALSE,3
+1433,Koregaon Park,18.53662255,73.89327379,Developing area,,FALSE,FALSE,TRUE,5
+1434,Yerawada,18.5656319,73.8865762,Family-friendly,,FALSE,FALSE,FALSE,2
+1435,Dhankawadi,18.4652208,73.8495579,Peaceful and green,,FALSE,FALSE,FALSE,1
+1436,Dhankawadi,18.4652208,73.8495579,Peaceful and green,,FALSE,FALSE,FALSE,2
+1437,Hadapsar,18.5007741,73.9379146,Good residential area,,FALSE,FALSE,FALSE,3
+1438,Deccan Gymkhana,18.5158926,73.84116,Vibrant and lively,,FALSE,TRUE,FALSE,5
+1439,Koregaon Park,18.53662255,73.89327379,Busy and bustling,,FALSE,TRUE,FALSE,4
+1440,Pimple Saudagar,18.5981553,73.7977661,Well-connected,,FALSE,FALSE,TRUE,5
+1441,Aundh,18.5618834,73.8101957,Tech hub with good facilities,,TRUE,FALSE,TRUE,4
+1442,Baner,18.5642431,73.7768573,Vibrant and lively,,TRUE,TRUE,FALSE,1
+1443,Swargate,18.50049485,73.85290371,Good residential area,,TRUE,FALSE,TRUE,2
+1444,Viman Nagar,17.4467567,78.4838203,Well-connected,,TRUE,FALSE,TRUE,2
+1445,Yerawada,18.5656319,73.8865762,Developing area,,FALSE,TRUE,TRUE,1
+1446,Bavdhan,18.5209541,73.7780873,Family-friendly,,TRUE,FALSE,FALSE,3
+1447,Deccan Gymkhana,18.5158926,73.84116,Vibrant and lively,,FALSE,FALSE,FALSE,2
+1448,Baner,18.5642431,73.7768573,Developing area,,TRUE,FALSE,FALSE,2
+1449,Koregaon Park,18.53662255,73.89327379,Busy and bustling,,FALSE,TRUE,FALSE,3
+1450,Dhankawadi,18.4652208,73.8495579,Good residential area,,FALSE,TRUE,TRUE,4
+1451,Hinjewadi,18.5921787,73.68411587,Tech hub with good facilities,,TRUE,TRUE,FALSE,4
+1452,Pashan,18.5386704,73.7952542,Tech hub with good facilities,,FALSE,TRUE,FALSE,1
+1453,Kothrud,18.5038889,73.807673,Developing area,,TRUE,TRUE,FALSE,4
+1454,Pashan,18.5386704,73.7952542,Well-connected,,FALSE,TRUE,FALSE,5
+1455,Wakad,18.6022495,73.7644454,Family-friendly,,FALSE,TRUE,TRUE,1
+1456,Hinjewadi,18.5921787,73.68411587,Great place with lots of amenities,,FALSE,FALSE,FALSE,2
+1457,Dhankawadi,18.4652208,73.8495579,Busy and bustling,,FALSE,TRUE,FALSE,2
+1458,Koregaon Park,18.53662255,73.89327379,Safe and quiet,,TRUE,FALSE,FALSE,4
+1459,Camp,32.9723128,-94.9852858,Developing area,,FALSE,FALSE,TRUE,4
+1460,Shivaji Nagar,25.88455445,86.03985031,Vibrant and lively,,FALSE,FALSE,TRUE,2
+1461,Bavdhan,18.5209541,73.7780873,Busy and bustling,,FALSE,TRUE,TRUE,3
+1462,Wakad,18.6022495,73.7644454,Tech hub with good facilities,,FALSE,FALSE,TRUE,3
+1463,Hadapsar,18.5007741,73.9379146,Developing area,,FALSE,FALSE,TRUE,1
+1464,Shivaji Nagar,25.88455445,86.03985031,Developing area,,FALSE,FALSE,FALSE,4
+1465,Shivaji Nagar,25.88455445,86.03985031,Busy and bustling,,FALSE,FALSE,TRUE,1
+1466,Kharadi,18.5512763,73.9416575,Good residential area,,FALSE,FALSE,TRUE,2
+1467,Dhankawadi,18.4652208,73.8495579,Safe and quiet,,FALSE,TRUE,TRUE,2
+1468,Viman Nagar,17.4467567,78.4838203,Great place with lots of amenities,,TRUE,FALSE,FALSE,1
+1469,Baner,18.5642431,73.7768573,Family-friendly,,FALSE,TRUE,TRUE,3
+1470,Baner,18.5642431,73.7768573,Vibrant and lively,,FALSE,FALSE,TRUE,5
+1471,Deccan Gymkhana,18.5158926,73.84116,Peaceful and green,,TRUE,FALSE,TRUE,5
+1472,Hadapsar,18.5007741,73.9379146,Vibrant and lively,,TRUE,TRUE,TRUE,5
+1473,Bavdhan,18.5209541,73.7780873,Safe and quiet,,TRUE,TRUE,FALSE,1
+1474,Bibwewadi,18.47441565,73.86044434,Safe and quiet,,TRUE,TRUE,FALSE,3
+1475,Pimple Saudagar,18.5981553,73.7977661,Well-connected,,TRUE,FALSE,FALSE,1
+1476,Hinjewadi,18.5921787,73.68411587,Great place with lots of amenities,,FALSE,FALSE,FALSE,4
+1477,Baner,18.5642431,73.7768573,Tech hub with good facilities,,FALSE,TRUE,TRUE,4
+1478,Koregaon Park,18.53662255,73.89327379,Tech hub with good facilities,,FALSE,FALSE,FALSE,3
+1479,Shivaji Nagar,25.88455445,86.03985031,Family-friendly,,FALSE,FALSE,FALSE,4
+1480,Hadapsar,18.5007741,73.9379146,Vibrant and lively,,TRUE,FALSE,TRUE,5
+1481,Deccan Gymkhana,18.5158926,73.84116,Tech hub with good facilities,,TRUE,TRUE,FALSE,2
+1482,Bavdhan,18.5209541,73.7780873,Developing area,,FALSE,TRUE,TRUE,1
+1483,Bavdhan,18.5209541,73.7780873,Developing area,,FALSE,FALSE,TRUE,2
+1484,Yerawada,18.5656319,73.8865762,Good residential area,,FALSE,FALSE,TRUE,1
+1485,Swargate,18.50049485,73.85290371,Busy and bustling,,TRUE,FALSE,FALSE,1
+1486,Deccan Gymkhana,18.5158926,73.84116,Great place with lots of amenities,,TRUE,TRUE,FALSE,5
+1487,Shivaji Nagar,25.88455445,86.03985031,Well-connected,,FALSE,TRUE,TRUE,3
+1488,Aundh,18.5618834,73.8101957,Safe and quiet,,FALSE,TRUE,FALSE,4
+1489,Camp,32.9723128,-94.9852858,Well-connected,,FALSE,FALSE,FALSE,5
+1490,Swargate,18.50049485,73.85290371,Good residential area,,TRUE,TRUE,TRUE,1
+1491,Hadapsar,18.5007741,73.9379146,Busy and bustling,,TRUE,FALSE,FALSE,3
+1492,Pimple Saudagar,18.5981553,73.7977661,Vibrant and lively,,FALSE,FALSE,TRUE,3
+1493,Pimple Saudagar,18.5981553,73.7977661,Tech hub with good facilities,,TRUE,FALSE,FALSE,2
+1494,Baner,18.5642431,73.7768573,Well-connected,,TRUE,TRUE,FALSE,1
+1495,Viman Nagar,17.4467567,78.4838203,Tech hub with good facilities,,TRUE,FALSE,FALSE,4
+1496,Viman Nagar,17.4467567,78.4838203,Developing area,,TRUE,TRUE,TRUE,4
+1497,Bavdhan,18.5209541,73.7780873,Busy and bustling,,TRUE,TRUE,FALSE,5
+1498,Kothrud,18.5038889,73.807673,Good residential area,,FALSE,TRUE,TRUE,4
+1499,Dhankawadi,18.4652208,73.8495579,Developing area,,TRUE,FALSE,TRUE,1
+1500,Yerawada,18.5656319,73.8865762,Busy and bustling,,TRUE,FALSE,FALSE,3
+1501,Deccan Gymkhana,18.5158926,73.84116,Family-friendly,,TRUE,TRUE,FALSE,4
+1502,Koregaon Park,18.53662255,73.89327379,Peaceful and green,,TRUE,TRUE,TRUE,4
+1503,Viman Nagar,17.4467567,78.4838203,Tech hub with good facilities,,FALSE,TRUE,FALSE,5
+1504,Deccan Gymkhana,18.5158926,73.84116,Safe and quiet,,TRUE,TRUE,FALSE,1
+1505,Pashan,18.5386704,73.7952542,Family-friendly,,TRUE,FALSE,FALSE,5
+1506,Hinjewadi,18.5921787,73.68411587,Safe and quiet,,TRUE,TRUE,TRUE,1
+1507,Magarpatta,18.5111545,73.92738227,Safe and quiet,,FALSE,FALSE,FALSE,1
+1508,Shivaji Nagar,25.88455445,86.03985031,Vibrant and lively,,TRUE,TRUE,FALSE,1
+1509,Baner,18.5642431,73.7768573,Safe and quiet,,FALSE,FALSE,TRUE,3
+1510,Swargate,18.50049485,73.85290371,Busy and bustling,,FALSE,TRUE,TRUE,3
+1511,Dhankawadi,18.4652208,73.8495579,Good residential area,,FALSE,FALSE,TRUE,2
+1512,Dhankawadi,18.4652208,73.8495579,Developing area,,FALSE,FALSE,FALSE,1
+1513,Magarpatta,18.5111545,73.92738227,Great place with lots of amenities,,FALSE,TRUE,TRUE,4
+1514,Hadapsar,18.5007741,73.9379146,Family-friendly,,TRUE,FALSE,FALSE,1
+1515,Viman Nagar,17.4467567,78.4838203,Developing area,,FALSE,FALSE,FALSE,5
+1516,Wakad,18.6022495,73.7644454,Busy and bustling,,TRUE,FALSE,TRUE,3
+1517,Viman Nagar,17.4467567,78.4838203,Developing area,,FALSE,TRUE,TRUE,5
+1518,Bibwewadi,18.47441565,73.86044434,Tech hub with good facilities,,FALSE,TRUE,TRUE,1
+1519,Deccan Gymkhana,18.5158926,73.84116,Busy and bustling,,TRUE,FALSE,TRUE,5
+1520,Viman Nagar,17.4467567,78.4838203,Busy and bustling,,TRUE,FALSE,FALSE,1
+1521,Baner,18.5642431,73.7768573,Peaceful and green,,TRUE,TRUE,FALSE,3
+1522,Kharadi,18.5512763,73.9416575,Tech hub with good facilities,,TRUE,FALSE,TRUE,4
+1523,Deccan Gymkhana,18.5158926,73.84116,Busy and bustling,,TRUE,FALSE,TRUE,3
+1524,Hadapsar,18.5007741,73.9379146,Great place with lots of amenities,,TRUE,TRUE,TRUE,1
+1525,Bibwewadi,18.47441565,73.86044434,Busy and bustling,,TRUE,TRUE,FALSE,3
+1526,Baner,18.5642431,73.7768573,Vibrant and lively,,TRUE,TRUE,TRUE,1
+1527,Viman Nagar,17.4467567,78.4838203,Tech hub with good facilities,,TRUE,TRUE,TRUE,3
+1528,Bavdhan,18.5209541,73.7780873,Family-friendly,,FALSE,TRUE,FALSE,3
+1529,Hinjewadi,18.5921787,73.68411587,Peaceful and green,,TRUE,FALSE,TRUE,5
+1530,Hinjewadi,18.5921787,73.68411587,Great place with lots of amenities,,TRUE,TRUE,FALSE,5
+1531,Shivaji Nagar,25.88455445,86.03985031,Developing area,,TRUE,FALSE,FALSE,1
+1532,Pimple Saudagar,18.5981553,73.7977661,Good residential area,,FALSE,FALSE,FALSE,2
+1533,Pashan,18.5386704,73.7952542,Family-friendly,,FALSE,TRUE,TRUE,4
+1534,Yerawada,18.5656319,73.8865762,Well-connected,,FALSE,TRUE,FALSE,2
+1535,Swargate,18.50049485,73.85290371,Peaceful and green,,FALSE,FALSE,FALSE,2
+1536,Hadapsar,18.5007741,73.9379146,Great place with lots of amenities,,FALSE,FALSE,TRUE,1
+1537,Koregaon Park,18.53662255,73.89327379,Developing area,,FALSE,FALSE,TRUE,1
+1538,Yerawada,18.5656319,73.8865762,Vibrant and lively,,FALSE,FALSE,TRUE,3
+1539,Kothrud,18.5038889,73.807673,Good residential area,,FALSE,TRUE,FALSE,3
+1540,Yerawada,18.5656319,73.8865762,Great place with lots of amenities,,FALSE,TRUE,FALSE,5
+1541,Bibwewadi,18.47441565,73.86044434,Peaceful and green,,TRUE,TRUE,TRUE,5
+1542,Pashan,18.5386704,73.7952542,Busy and bustling,,TRUE,FALSE,FALSE,3
+1543,Shivaji Nagar,25.88455445,86.03985031,Good residential area,,FALSE,TRUE,TRUE,3
+1544,Kharadi,18.5512763,73.9416575,Good residential area,,TRUE,TRUE,TRUE,2
+1545,Hinjewadi,18.5921787,73.68411587,Good residential area,,TRUE,FALSE,TRUE,4
+1546,Wakad,18.6022495,73.7644454,Peaceful and green,,FALSE,FALSE,TRUE,2
+1547,Wakad,18.6022495,73.7644454,Safe and quiet,,TRUE,FALSE,TRUE,4
+1548,Dhankawadi,18.4652208,73.8495579,Good residential area,,FALSE,TRUE,TRUE,3
+1549,Swargate,18.50049485,73.85290371,Peaceful and green,,TRUE,FALSE,TRUE,1
+1550,Wakad,18.6022495,73.7644454,Good residential area,,FALSE,FALSE,TRUE,4
+1551,Yerawada,18.5656319,73.8865762,Good residential area,,TRUE,TRUE,FALSE,3
+1552,Bavdhan,18.5209541,73.7780873,Tech hub with good facilities,,TRUE,FALSE,TRUE,4
+1553,Viman Nagar,17.4467567,78.4838203,Good residential area,,FALSE,TRUE,FALSE,3
+1554,Bibwewadi,18.47441565,73.86044434,Good residential area,,TRUE,FALSE,FALSE,1
+1555,Dhankawadi,18.4652208,73.8495579,Family-friendly,,TRUE,FALSE,FALSE,1
+1556,Hadapsar,18.5007741,73.9379146,Great place with lots of amenities,,TRUE,FALSE,TRUE,3
+1557,Pashan,18.5386704,73.7952542,Busy and bustling,,FALSE,FALSE,TRUE,1
+1558,Koregaon Park,18.53662255,73.89327379,Vibrant and lively,,TRUE,TRUE,TRUE,2
+1559,Shivaji Nagar,25.88455445,86.03985031,Vibrant and lively,,FALSE,FALSE,TRUE,5
+1560,Bibwewadi,18.47441565,73.86044434,Good residential area,,FALSE,FALSE,TRUE,2
+1561,Pashan,18.5386704,73.7952542,Peaceful and green,,TRUE,TRUE,FALSE,2
+1562,Bibwewadi,18.47441565,73.86044434,Well-connected,,TRUE,TRUE,FALSE,1
+1563,Magarpatta,18.5111545,73.92738227,Busy and bustling,,TRUE,TRUE,FALSE,5
+1564,Kothrud,18.5038889,73.807673,Vibrant and lively,,FALSE,FALSE,TRUE,4
+1565,Kothrud,18.5038889,73.807673,Great place with lots of amenities,,FALSE,TRUE,FALSE,1
+1566,Hinjewadi,18.5921787,73.68411587,Great place with lots of amenities,,FALSE,FALSE,TRUE,5
+1567,Shivaji Nagar,25.88455445,86.03985031,Good residential area,,TRUE,TRUE,TRUE,2
+1568,Bibwewadi,18.47441565,73.86044434,Vibrant and lively,,TRUE,FALSE,FALSE,2
+1569,Kharadi,18.5512763,73.9416575,Great place with lots of amenities,,TRUE,TRUE,TRUE,5
+1570,Aundh,18.5618834,73.8101957,Family-friendly,,TRUE,TRUE,FALSE,4
+1571,Koregaon Park,18.53662255,73.89327379,Family-friendly,,TRUE,TRUE,TRUE,5
+1572,Bavdhan,18.5209541,73.7780873,Good residential area,,FALSE,FALSE,TRUE,5
+1573,Baner,18.5642431,73.7768573,Family-friendly,,FALSE,FALSE,FALSE,3
+1574,Bavdhan,18.5209541,73.7780873,Good residential area,,FALSE,TRUE,TRUE,4
+1575,Yerawada,18.5656319,73.8865762,Well-connected,,FALSE,TRUE,FALSE,2
+1576,Pashan,18.5386704,73.7952542,Developing area,,FALSE,FALSE,TRUE,1
+1577,Kharadi,18.5512763,73.9416575,Developing area,,FALSE,FALSE,FALSE,4
+1578,Magarpatta,18.5111545,73.92738227,Vibrant and lively,,TRUE,TRUE,FALSE,1
+1579,Baner,18.5642431,73.7768573,Vibrant and lively,,FALSE,TRUE,TRUE,1
+1580,Aundh,18.5618834,73.8101957,Vibrant and lively,,TRUE,FALSE,FALSE,4
+1581,Pashan,18.5386704,73.7952542,Well-connected,,FALSE,TRUE,TRUE,4
+1582,Pashan,18.5386704,73.7952542,Vibrant and lively,,FALSE,FALSE,TRUE,3
+1583,Pashan,18.5386704,73.7952542,Developing area,,FALSE,FALSE,FALSE,1
+1584,Viman Nagar,17.4467567,78.4838203,Tech hub with good facilities,,FALSE,FALSE,TRUE,5
+1585,Aundh,18.5618834,73.8101957,Busy and bustling,,FALSE,TRUE,TRUE,1
+1586,Magarpatta,18.5111545,73.92738227,Good residential area,,FALSE,TRUE,TRUE,3
+1587,Deccan Gymkhana,18.5158926,73.84116,Family-friendly,,TRUE,FALSE,FALSE,4
+1588,Magarpatta,18.5111545,73.92738227,Tech hub with good facilities,,FALSE,TRUE,TRUE,3
+1589,Yerawada,18.5656319,73.8865762,Tech hub with good facilities,,TRUE,TRUE,FALSE,2
+1590,Pashan,18.5386704,73.7952542,Safe and quiet,,TRUE,TRUE,FALSE,1
+1591,Kharadi,18.5512763,73.9416575,Well-connected,,FALSE,TRUE,TRUE,4
+1592,Wakad,18.6022495,73.7644454,Family-friendly,,TRUE,FALSE,TRUE,1
+1593,Viman Nagar,17.4467567,78.4838203,Great place with lots of amenities,,FALSE,TRUE,TRUE,5
+1594,Kothrud,18.5038889,73.807673,Vibrant and lively,,TRUE,TRUE,TRUE,2
+1595,Camp,32.9723128,-94.9852858,Safe and quiet,,TRUE,FALSE,FALSE,5
+1596,Shivaji Nagar,25.88455445,86.03985031,Busy and bustling,,FALSE,TRUE,TRUE,3
+1597,Deccan Gymkhana,18.5158926,73.84116,Well-connected,,TRUE,TRUE,TRUE,1
+1598,Hinjewadi,18.5921787,73.68411587,Vibrant and lively,,FALSE,FALSE,FALSE,3
+1599,Hinjewadi,18.5921787,73.68411587,Peaceful and green,,FALSE,FALSE,FALSE,3
+1600,Shivaji Nagar,25.88455445,86.03985031,Safe and quiet,,FALSE,FALSE,FALSE,1
+1601,Baner,18.5642431,73.7768573,Tech hub with good facilities,,TRUE,FALSE,FALSE,5
+1602,Koregaon Park,18.53662255,73.89327379,Vibrant and lively,,FALSE,TRUE,FALSE,3
+1603,Hinjewadi,18.5921787,73.68411587,Family-friendly,,TRUE,FALSE,FALSE,5
+1604,Viman Nagar,17.4467567,78.4838203,Safe and quiet,,FALSE,TRUE,FALSE,3
+1605,Magarpatta,18.5111545,73.92738227,Safe and quiet,,TRUE,FALSE,TRUE,3
+1606,Wakad,18.6022495,73.7644454,Well-connected,,TRUE,TRUE,TRUE,4
+1607,Pashan,18.5386704,73.7952542,Great place with lots of amenities,,FALSE,TRUE,TRUE,4
+1608,Kharadi,18.5512763,73.9416575,Well-connected,,FALSE,TRUE,FALSE,5
+1609,Baner,18.5642431,73.7768573,Busy and bustling,,TRUE,TRUE,FALSE,1
+1610,Viman Nagar,17.4467567,78.4838203,Well-connected,,TRUE,TRUE,TRUE,1
+1611,Wakad,18.6022495,73.7644454,Developing area,,FALSE,FALSE,FALSE,1
+1612,Magarpatta,18.5111545,73.92738227,Tech hub with good facilities,,TRUE,FALSE,FALSE,3
+1613,Kharadi,18.5512763,73.9416575,Vibrant and lively,,FALSE,FALSE,FALSE,2
+1614,Koregaon Park,18.53662255,73.89327379,Well-connected,,FALSE,FALSE,TRUE,2
+1615,Shivaji Nagar,25.88455445,86.03985031,Tech hub with good facilities,,TRUE,FALSE,TRUE,2
+1616,Viman Nagar,17.4467567,78.4838203,Developing area,,FALSE,TRUE,TRUE,4
+1617,Camp,32.9723128,-94.9852858,Well-connected,,FALSE,TRUE,FALSE,5
+1618,Viman Nagar,17.4467567,78.4838203,Family-friendly,,TRUE,TRUE,FALSE,2
+1619,Yerawada,18.5656319,73.8865762,Peaceful and green,,TRUE,TRUE,FALSE,4
+1620,Koregaon Park,18.53662255,73.89327379,Great place with lots of amenities,,FALSE,FALSE,TRUE,1
+1621,Baner,18.5642431,73.7768573,Developing area,,TRUE,FALSE,TRUE,2
+1622,Pashan,18.5386704,73.7952542,Vibrant and lively,,TRUE,TRUE,TRUE,4
+1623,Swargate,18.50049485,73.85290371,Peaceful and green,,FALSE,TRUE,FALSE,1
+1624,Magarpatta,18.5111545,73.92738227,Good residential area,,FALSE,FALSE,TRUE,3
+1625,Magarpatta,18.5111545,73.92738227,Developing area,,FALSE,TRUE,FALSE,1
+1626,Aundh,18.5618834,73.8101957,Family-friendly,,FALSE,TRUE,FALSE,4
+1627,Pimple Saudagar,18.5981553,73.7977661,Good residential area,,FALSE,TRUE,FALSE,5
+1628,Bavdhan,18.5209541,73.7780873,Great place with lots of amenities,,FALSE,FALSE,FALSE,2
+1629,Pashan,18.5386704,73.7952542,Well-connected,,FALSE,FALSE,TRUE,5
+1630,Dhankawadi,18.4652208,73.8495579,Well-connected,,TRUE,TRUE,TRUE,2
+1631,Magarpatta,18.5111545,73.92738227,Family-friendly,,TRUE,FALSE,TRUE,3
+1632,Yerawada,18.5656319,73.8865762,Developing area,,FALSE,FALSE,TRUE,5
+1633,Shivaji Nagar,25.88455445,86.03985031,Well-connected,,TRUE,TRUE,TRUE,2
+1634,Baner,18.5642431,73.7768573,Tech hub with good facilities,,TRUE,FALSE,TRUE,4
+1635,Hadapsar,18.5007741,73.9379146,Tech hub with good facilities,,TRUE,TRUE,FALSE,4
+1636,Pimple Saudagar,18.5981553,73.7977661,Tech hub with good facilities,,TRUE,TRUE,FALSE,4
+1637,Bavdhan,18.5209541,73.7780873,Busy and bustling,,FALSE,FALSE,TRUE,2
+1638,Camp,32.9723128,-94.9852858,Safe and quiet,,FALSE,TRUE,FALSE,3
+1639,Hinjewadi,18.5921787,73.68411587,Great place with lots of amenities,,TRUE,TRUE,FALSE,2
+1640,Kharadi,18.5512763,73.9416575,Peaceful and green,,TRUE,TRUE,FALSE,1
+1641,Swargate,18.50049485,73.85290371,Good residential area,,TRUE,FALSE,TRUE,3
+1642,Baner,18.5642431,73.7768573,Great place with lots of amenities,,TRUE,FALSE,FALSE,5
+1643,Magarpatta,18.5111545,73.92738227,Safe and quiet,,TRUE,FALSE,TRUE,1
+1644,Shivaji Nagar,25.88455445,86.03985031,Good residential area,,FALSE,TRUE,TRUE,1
+1645,Magarpatta,18.5111545,73.92738227,Safe and quiet,,FALSE,TRUE,FALSE,3
+1646,Pimple Saudagar,18.5981553,73.7977661,Great place with lots of amenities,,FALSE,FALSE,FALSE,2
+1647,Pimple Saudagar,18.5981553,73.7977661,Family-friendly,,FALSE,FALSE,FALSE,3
+1648,Aundh,18.5618834,73.8101957,Busy and bustling,,FALSE,FALSE,TRUE,4
+1649,Aundh,18.5618834,73.8101957,Busy and bustling,,FALSE,TRUE,FALSE,2
+1650,Baner,18.5642431,73.7768573,Developing area,,TRUE,FALSE,FALSE,3
+1651,Hinjewadi,18.5921787,73.68411587,Safe and quiet,,TRUE,TRUE,FALSE,1
+1652,Swargate,18.50049485,73.85290371,Tech hub with good facilities,,FALSE,TRUE,FALSE,5
+1653,Camp,32.9723128,-94.9852858,Good residential area,,TRUE,FALSE,FALSE,5
+1654,Shivaji Nagar,25.88455445,86.03985031,Well-connected,,TRUE,FALSE,TRUE,2
+1655,Camp,32.9723128,-94.9852858,Busy and bustling,,TRUE,TRUE,FALSE,4
+1656,Baner,18.5642431,73.7768573,Tech hub with good facilities,,TRUE,TRUE,TRUE,5
+1657,Kharadi,18.5512763,73.9416575,Great place with lots of amenities,,TRUE,TRUE,TRUE,5
+1658,Yerawada,18.5656319,73.8865762,Tech hub with good facilities,,FALSE,TRUE,FALSE,3
+1659,Viman Nagar,17.4467567,78.4838203,Good residential area,,FALSE,FALSE,FALSE,4
+1660,Aundh,18.5618834,73.8101957,Vibrant and lively,,TRUE,FALSE,TRUE,2
+1661,Pimple Saudagar,18.5981553,73.7977661,Vibrant and lively,,TRUE,TRUE,FALSE,5
+1662,Camp,32.9723128,-94.9852858,Busy and bustling,,TRUE,TRUE,FALSE,5
+1663,Magarpatta,18.5111545,73.92738227,Busy and bustling,,TRUE,FALSE,TRUE,2
+1664,Swargate,18.50049485,73.85290371,Busy and bustling,,FALSE,FALSE,TRUE,4
+1665,Pashan,18.5386704,73.7952542,Busy and bustling,,TRUE,TRUE,TRUE,2
+1666,Koregaon Park,18.53662255,73.89327379,Safe and quiet,,FALSE,TRUE,FALSE,3
+1667,Wakad,18.6022495,73.7644454,Busy and bustling,,FALSE,FALSE,FALSE,5
+1668,Wakad,18.6022495,73.7644454,Safe and quiet,,FALSE,FALSE,TRUE,4
+1669,Camp,32.9723128,-94.9852858,Busy and bustling,,FALSE,FALSE,TRUE,2
+1670,Baner,18.5642431,73.7768573,Peaceful and green,,TRUE,FALSE,FALSE,5
+1671,Hinjewadi,18.5921787,73.68411587,Developing area,,FALSE,TRUE,FALSE,1
+1672,Baner,18.5642431,73.7768573,Developing area,,TRUE,TRUE,TRUE,5
+1673,Kothrud,18.5038889,73.807673,Great place with lots of amenities,,FALSE,FALSE,FALSE,4
+1674,Kothrud,18.5038889,73.807673,Family-friendly,,TRUE,FALSE,TRUE,5
+1675,Shivaji Nagar,25.88455445,86.03985031,Peaceful and green,,TRUE,TRUE,FALSE,5
+1676,Kothrud,18.5038889,73.807673,Good residential area,,TRUE,TRUE,TRUE,1
+1677,Wakad,18.6022495,73.7644454,Safe and quiet,,FALSE,TRUE,FALSE,4
+1678,Hadapsar,18.5007741,73.9379146,Tech hub with good facilities,,TRUE,TRUE,FALSE,1
+1679,Koregaon Park,18.53662255,73.89327379,Peaceful and green,,TRUE,FALSE,FALSE,1
+1680,Deccan Gymkhana,18.5158926,73.84116,Safe and quiet,,FALSE,FALSE,FALSE,4
+1681,Dhankawadi,18.4652208,73.8495579,Tech hub with good facilities,,FALSE,TRUE,FALSE,5
+1682,Koregaon Park,18.53662255,73.89327379,Family-friendly,,FALSE,TRUE,TRUE,1
+1683,Deccan Gymkhana,18.5158926,73.84116,Developing area,,FALSE,TRUE,FALSE,4
+1684,Viman Nagar,17.4467567,78.4838203,Vibrant and lively,,FALSE,FALSE,TRUE,2
+1685,Camp,32.9723128,-94.9852858,Vibrant and lively,,TRUE,FALSE,FALSE,3
+1686,Kothrud,18.5038889,73.807673,Family-friendly,,TRUE,FALSE,TRUE,2
+1687,Swargate,18.50049485,73.85290371,Developing area,,FALSE,FALSE,TRUE,3
+1688,Kharadi,18.5512763,73.9416575,Tech hub with good facilities,,TRUE,FALSE,FALSE,3
+1689,Wakad,18.6022495,73.7644454,Family-friendly,,TRUE,FALSE,FALSE,2
+1690,Magarpatta,18.5111545,73.92738227,Busy and bustling,,FALSE,FALSE,FALSE,2
+1691,Pashan,18.5386704,73.7952542,Developing area,,TRUE,FALSE,FALSE,4
+1692,Hadapsar,18.5007741,73.9379146,Peaceful and green,,TRUE,FALSE,FALSE,2
+1693,Yerawada,18.5656319,73.8865762,Safe and quiet,,FALSE,TRUE,FALSE,4
+1694,Aundh,18.5618834,73.8101957,Vibrant and lively,,FALSE,FALSE,FALSE,5
+1695,Magarpatta,18.5111545,73.92738227,Great place with lots of amenities,,FALSE,FALSE,TRUE,2
+1696,Koregaon Park,18.53662255,73.89327379,Tech hub with good facilities,,FALSE,TRUE,TRUE,1
+1697,Bibwewadi,18.47441565,73.86044434,Developing area,,TRUE,TRUE,FALSE,4
+1698,Deccan Gymkhana,18.5158926,73.84116,Peaceful and green,,FALSE,TRUE,TRUE,5
+1699,Viman Nagar,17.4467567,78.4838203,Developing area,,FALSE,FALSE,TRUE,3
+1700,Bavdhan,18.5209541,73.7780873,Safe and quiet,,FALSE,TRUE,FALSE,5
+1701,Wakad,18.6022495,73.7644454,Tech hub with good facilities,,FALSE,TRUE,FALSE,5
+1702,Baner,18.5642431,73.7768573,Safe and quiet,,TRUE,TRUE,FALSE,2
+1703,Swargate,18.50049485,73.85290371,Busy and bustling,,FALSE,FALSE,TRUE,1
+1704,Hinjewadi,18.5921787,73.68411587,Family-friendly,,FALSE,FALSE,TRUE,2
+1705,Aundh,18.5618834,73.8101957,Well-connected,,TRUE,TRUE,FALSE,2
+1706,Pashan,18.5386704,73.7952542,Developing area,,TRUE,TRUE,TRUE,4
+1707,Swargate,18.50049485,73.85290371,Great place with lots of amenities,,TRUE,TRUE,TRUE,5
+1708,Baner,18.5642431,73.7768573,Vibrant and lively,,FALSE,TRUE,TRUE,3
+1709,Viman Nagar,17.4467567,78.4838203,Tech hub with good facilities,,FALSE,FALSE,TRUE,5
+1710,Aundh,18.5618834,73.8101957,Busy and bustling,,TRUE,TRUE,FALSE,1
+1711,Pashan,18.5386704,73.7952542,Good residential area,,TRUE,FALSE,FALSE,5
+1712,Dhankawadi,18.4652208,73.8495579,Peaceful and green,,FALSE,TRUE,TRUE,2
+1713,Deccan Gymkhana,18.5158926,73.84116,Well-connected,,TRUE,TRUE,FALSE,1
+1714,Pimple Saudagar,18.5981553,73.7977661,Busy and bustling,,FALSE,FALSE,FALSE,1
+1715,Hadapsar,18.5007741,73.9379146,Peaceful and green,,FALSE,TRUE,FALSE,1
+1716,Koregaon Park,18.53662255,73.89327379,Good residential area,,FALSE,FALSE,FALSE,1
+1717,Bavdhan,18.5209541,73.7780873,Safe and quiet,,TRUE,FALSE,FALSE,1
+1718,Bibwewadi,18.47441565,73.86044434,Well-connected,,FALSE,TRUE,TRUE,4
+1719,Hadapsar,18.5007741,73.9379146,Developing area,,FALSE,FALSE,TRUE,5
+1720,Baner,18.5642431,73.7768573,Tech hub with good facilities,,FALSE,TRUE,FALSE,3
+1721,Deccan Gymkhana,18.5158926,73.84116,Great place with lots of amenities,,FALSE,TRUE,FALSE,3
+1722,Camp,32.9723128,-94.9852858,Developing area,,FALSE,FALSE,TRUE,5
+1723,Bavdhan,18.5209541,73.7780873,Peaceful and green,,TRUE,TRUE,TRUE,5
+1724,Swargate,18.50049485,73.85290371,Vibrant and lively,,FALSE,FALSE,FALSE,5
+1725,Koregaon Park,18.53662255,73.89327379,Developing area,,TRUE,FALSE,FALSE,2
+1726,Viman Nagar,17.4467567,78.4838203,Peaceful and green,,TRUE,FALSE,FALSE,3
+1727,Dhankawadi,18.4652208,73.8495579,Peaceful and green,,FALSE,FALSE,TRUE,4
+1728,Hadapsar,18.5007741,73.9379146,Good residential area,,TRUE,TRUE,FALSE,5
+1729,Shivaji Nagar,25.88455445,86.03985031,Tech hub with good facilities,,TRUE,TRUE,TRUE,1
+1730,Dhankawadi,18.4652208,73.8495579,Great place with lots of amenities,,FALSE,FALSE,FALSE,1
+1731,Swargate,18.50049485,73.85290371,Tech hub with good facilities,,FALSE,FALSE,TRUE,5
+1732,Aundh,18.5618834,73.8101957,Well-connected,,TRUE,TRUE,FALSE,4
+1733,Deccan Gymkhana,18.5158926,73.84116,Well-connected,,TRUE,TRUE,FALSE,5
+1734,Swargate,18.50049485,73.85290371,Tech hub with good facilities,,FALSE,FALSE,TRUE,2
+1735,Camp,32.9723128,-94.9852858,Great place with lots of amenities,,FALSE,TRUE,TRUE,1
+1736,Pimple Saudagar,18.5981553,73.7977661,Busy and bustling,,TRUE,TRUE,FALSE,2
+1737,Aundh,18.5618834,73.8101957,Developing area,,TRUE,TRUE,TRUE,2
+1738,Hinjewadi,18.5921787,73.68411587,Peaceful and green,,FALSE,FALSE,TRUE,1
+1739,Aundh,18.5618834,73.8101957,Good residential area,,TRUE,FALSE,TRUE,1
+1740,Deccan Gymkhana,18.5158926,73.84116,Busy and bustling,,FALSE,FALSE,TRUE,2
+1741,Wakad,18.6022495,73.7644454,Well-connected,,FALSE,TRUE,FALSE,2
+1742,Shivaji Nagar,25.88455445,86.03985031,Developing area,,TRUE,FALSE,FALSE,4
+1743,Yerawada,18.5656319,73.8865762,Peaceful and green,,TRUE,TRUE,TRUE,4
+1744,Bavdhan,18.5209541,73.7780873,Developing area,,TRUE,TRUE,FALSE,4
+1745,Pimple Saudagar,18.5981553,73.7977661,Good residential area,,TRUE,TRUE,TRUE,4
+1746,Pimple Saudagar,18.5981553,73.7977661,Tech hub with good facilities,,FALSE,FALSE,TRUE,3
+1747,Kharadi,18.5512763,73.9416575,Tech hub with good facilities,,TRUE,TRUE,TRUE,3
+1748,Pashan,18.5386704,73.7952542,Busy and bustling,,TRUE,TRUE,FALSE,5
+1749,Bibwewadi,18.47441565,73.86044434,Developing area,,TRUE,TRUE,FALSE,1
+1750,Bavdhan,18.5209541,73.7780873,Family-friendly,,TRUE,TRUE,TRUE,5
+1751,Bibwewadi,18.47441565,73.86044434,Good residential area,,TRUE,FALSE,TRUE,2
+1752,Kothrud,18.5038889,73.807673,Family-friendly,,FALSE,TRUE,TRUE,4
+1753,Koregaon Park,18.53662255,73.89327379,Safe and quiet,,FALSE,FALSE,FALSE,1
+1754,Yerawada,18.5656319,73.8865762,Tech hub with good facilities,,TRUE,FALSE,TRUE,4
+1755,Koregaon Park,18.53662255,73.89327379,Family-friendly,,TRUE,FALSE,FALSE,1
+1756,Pashan,18.5386704,73.7952542,Great place with lots of amenities,,TRUE,FALSE,TRUE,1
+1757,Hinjewadi,18.5921787,73.68411587,Tech hub with good facilities,,TRUE,FALSE,TRUE,1
+1758,Kothrud,18.5038889,73.807673,Well-connected,,TRUE,TRUE,TRUE,2
+1759,Dhankawadi,18.4652208,73.8495579,Peaceful and green,,FALSE,TRUE,TRUE,5
+1760,Baner,18.5642431,73.7768573,Great place with lots of amenities,,TRUE,FALSE,TRUE,2
+1761,Camp,32.9723128,-94.9852858,Peaceful and green,,TRUE,FALSE,FALSE,4
+1762,Magarpatta,18.5111545,73.92738227,Peaceful and green,,TRUE,TRUE,FALSE,5
+1763,Bibwewadi,18.47441565,73.86044434,Peaceful and green,,TRUE,TRUE,TRUE,3
+1764,Magarpatta,18.5111545,73.92738227,Peaceful and green,,FALSE,FALSE,FALSE,3
+1765,Bibwewadi,18.47441565,73.86044434,Great place with lots of amenities,,FALSE,FALSE,TRUE,5
+1766,Magarpatta,18.5111545,73.92738227,Safe and quiet,,FALSE,FALSE,FALSE,1
+1767,Shivaji Nagar,25.88455445,86.03985031,Developing area,,FALSE,FALSE,TRUE,1
+1768,Yerawada,18.5656319,73.8865762,Family-friendly,,FALSE,TRUE,TRUE,2
+1769,Pimple Saudagar,18.5981553,73.7977661,Peaceful and green,,FALSE,TRUE,FALSE,5
+1770,Shivaji Nagar,25.88455445,86.03985031,Developing area,,FALSE,TRUE,TRUE,4
+1771,Baner,18.5642431,73.7768573,Safe and quiet,,TRUE,TRUE,TRUE,3
+1772,Pimple Saudagar,18.5981553,73.7977661,Well-connected,,FALSE,FALSE,FALSE,4
+1773,Aundh,18.5618834,73.8101957,Well-connected,,TRUE,TRUE,FALSE,2
+1774,Aundh,18.5618834,73.8101957,Family-friendly,,FALSE,TRUE,FALSE,5
+1775,Hinjewadi,18.5921787,73.68411587,Peaceful and green,,TRUE,TRUE,FALSE,5
+1776,Viman Nagar,17.4467567,78.4838203,Peaceful and green,,FALSE,FALSE,TRUE,2
+1777,Yerawada,18.5656319,73.8865762,Busy and bustling,,TRUE,TRUE,FALSE,2
+1778,Swargate,18.50049485,73.85290371,Safe and quiet,,FALSE,FALSE,TRUE,3
+1779,Wakad,18.6022495,73.7644454,Peaceful and green,,FALSE,TRUE,FALSE,5
+1780,Camp,32.9723128,-94.9852858,Vibrant and lively,,TRUE,TRUE,FALSE,1
+1781,Pashan,18.5386704,73.7952542,Family-friendly,,FALSE,FALSE,FALSE,4
+1782,Bibwewadi,18.47441565,73.86044434,Well-connected,,TRUE,TRUE,TRUE,1
+1783,Koregaon Park,18.53662255,73.89327379,Safe and quiet,,TRUE,TRUE,FALSE,3
+1784,Kothrud,18.5038889,73.807673,Peaceful and green,,FALSE,TRUE,FALSE,4
+1785,Aundh,18.5618834,73.8101957,Great place with lots of amenities,,TRUE,TRUE,TRUE,1
+1786,Wakad,18.6022495,73.7644454,Good residential area,,TRUE,TRUE,TRUE,4
+1787,Shivaji Nagar,25.88455445,86.03985031,Great place with lots of amenities,,TRUE,TRUE,FALSE,5
+1788,Hadapsar,18.5007741,73.9379146,Great place with lots of amenities,,FALSE,FALSE,FALSE,3
+1789,Camp,32.9723128,-94.9852858,Developing area,,TRUE,FALSE,FALSE,3
+1790,Hadapsar,18.5007741,73.9379146,Tech hub with good facilities,,TRUE,FALSE,FALSE,1
+1791,Magarpatta,18.5111545,73.92738227,Tech hub with good facilities,,TRUE,TRUE,FALSE,3
+1792,Baner,18.5642431,73.7768573,Tech hub with good facilities,,TRUE,FALSE,FALSE,4
+1793,Wakad,18.6022495,73.7644454,Great place with lots of amenities,,FALSE,FALSE,TRUE,1
+1794,Aundh,18.5618834,73.8101957,Safe and quiet,,TRUE,FALSE,FALSE,5
+1795,Koregaon Park,18.53662255,73.89327379,Good residential area,,TRUE,TRUE,FALSE,3
+1796,Viman Nagar,17.4467567,78.4838203,Busy and bustling,,FALSE,TRUE,TRUE,5
+1797,Swargate,18.50049485,73.85290371,Good residential area,,FALSE,FALSE,TRUE,1
+1798,Hinjewadi,18.5921787,73.68411587,Peaceful and green,,FALSE,FALSE,FALSE,3
+1799,Kharadi,18.5512763,73.9416575,Vibrant and lively,,TRUE,TRUE,TRUE,1
+1800,Shivaji Nagar,25.88455445,86.03985031,Vibrant and lively,,FALSE,FALSE,TRUE,3
+1801,Bavdhan,18.5209541,73.7780873,Good residential area,,FALSE,FALSE,TRUE,4
+1802,Camp,32.9723128,-94.9852858,Good residential area,,TRUE,TRUE,FALSE,5
+1803,Camp,32.9723128,-94.9852858,Developing area,,TRUE,TRUE,TRUE,3
+1804,Wakad,18.6022495,73.7644454,Tech hub with good facilities,,FALSE,FALSE,TRUE,2
+1805,Magarpatta,18.5111545,73.92738227,Peaceful and green,,FALSE,FALSE,FALSE,1
+1806,Kothrud,18.5038889,73.807673,Great place with lots of amenities,,FALSE,FALSE,FALSE,3
+1807,Shivaji Nagar,25.88455445,86.03985031,Safe and quiet,,FALSE,FALSE,FALSE,3
+1808,Shivaji Nagar,25.88455445,86.03985031,Busy and bustling,,FALSE,TRUE,FALSE,3
+1809,Bavdhan,18.5209541,73.7780873,Tech hub with good facilities,,TRUE,FALSE,TRUE,5
+1810,Aundh,18.5618834,73.8101957,Great place with lots of amenities,,TRUE,FALSE,TRUE,4
+1811,Swargate,18.50049485,73.85290371,Family-friendly,,TRUE,TRUE,TRUE,5
+1812,Viman Nagar,17.4467567,78.4838203,Safe and quiet,,FALSE,TRUE,FALSE,3
+1813,Kharadi,18.5512763,73.9416575,Family-friendly,,FALSE,FALSE,FALSE,3
+1814,Kothrud,18.5038889,73.807673,Tech hub with good facilities,,TRUE,FALSE,TRUE,2
+1815,Viman Nagar,17.4467567,78.4838203,Busy and bustling,,TRUE,TRUE,FALSE,1
+1816,Pashan,18.5386704,73.7952542,Well-connected,,FALSE,FALSE,TRUE,3
+1817,Bavdhan,18.5209541,73.7780873,Peaceful and green,,TRUE,FALSE,TRUE,2
+1818,Hinjewadi,18.5921787,73.68411587,Well-connected,,TRUE,TRUE,TRUE,2
+1819,Bavdhan,18.5209541,73.7780873,Developing area,,FALSE,TRUE,FALSE,1
+1820,Bavdhan,18.5209541,73.7780873,Peaceful and green,,FALSE,TRUE,TRUE,3
+1821,Dhankawadi,18.4652208,73.8495579,Well-connected,,FALSE,TRUE,TRUE,1
+1822,Shivaji Nagar,25.88455445,86.03985031,Vibrant and lively,,FALSE,FALSE,TRUE,5
+1823,Bibwewadi,18.47441565,73.86044434,Vibrant and lively,,FALSE,FALSE,TRUE,3
+1824,Shivaji Nagar,25.88455445,86.03985031,Family-friendly,,TRUE,FALSE,FALSE,3
+1825,Camp,32.9723128,-94.9852858,Busy and bustling,,TRUE,FALSE,FALSE,4
+1826,Yerawada,18.5656319,73.8865762,Family-friendly,,TRUE,TRUE,FALSE,5
+1827,Wakad,18.6022495,73.7644454,Safe and quiet,,TRUE,FALSE,FALSE,1
+1828,Deccan Gymkhana,18.5158926,73.84116,Great place with lots of amenities,,FALSE,FALSE,FALSE,1
+1829,Hinjewadi,18.5921787,73.68411587,Great place with lots of amenities,,FALSE,FALSE,FALSE,1
+1830,Bavdhan,18.5209541,73.7780873,Great place with lots of amenities,,FALSE,TRUE,FALSE,5
+1831,Shivaji Nagar,25.88455445,86.03985031,Tech hub with good facilities,,TRUE,FALSE,FALSE,1
+1832,Hadapsar,18.5007741,73.9379146,Great place with lots of amenities,,TRUE,FALSE,TRUE,2
+1833,Bibwewadi,18.47441565,73.86044434,Busy and bustling,,TRUE,TRUE,FALSE,3
+1834,Wakad,18.6022495,73.7644454,Great place with lots of amenities,,FALSE,FALSE,FALSE,4
+1835,Viman Nagar,17.4467567,78.4838203,Good residential area,,FALSE,TRUE,TRUE,3
+1836,Camp,32.9723128,-94.9852858,Good residential area,,FALSE,TRUE,TRUE,1
+1837,Viman Nagar,17.4467567,78.4838203,Tech hub with good facilities,,FALSE,TRUE,FALSE,1
+1838,Dhankawadi,18.4652208,73.8495579,Developing area,,TRUE,TRUE,FALSE,4
+1839,Kothrud,18.5038889,73.807673,Developing area,,TRUE,FALSE,FALSE,4
+1840,Koregaon Park,18.53662255,73.89327379,Family-friendly,,FALSE,FALSE,FALSE,1
+1841,Bibwewadi,18.47441565,73.86044434,Peaceful and green,,TRUE,FALSE,FALSE,5
+1842,Camp,32.9723128,-94.9852858,Family-friendly,,FALSE,TRUE,TRUE,4
+1843,Shivaji Nagar,25.88455445,86.03985031,Well-connected,,FALSE,FALSE,FALSE,1
+1844,Kothrud,18.5038889,73.807673,Tech hub with good facilities,,TRUE,FALSE,TRUE,3
+1845,Kothrud,18.5038889,73.807673,Great place with lots of amenities,,FALSE,FALSE,TRUE,1
+1846,Dhankawadi,18.4652208,73.8495579,Well-connected,,FALSE,TRUE,TRUE,4
+1847,Bibwewadi,18.47441565,73.86044434,Family-friendly,,FALSE,TRUE,TRUE,1
+1848,Shivaji Nagar,25.88455445,86.03985031,Good residential area,,TRUE,TRUE,TRUE,1
+1849,Kothrud,18.5038889,73.807673,Developing area,,FALSE,FALSE,TRUE,5
+1850,Kharadi,18.5512763,73.9416575,Safe and quiet,,FALSE,FALSE,TRUE,5
+1851,Yerawada,18.5656319,73.8865762,Developing area,,FALSE,TRUE,TRUE,4
+1852,Yerawada,18.5656319,73.8865762,Peaceful and green,,FALSE,FALSE,FALSE,5
+1853,Viman Nagar,17.4467567,78.4838203,Busy and bustling,,FALSE,TRUE,FALSE,5
+1854,Dhankawadi,18.4652208,73.8495579,Vibrant and lively,,TRUE,TRUE,TRUE,2
+1855,Viman Nagar,17.4467567,78.4838203,Well-connected,,TRUE,TRUE,TRUE,5
+1856,Kharadi,18.5512763,73.9416575,Busy and bustling,,TRUE,TRUE,TRUE,5
+1857,Viman Nagar,17.4467567,78.4838203,Good residential area,,TRUE,FALSE,TRUE,2
+1858,Aundh,18.5618834,73.8101957,Safe and quiet,,FALSE,TRUE,FALSE,2
+1859,Wakad,18.6022495,73.7644454,Vibrant and lively,,TRUE,TRUE,FALSE,3
+1860,Kothrud,18.5038889,73.807673,Well-connected,,TRUE,TRUE,TRUE,2
+1861,Koregaon Park,18.53662255,73.89327379,Tech hub with good facilities,,FALSE,FALSE,TRUE,3
+1862,Bavdhan,18.5209541,73.7780873,Good residential area,,TRUE,TRUE,FALSE,2
+1863,Koregaon Park,18.53662255,73.89327379,Good residential area,,TRUE,FALSE,FALSE,3
+1864,Pimple Saudagar,18.5981553,73.7977661,Family-friendly,,TRUE,FALSE,FALSE,2
+1865,Kothrud,18.5038889,73.807673,Well-connected,,TRUE,TRUE,TRUE,1
+1866,Pashan,18.5386704,73.7952542,Developing area,,TRUE,TRUE,TRUE,4
+1867,Deccan Gymkhana,18.5158926,73.84116,Good residential area,,TRUE,TRUE,TRUE,5
+1868,Yerawada,18.5656319,73.8865762,Tech hub with good facilities,,TRUE,TRUE,TRUE,3
+1869,Viman Nagar,17.4467567,78.4838203,Great place with lots of amenities,,TRUE,FALSE,TRUE,3
+1870,Deccan Gymkhana,18.5158926,73.84116,Developing area,,TRUE,FALSE,FALSE,3
+1871,Bavdhan,18.5209541,73.7780873,Busy and bustling,,TRUE,TRUE,FALSE,5
+1872,Baner,18.5642431,73.7768573,Developing area,,FALSE,FALSE,TRUE,5
+1873,Viman Nagar,17.4467567,78.4838203,Safe and quiet,,FALSE,TRUE,FALSE,5
+1874,Kharadi,18.5512763,73.9416575,Peaceful and green,,FALSE,FALSE,FALSE,2
+1875,Pashan,18.5386704,73.7952542,Tech hub with good facilities,,FALSE,TRUE,FALSE,1
+1876,Magarpatta,18.5111545,73.92738227,Busy and bustling,,FALSE,TRUE,TRUE,1
+1877,Swargate,18.50049485,73.85290371,Vibrant and lively,,FALSE,TRUE,TRUE,4
+1878,Bibwewadi,18.47441565,73.86044434,Safe and quiet,,FALSE,TRUE,FALSE,1
+1879,Hinjewadi,18.5921787,73.68411587,Well-connected,,TRUE,FALSE,TRUE,5
+1880,Camp,32.9723128,-94.9852858,Family-friendly,,TRUE,FALSE,FALSE,5
+1881,Hinjewadi,18.5921787,73.68411587,Developing area,,FALSE,TRUE,FALSE,5
+1882,Shivaji Nagar,25.88455445,86.03985031,Vibrant and lively,,TRUE,FALSE,TRUE,3
+1883,Deccan Gymkhana,18.5158926,73.84116,Great place with lots of amenities,,TRUE,TRUE,TRUE,1
+1884,Pimple Saudagar,18.5981553,73.7977661,Tech hub with good facilities,,FALSE,FALSE,TRUE,4
+1885,Kothrud,18.5038889,73.807673,Vibrant and lively,,FALSE,TRUE,FALSE,3
+1886,Camp,32.9723128,-94.9852858,Busy and bustling,,FALSE,FALSE,FALSE,2
+1887,Bavdhan,18.5209541,73.7780873,Peaceful and green,,FALSE,TRUE,TRUE,5
+1888,Pashan,18.5386704,73.7952542,Safe and quiet,,FALSE,FALSE,TRUE,4
+1889,Viman Nagar,17.4467567,78.4838203,Developing area,,FALSE,TRUE,FALSE,2
+1890,Bavdhan,18.5209541,73.7780873,Well-connected,,FALSE,TRUE,FALSE,1
+1891,Hadapsar,18.5007741,73.9379146,Developing area,,TRUE,FALSE,TRUE,4
+1892,Bavdhan,18.5209541,73.7780873,Good residential area,,TRUE,FALSE,FALSE,4
+1893,Yerawada,18.5656319,73.8865762,Good residential area,,TRUE,FALSE,FALSE,3
+1894,Kothrud,18.5038889,73.807673,Good residential area,,TRUE,TRUE,FALSE,1
+1895,Magarpatta,18.5111545,73.92738227,Good residential area,,TRUE,FALSE,TRUE,2
+1896,Shivaji Nagar,25.88455445,86.03985031,Well-connected,,TRUE,TRUE,FALSE,4
+1897,Kothrud,18.5038889,73.807673,Busy and bustling,,TRUE,FALSE,TRUE,3
+1898,Dhankawadi,18.4652208,73.8495579,Tech hub with good facilities,,FALSE,FALSE,TRUE,1
+1899,Hinjewadi,18.5921787,73.68411587,Safe and quiet,,TRUE,FALSE,TRUE,5
+1900,Bibwewadi,18.47441565,73.86044434,Peaceful and green,,FALSE,FALSE,TRUE,4
+1901,Kharadi,18.5512763,73.9416575,Well-connected,,TRUE,TRUE,FALSE,4
+1902,Koregaon Park,18.53662255,73.89327379,Good residential area,,FALSE,TRUE,FALSE,1
+1903,Swargate,18.50049485,73.85290371,Great place with lots of amenities,,FALSE,TRUE,TRUE,1
+1904,Hadapsar,18.5007741,73.9379146,Family-friendly,,TRUE,TRUE,TRUE,1
+1905,Bavdhan,18.5209541,73.7780873,Tech hub with good facilities,,TRUE,TRUE,FALSE,1
+1906,Baner,18.5642431,73.7768573,Great place with lots of amenities,,TRUE,TRUE,FALSE,2
+1907,Swargate,18.50049485,73.85290371,Family-friendly,,TRUE,TRUE,TRUE,4
+1908,Aundh,18.5618834,73.8101957,Peaceful and green,,FALSE,FALSE,FALSE,1
+1909,Koregaon Park,18.53662255,73.89327379,Good residential area,,FALSE,TRUE,FALSE,5
+1910,Kothrud,18.5038889,73.807673,Safe and quiet,,FALSE,TRUE,FALSE,5
+1911,Deccan Gymkhana,18.5158926,73.84116,Family-friendly,,TRUE,TRUE,FALSE,3
+1912,Kharadi,18.5512763,73.9416575,Tech hub with good facilities,,TRUE,FALSE,FALSE,3
+1913,Koregaon Park,18.53662255,73.89327379,Well-connected,,TRUE,TRUE,FALSE,5
+1914,Kharadi,18.5512763,73.9416575,Well-connected,,TRUE,FALSE,FALSE,3
+1915,Yerawada,18.5656319,73.8865762,Vibrant and lively,,TRUE,FALSE,FALSE,5
+1916,Wakad,18.6022495,73.7644454,Developing area,,FALSE,FALSE,TRUE,4
+1917,Kharadi,18.5512763,73.9416575,Safe and quiet,,TRUE,TRUE,FALSE,5
+1918,Wakad,18.6022495,73.7644454,Well-connected,,TRUE,FALSE,TRUE,5
+1919,Hinjewadi,18.5921787,73.68411587,Tech hub with good facilities,,FALSE,FALSE,FALSE,3
+1920,Pimple Saudagar,18.5981553,73.7977661,Good residential area,,FALSE,TRUE,TRUE,5
+1921,Kharadi,18.5512763,73.9416575,Tech hub with good facilities,,TRUE,TRUE,FALSE,5
+1922,Yerawada,18.5656319,73.8865762,Busy and bustling,,FALSE,FALSE,FALSE,5
+1923,Shivaji Nagar,25.88455445,86.03985031,Peaceful and green,,FALSE,FALSE,TRUE,3
+1924,Camp,32.9723128,-94.9852858,Busy and bustling,,FALSE,FALSE,FALSE,2
+1925,Pimple Saudagar,18.5981553,73.7977661,Vibrant and lively,,TRUE,TRUE,TRUE,2
+1926,Magarpatta,18.5111545,73.92738227,Safe and quiet,,FALSE,FALSE,TRUE,2
+1927,Hadapsar,18.5007741,73.9379146,Safe and quiet,,FALSE,TRUE,FALSE,1
+1928,Kothrud,18.5038889,73.807673,Family-friendly,,FALSE,TRUE,TRUE,3
+1929,Hadapsar,18.5007741,73.9379146,Busy and bustling,,TRUE,TRUE,FALSE,5
+1930,Swargate,18.50049485,73.85290371,Busy and bustling,,TRUE,TRUE,FALSE,4
+1931,Shivaji Nagar,25.88455445,86.03985031,Vibrant and lively,,TRUE,TRUE,TRUE,2
+1932,Shivaji Nagar,25.88455445,86.03985031,Peaceful and green,,FALSE,FALSE,FALSE,4
+1933,Yerawada,18.5656319,73.8865762,Safe and quiet,,FALSE,FALSE,FALSE,2
+1934,Bibwewadi,18.47441565,73.86044434,Developing area,,TRUE,FALSE,FALSE,2
+1935,Koregaon Park,18.53662255,73.89327379,Great place with lots of amenities,,TRUE,TRUE,TRUE,3
+1936,Aundh,18.5618834,73.8101957,Family-friendly,,TRUE,TRUE,FALSE,4
+1937,Wakad,18.6022495,73.7644454,Great place with lots of amenities,,TRUE,FALSE,FALSE,1
+1938,Hadapsar,18.5007741,73.9379146,Well-connected,,FALSE,FALSE,FALSE,1
+1939,Deccan Gymkhana,18.5158926,73.84116,Good residential area,,FALSE,TRUE,TRUE,2
+1940,Shivaji Nagar,25.88455445,86.03985031,Safe and quiet,,TRUE,TRUE,FALSE,2
+1941,Bibwewadi,18.47441565,73.86044434,Good residential area,,TRUE,FALSE,FALSE,2
+1942,Pimple Saudagar,18.5981553,73.7977661,Family-friendly,,TRUE,TRUE,FALSE,1
+1943,Kothrud,18.5038889,73.807673,Tech hub with good facilities,,FALSE,TRUE,FALSE,2
+1944,Pimple Saudagar,18.5981553,73.7977661,Peaceful and green,,TRUE,TRUE,TRUE,2
+1945,Swargate,18.50049485,73.85290371,Tech hub with good facilities,,TRUE,FALSE,FALSE,5
+1946,Wakad,18.6022495,73.7644454,Peaceful and green,,TRUE,FALSE,FALSE,1
+1947,Camp,32.9723128,-94.9852858,Tech hub with good facilities,,FALSE,TRUE,TRUE,5
+1948,Pashan,18.5386704,73.7952542,Developing area,,TRUE,TRUE,TRUE,2
+1949,Bavdhan,18.5209541,73.7780873,Tech hub with good facilities,,TRUE,FALSE,FALSE,5
+1950,Viman Nagar,17.4467567,78.4838203,Busy and bustling,,FALSE,TRUE,TRUE,2
+1951,Hinjewadi,18.5921787,73.68411587,Family-friendly,,TRUE,FALSE,TRUE,4
+1952,Koregaon Park,18.53662255,73.89327379,Tech hub with good facilities,,TRUE,FALSE,TRUE,4
+1953,Hinjewadi,18.5921787,73.68411587,Peaceful and green,,FALSE,FALSE,FALSE,5
+1954,Pimple Saudagar,18.5981553,73.7977661,Family-friendly,,TRUE,FALSE,FALSE,4
+1955,Dhankawadi,18.4652208,73.8495579,Vibrant and lively,,TRUE,TRUE,FALSE,1
+1956,Pimple Saudagar,18.5981553,73.7977661,Busy and bustling,,FALSE,TRUE,TRUE,3
+1957,Deccan Gymkhana,18.5158926,73.84116,Well-connected,,TRUE,FALSE,FALSE,1
+1958,Viman Nagar,17.4467567,78.4838203,Developing area,,FALSE,TRUE,FALSE,2
+1959,Camp,32.9723128,-94.9852858,Tech hub with good facilities,,FALSE,TRUE,FALSE,3
+1960,Kothrud,18.5038889,73.807673,Good residential area,,FALSE,TRUE,FALSE,3
+1961,Aundh,18.5618834,73.8101957,Great place with lots of amenities,,FALSE,FALSE,TRUE,3
+1962,Bibwewadi,18.47441565,73.86044434,Great place with lots of amenities,,TRUE,TRUE,TRUE,5
+1963,Dhankawadi,18.4652208,73.8495579,Well-connected,,TRUE,TRUE,FALSE,3
+1964,Pimple Saudagar,18.5981553,73.7977661,Great place with lots of amenities,,FALSE,FALSE,FALSE,3
+1965,Viman Nagar,17.4467567,78.4838203,Vibrant and lively,,FALSE,FALSE,TRUE,2
+1966,Shivaji Nagar,25.88455445,86.03985031,Vibrant and lively,,FALSE,TRUE,TRUE,1
+1967,Kharadi,18.5512763,73.9416575,Tech hub with good facilities,,TRUE,TRUE,TRUE,2
+1968,Shivaji Nagar,25.88455445,86.03985031,Peaceful and green,,FALSE,FALSE,FALSE,5
+1969,Bavdhan,18.5209541,73.7780873,Vibrant and lively,,TRUE,TRUE,TRUE,3
+1970,Magarpatta,18.5111545,73.92738227,Family-friendly,,TRUE,TRUE,TRUE,1
+1971,Dhankawadi,18.4652208,73.8495579,Good residential area,,FALSE,TRUE,FALSE,1
+1972,Shivaji Nagar,25.88455445,86.03985031,Developing area,,TRUE,FALSE,FALSE,2
+1973,Pashan,18.5386704,73.7952542,Safe and quiet,,FALSE,TRUE,TRUE,2
+1974,Bavdhan,18.5209541,73.7780873,Family-friendly,,TRUE,TRUE,FALSE,4
+1975,Pashan,18.5386704,73.7952542,Tech hub with good facilities,,TRUE,FALSE,FALSE,5
+1976,Hinjewadi,18.5921787,73.68411587,Family-friendly,,FALSE,FALSE,TRUE,4
+1977,Pimple Saudagar,18.5981553,73.7977661,Great place with lots of amenities,,TRUE,FALSE,TRUE,2
+1978,Aundh,18.5618834,73.8101957,Vibrant and lively,,TRUE,FALSE,TRUE,2
+1979,Kothrud,18.5038889,73.807673,Great place with lots of amenities,,TRUE,TRUE,FALSE,3
+1980,Shivaji Nagar,25.88455445,86.03985031,Great place with lots of amenities,,FALSE,FALSE,TRUE,5
+1981,Bibwewadi,18.47441565,73.86044434,Well-connected,,TRUE,FALSE,FALSE,2
+1982,Aundh,18.5618834,73.8101957,Busy and bustling,,TRUE,TRUE,TRUE,5
+1983,Kothrud,18.5038889,73.807673,Great place with lots of amenities,,TRUE,TRUE,TRUE,4
+1984,Koregaon Park,18.53662255,73.89327379,Great place with lots of amenities,,FALSE,TRUE,FALSE,4
+1985,Deccan Gymkhana,18.5158926,73.84116,Tech hub with good facilities,,TRUE,FALSE,FALSE,3
+1986,Pimple Saudagar,18.5981553,73.7977661,Peaceful and green,,TRUE,FALSE,TRUE,5
+1987,Aundh,18.5618834,73.8101957,Busy and bustling,,FALSE,FALSE,TRUE,2
+1988,Pashan,18.5386704,73.7952542,Peaceful and green,,TRUE,FALSE,FALSE,1
+1989,Wakad,18.6022495,73.7644454,Great place with lots of amenities,,TRUE,FALSE,TRUE,2
+1990,Kothrud,18.5038889,73.807673,Good residential area,,FALSE,FALSE,TRUE,2
+1991,Bavdhan,18.5209541,73.7780873,Good residential area,,FALSE,TRUE,TRUE,3
+1992,Kothrud,18.5038889,73.807673,Peaceful and green,,FALSE,TRUE,TRUE,1
+1993,Aundh,18.5618834,73.8101957,Safe and quiet,,TRUE,TRUE,TRUE,3
+1994,Hadapsar,18.5007741,73.9379146,Safe and quiet,,FALSE,TRUE,TRUE,3
+1995,Viman Nagar,17.4467567,78.4838203,Great place with lots of amenities,,FALSE,FALSE,TRUE,2
+1996,Bavdhan,18.5209541,73.7780873,Developing area,,TRUE,TRUE,TRUE,5
+1997,Kharadi,18.5512763,73.9416575,Busy and bustling,,FALSE,FALSE,TRUE,3
+1998,Viman Nagar,17.4467567,78.4838203,Vibrant and lively,,FALSE,FALSE,TRUE,5
+1999,Yerawada,18.5656319,73.8865762,Busy and bustling,,TRUE,FALSE,TRUE,2
+2000,Magarpatta,18.5111545,73.92738227,Busy and bustling,,FALSE,TRUE,TRUE,3

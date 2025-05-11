@@ -1,0 +1,57 @@
+{
+  "expo": {
+    "name": "PSA",
+    "slug": "PSA",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/psalogo.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/psalogo.png",
+        "backgroundColor": "yellow",
+        "config": {
+          "googleMaps":{
+            "apiKey": "AIzaSyD5yoBLCIgB99jOV_7oXuEv3DoywX9PeXc"
+          }
+        },
+        "permissions": ["ACCESS_FINE_LOCATION", "ACCESS_COARSE_LOCATION"]
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/psalogo.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/psalogo.png",
+          "imageWidth": 350,
+          "resizeMode": "contain",
+          "borderRadius": 50,
+          "backgroundColor": "transparent"
+        }     
+
+      ],
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow to use your location"
+        }
+      ]
+
+    ],
+  
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
